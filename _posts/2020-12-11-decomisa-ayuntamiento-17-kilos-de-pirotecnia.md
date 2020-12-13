@@ -1,13 +1,14 @@
 ﻿---
 layout: blog
-title:  “Decomisa ayuntamiento 17 kilos de pirotecnia"
+title:  "Decomisa ayuntamiento 17 kilos de pirotecnia"
 date:   2020-12-11
 categories: tijuana
 permalink: /:categories/:title:output_ext
-image: /img/cnr/
-alt: 
+image: /img/cnr/decomisa-ayuntamiento-17-kilos-de-pirotecnia.jpeg
+alt: "Decomisa ayuntamiento 17 kilos de pirotecnia"
 autor: 
- 
+--- 
+
 **Tijuana, Baja California; Viernes 11 de diciembre del 2020.**
 
 
@@ -24,3 +25,11 @@ Del mismo modo, se han detectado personas comercializando perros en las inmediac
 
 
 La actual administración recuerda a comerciantes y población en general, que la venta de pirotecnia está prohibida, se hace llamado a no adquirir o comercializar dichos artículos; así como la venta ilegal de mascotas, ya que existen severas sanciones para ello, evitando dichas acciones colaboramos, hoy todos por Tijuana, en la procuración del orden en los comercios y la seguridad de la ciudad.
+
+<div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+       <img class="d-block w-100" src="/img/cnr/decomisa-ayuntamiento-17-kilos-de-pirotecnia.jpeg" loading="lazy"  alt="Decomisa ayuntamiento 17 kilos de pirotecnia">
+    </div>
+  </div>
+</div>

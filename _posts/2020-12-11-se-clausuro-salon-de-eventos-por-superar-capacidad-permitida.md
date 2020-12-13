@@ -1,13 +1,14 @@
 ﻿---
 layout: blog
-title:  “Se clausuró salon de eventos por superar capacidad permitida"
+title:  "Se clausuró salon de eventos por superar capacidad permitida"
 date:   2020-12-11
 categories: tijuana
 permalink: /:categories/:title:output_ext
-image: /img/cnr/
-alt: 
+image: /img/cnr/se-clausuro-salon-de-eventos.jpeg
+alt: "Se clausuró salon de eventos por superar capacidad permitida"
 autor: 
- 
+--- 
+
 **Tijuana, Baja California; Viernes 11 de diciembre del 2020.**
 
 
@@ -24,3 +25,11 @@ Ambos comercios, cuentan con cinco días hábiles para presentar la documentaci�
 
 
 Cabe destacar, que se han efectuado tres clausuras  a comercios establecidos por contar con más clientes de lo permitido, por lo que el Gobierno Local hace un llamado a los comerciantes a trabajar apegados al reglamento, sobre todo durante la pandemia, pues se requiere sumar esfuerzos hoy todos por Tijuana, con el objetivo de privilegiar la salud de los ciudadanos.
+
+<div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+       <img class="d-block w-100" src="/img/cnr/se-clausuro-salon-de-eventos.jpeg" loading="lazy"  alt="Se clausuró salon de eventos por superar capacidad permitida">
+    </div>
+  </div>
+</div>

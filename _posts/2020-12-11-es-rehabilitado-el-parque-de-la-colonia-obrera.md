@@ -1,13 +1,14 @@
 ﻿---
 layout: blog
-title:  “Es rehabilitado el parque de la colonia obrera"
+title:  "Es rehabilitado el parque de la colonia obrera"
 date:   2020-12-11
 categories: tijuana
 permalink: /:categories/:title:output_ext
-image: /img/cnr/
-alt: 
+image: /img/cnr/es-rehabilitado-el-parque-obrera.jpeg
+alt: "Es rehabilitado el parque de la colonia obrera"
 autor: 
- 
+--- 
+
 **Tijuana, Baja California; Viernes 11 de diciembre del 2020.**
 
 
@@ -24,3 +25,11 @@ González Cruz detalló que en el parque también se trabaja en la limpieza de l
 
 
 El Gobierno Municipal continúa trabajando en la recuperación de parques públicos en las nueve delegaciones, procurando que haya espacios dignos y seguros, que promuevan el deporte, la sana recreación y convivencia familiar, juntos hoy todos por Tijuana, para mejorar la calidad de vida y el bienestar de la población.
+
+<div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+       <img class="d-block w-100" src="/img/cnr/es-rehabilitado-el-parque-obrera.jpeg" loading="lazy"  alt="Es rehabilitado el parque de la colonia obrera">
+    </div>
+  </div>
+</div>

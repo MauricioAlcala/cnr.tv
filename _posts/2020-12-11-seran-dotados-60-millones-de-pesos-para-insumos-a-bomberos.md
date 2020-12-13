@@ -1,13 +1,14 @@
 ﻿---
 layout: blog
-title:  “Serán dotados 60 millones de pesos para insumos a bomberos"
+title:  "Serán dotados 60 millones de pesos para insumos a bomberos"
 date:   2020-12-11
 categories: tijuana
 permalink: /:categories/:title:output_ext
-image: /img/cnr/
-alt: 
+image: /img/cnr/seran-dotados-60-millones-de-pesos.jpeg
+alt: "Serán dotados 60 millones de pesos para insumos a bomberos"
 autor: 
- 
+--- 
+
 **Tijuana, Baja California; Viernes 11 de diciembre del 2020.**
 
 
@@ -27,3 +28,11 @@ Otra de las demandas de los rescatistas fue la construcción de una nueva estaci
 
 
 El mandatario local reitera el compromiso de apoyar en todas las necesidades de los cuerpos de emergencia de la ciudad, al dotarlos de insumos y material que fortalezca las labores de rescate y asistencia a la población, siempre velando por el bienestar de los tijuanenses.
+
+<div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+       <img class="d-block w-100" src="/img/cnr/seran-dotados-60-millones-de-pesos.jpeg" loading="lazy"  alt="Serán dotados 60 millones de pesos para insumos a bomberos">
+    </div>
+  </div>
+</div>

@@ -4,10 +4,11 @@ title:  "Cumplira el gobierno de BC con el pago de aguinaldo a profesores del Es
 date:   2020-12-11
 categories: tijuana
 permalink: /:categories/:title:output_ext
-image: /img/cnr/
-alt: 
+image: /img/cnr/cumplira-el-gobierno-de-bc-con-el-aguinaldo.jpg
+alt: "Cumplira el gobierno de BC con el pago de aguinaldo a profesores del Estado"
 autor: 
- 
+--- 
+
 **Tijuana, Baja California; Viernes 11 de diciembre del 2020.**
 
 
@@ -24,3 +25,11 @@ Como se recordará, el Secretario de Hacienda, Rodolfo Castro Valdez informó, e
 
 
 Mientras que, en el pago del aguinaldo a docentes, dijo que está planteado entre el 18 y 22 de diciembre a través de cheque o transferencia bancaria, en tanto, se está en espera de la llegada de recursos federales a la entidad.
+
+<div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+       <img class="d-block w-100" src="/img/cnr/cumplira-el-gobierno-de-bc-con-el-aguinaldo.jpg" loading="lazy"  alt="Cumplira el gobierno de BC con el pago de aguinaldo a profesores del Estado">
+    </div>
+  </div>
+</div>

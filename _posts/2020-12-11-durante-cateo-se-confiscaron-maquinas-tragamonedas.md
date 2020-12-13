@@ -4,10 +4,11 @@ title:  "Durante cateo se confiscaron máquinas tragamonedas"
 date:   2020-12-11
 categories: tijuana
 permalink: /:categories/:title:output_ext
-image: /img/cnr/
-alt: 
+image: /img/cnr/durante-cateo-de-confiscan.jpeg
+alt: "Durante cateo se confiscaron máquinas tragamonedas"
 autor: 
- 
+--- 
+
 **Tijuana, Baja California; Viernes 11 de diciembre del 2020.**
 
 
@@ -42,3 +43,11 @@ Abundó que este tema fue abordado en la Mesa de Seguridad, y que incluso el Fis
 
 
 Finalmente, añadió que el Instituto Nacional de Migración (INM) reportó a 87 personas en el Centro Integrador para el Migrante en Tijuana “Carmen Serdán”, donde la Secretaría de Salud, hace una valoración física rutinaria para constatar que se cumpla con el protocolo en la materia, no se ha registrado algún caso positivo o sospechoso de COVID-19.
+
+<div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+       <img class="d-block w-100" src="/img/cnr/durante-cateo-de-confiscan.jpeg" loading="lazy"  alt="Durante cateo se confiscaron máquinas tragamonedas">
+    </div>
+  </div>
+</div>

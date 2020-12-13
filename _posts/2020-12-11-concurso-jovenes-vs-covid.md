@@ -1,13 +1,14 @@
 ﻿---
 layout: blog
-title:  “Concurso “Jovenes vs Covid” "
+title:  "Concurso “Jovenes vs Covid”"
 date:   2020-12-11
 categories: tijuana
 permalink: /:categories/:title:output_ext
-image: /img/cnr/
-alt: 
+image: /img/cnr/concurso-jovenes-v-covid.jpeg
+alt: "Concurso “Jovenes vs Covid”"
 autor: 
- 
+--- 
+
 **Tijuana, Baja California; Viernes 11 de diciembre del 2020.**
 
 
@@ -31,7 +32,7 @@ El Gobierno Municipal sigue impulsando políticas públicas que difundan el arte
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-       <img class="d-block w-100" src="/img/cnr/una-persona-armada.jpg" loading="lazy"  alt="Patrulla de policia que acudio">
+       <img class="d-block w-100" src="/img/cnr/concurso-jovenes-v-covid.jpeg" loading="lazy"  alt="Concurso “Jovenes vs Covid”">
     </div>
   </div>
 </div>
