@@ -805,6 +805,10 @@ button.btn:hover {
     color: #ffffff;
 }
 
+.single-news .sn-content a {
+    color: #ffffff;
+}
+
 .single-news .sn-content h4 {
     color: #ffffff;
 }
@@ -866,7 +870,7 @@ button.btn:hover {
 }
 
 .single-news .sn-slider .sn-title a:hover {
-    color: #FF6F61;
+    color: #ffffff;
 }
 
 .single-news .sn-slider .slick-prev,
