@@ -29,7 +29,7 @@ Con el compromiso de trabajar hoy todos por Tijuana, se siguen impulsando obras 
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-       <img class="d-block w-100" src="/img/cnr/2020-12-15-construccion-de.jpeg" loading="lazy"  alt=""Construccion de techumbre en Colonia Pinos Agüero">
+       <img class="d-block w-100" src="/img/cnr/2020-12-15-construccion-de.jpeg" loading="lazy"  alt="Construccion de techumbre en Colonia Pinos Agüero">
     </div>
   </div>
 </div>
