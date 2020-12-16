@@ -4,7 +4,7 @@ title:  "Prohibida la venta de fuegos artificiales"
 date:   2020-12-15
 categories: mexicali
 permalink: /:categories/:title:output_ext
-image: /img/cnr/2020-12-15-prohibida-la-venta.jpeg
+image: /img/cnr/2020-12-15-prohibida-la-venta.png
 alt: "Prohibida la venta de fuegos artificiales"
 autor: 
 ---
@@ -20,7 +20,7 @@ Dio a conocer que tienen preparado un operativo donde estarán atendiendo los ll
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-       <img class="d-block w-100" src="/img/cnr/2020-12-15-prohibida-la-venta.jpeg" loading="lazy"  alt="Prohibida la venta de fuegos artificiales">
+       <img class="d-block w-100" src="/img/cnr/2020-12-15-prohibida-la-venta.png" loading="lazy"  alt="Prohibida la venta de fuegos artificiales">
     </div>
   </div>
 </div>
