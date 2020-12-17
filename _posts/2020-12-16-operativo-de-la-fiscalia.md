@@ -4,7 +4,7 @@ title:  "Operativo de la fiscalia"
 date:   2020-12-16
 categories: tecate
 permalink: /:categories/:title:output_ext
-image: /img/cnr/2020-12-16-operativo.png
+image: /img/cnr/2020-12-16-operativo.PNG
 alt: "Operativo de la fiscalia"
 autor: 
 ---
@@ -20,7 +20,7 @@ Al momento se desconoce mayor información sobre este operativo, sin embargo el 
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-       <img class="d-block w-100" src="/img/cnr/2020-12-16-operativo.png" loading="lazy"  alt="Operativo de la fiscalia">
+       <img class="d-block w-100" src="/img/cnr/2020-12-16-operativo.PNG" loading="lazy"  alt="Operativo de la fiscalia">
     </div>
   </div>
 </div>

@@ -4,7 +4,7 @@ title:  "CESPETE continúa limpieza en Río de Tecate"
 date:   2020-12-16
 categories: tecate
 permalink: /:categories/:title:output_ext
-image: /img/cnr/2020-12-16-cespete.png
+image: /img/cnr/2020-12-16-cespete.PNG
 alt: "CESPETE continúa limpieza en Río de Tecate"
 autor: 
 ---
@@ -20,7 +20,7 @@ Posteriormente se le recomienda a la población de Tecate a no tirar basura dent
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-       <img class="d-block w-100" src="/img/cnr/2020-12-16-cespete.png" loading="lazy"  alt="CESPETE continúa limpieza en Río de Tecate">
+       <img class="d-block w-100" src="/img/cnr/2020-12-16-cespete.PNG" loading="lazy"  alt="CESPETE continúa limpieza en Río de Tecate">
     </div>
   </div>
 </div>
