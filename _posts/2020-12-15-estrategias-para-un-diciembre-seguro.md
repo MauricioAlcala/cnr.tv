@@ -4,7 +4,7 @@ title:  "Estrategias para un diciembre seguro"
 date:   2020-12-14
 categories: mexicali
 permalink: /:categories/:title:output_ext
-image: /img/cnr/2020-12-15-estrategias-para-navidad.jpeg
+image: /img/cnr/2020-12-15-estrategias-para-navidad.png
 alt: "Estrategias para un diciembre seguro"
 autor: 
 ---
@@ -20,7 +20,7 @@ Aseguró la alcaldesa de Mexicali, Marina del Pilar Ávila Olmeda que se estará
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-       <img class="d-block w-100" src="/img/cnr/2020-12-15-estrategias-para-navidad.jpeg" loading="lazy"  alt="Estrategias para un diciembre seguro">
+       <img class="d-block w-100" src="/img/cnr/2020-12-15-estrategias-para-navidad.png" loading="lazy"  alt="Estrategias para un diciembre seguro">
     </div>
   </div>
 </div>
