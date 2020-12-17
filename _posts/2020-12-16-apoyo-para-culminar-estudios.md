@@ -2,7 +2,7 @@
 layout: blog
 title:  "Apoyo para culminar estudios"
 date:   2020-12-16
-categories: playas de rosarito
+categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2020-12-16-apoyo-para-culminar.jpeg
 alt: "Apoyo para culminar estudios"

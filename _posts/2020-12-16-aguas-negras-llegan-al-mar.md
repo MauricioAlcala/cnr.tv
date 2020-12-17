@@ -2,7 +2,7 @@
 layout: blog
 title:  "Aguas negras llegan al mar"
 date:   2020-12-16
-categories: playas de rosarito
+categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2020-12-16-aguas-negras.png
 alt: "Aguas negras llegan al mar"

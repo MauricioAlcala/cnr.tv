@@ -2,7 +2,7 @@
 layout: blog
 title:  "Arbol ocasiona daños a banqueta"
 date:   2020-12-16
-categories: playas de rosarito
+categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2020-12-16-arbol-ocasiona.png
 alt: "Arbol ocasiona daños a banqueta"

@@ -2,7 +2,7 @@
 layout: blog
 title:  "Barandal a punto de caer"
 date:   2020-12-16
-categories: playas de rosarito
+categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2020-12-16-barandal-a-punto.png
 alt: "Barandal a punto de caer"

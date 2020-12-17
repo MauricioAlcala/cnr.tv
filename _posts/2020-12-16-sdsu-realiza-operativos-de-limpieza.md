@@ -2,7 +2,7 @@
 layout: blog
 title:  "SDSU realiza operativos de limpieza"
 date:   2020-12-16
-categories: playas de rosarito
+categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2020-12-16-sdsu-realiza.png
 alt: "SDSU realiza operativos de limpieza"

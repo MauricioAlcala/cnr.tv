@@ -2,7 +2,7 @@
 layout: blog
 title:  "Cierre nocturno de las playas"
 date:   2020-12-16
-categories: playas de rosarito
+categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2020-12-16-cierre-nocturno.jpeg
 alt: "Cierre nocturno de las playas"

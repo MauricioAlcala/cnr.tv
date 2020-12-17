@@ -2,7 +2,7 @@
 layout: blog
 title:  "Rehabilitación de tramo en bulevar Benito Juárez"
 date:   2020-12-16
-categories: playas de rosarito
+categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2020-12-16-rehabilitacion-de-tramo.jpeg
 alt: "Rehabilitación de tramo en bulevar Benito Juárez"

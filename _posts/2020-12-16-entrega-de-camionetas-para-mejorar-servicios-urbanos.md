@@ -2,7 +2,7 @@
 layout: blog
 title:  "Entrega de camionetas para mejorar servicios urbanos"
 date:   2020-12-16
-categories: playas de rosarito
+categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2020-12-16-entrega-de-camionetas.jpeg
 alt: "Entrega de camionetas para mejorar servicios urbanos"
