@@ -2,7 +2,7 @@
 layout: blog
 title:  "Aún sin respetar señales de tránsito"
 date:   2020-12-18
-categories: playas de rosarito
+categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2020-12-18-aun-sin-respetar.png
 alt: "Aún sin respetar señales de tránsito"

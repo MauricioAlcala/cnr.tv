@@ -2,7 +2,7 @@
 layout: blog
 title:  "Brigadas de voluntarias limpian planteles educativos"
 date:   2020-12-18
-categories: playas de rosarito
+categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2020-12-18-brigadas-de-voluntaras.png
 alt: "Brigadas de voluntarias limpian planteles educativos"

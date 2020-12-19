@@ -2,7 +2,7 @@
 layout: blog
 title:  "IMJUVER promueve programa juventud emprendedora"
 date:   2020-12-18
-categories: playas de rosarito
+categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2020-12-18-imjuver.jpeg
 alt: "IMJUVER promueve programa juventud emprendedora"

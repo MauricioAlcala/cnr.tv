@@ -2,7 +2,7 @@
 layout: blog
 title:  "Largas filas a las afueras de los bancos"
 date:   2020-12-18
-categories: playas de rosarito
+categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2020-12-18-largas-filas.png
 alt: "Largas filas a las afueras de los bancos"

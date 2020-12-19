@@ -2,7 +2,7 @@
 layout: blog
 title:  "Re encarpetado reduce camellón"
 date:   2020-12-18
-categories: playas de rosarito
+categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2020-12-1re-encarpetado.png
 alt: "Re encarpetado reduce camellón"

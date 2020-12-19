@@ -2,7 +2,7 @@
 layout: blog
 title:  "Convocatoria para inspector honorario de control animal"
 date:   2020-12-18
-categories: playas de rosarito
+categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2020-12-18-convocatoria.jpeg
 alt: "Convocatoria para inspector honorario de control animal"

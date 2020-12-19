@@ -2,7 +2,7 @@
 layout: blog
 title:  "Bache dificulta tránsito de ambulancias"
 date:   2020-12-18
-categories: playas de rosarito
+categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2020-12-18-bache-dificulta.png
 alt: "Bache dificulta tránsito de ambulancias"

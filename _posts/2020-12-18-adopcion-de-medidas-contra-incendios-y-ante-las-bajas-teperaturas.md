@@ -2,7 +2,7 @@
 layout: blog
 title:  "Adopción de medidas contra incendios y ante las bajas temperaturas"
 date:   2020-12-18
-categories: playas de rosarito
+categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2020-12-18-adopcion-de.jpeg
 alt: "Adopción de medidas contra incendios y ante las bajas temperaturas"
