@@ -4,7 +4,7 @@ title:  "Fuerte choque en Rosarito zona centro"
 date:   2020-12-21
 categories: rosarito
 permalink: /:categories/:title:output_ext
-image: /img/logos/2020-12-21-fuerte-choque.png
+image: /img/cnr/2020-12-21-fuerte-choque.png
 alt: "Fuerte choque en Rosarito zona centro"
 autor: 
 ---

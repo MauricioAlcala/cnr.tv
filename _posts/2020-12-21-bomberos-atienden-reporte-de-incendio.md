@@ -4,7 +4,7 @@ title:  "Bomberos atienden reporte de incendio"
 date:   2020-12-21
 categories: rosarito
 permalink: /:categories/:title:output_ext
-image: /img/logos/2020-12-21-bomberos-atienden.png
+image: /img/cnr/2020-12-21-bomberos-atienden.png
 alt: "Bomberos atienden reporte de incendio"
 autor: 
 ---

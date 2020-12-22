@@ -4,7 +4,7 @@ title:  "Le niegan atención médica y muere dentro de su vehículo"
 date:   2020-12-21
 categories: rosarito
 permalink: /:categories/:title:output_ext
-image: /img/logos/2020-12-21-le-niegan.jpeg
+image: /img/cnr/2020-12-21-le-niegan.jpeg
 alt: "Le niegan atención médica y muere dentro de su vehículo"
 autor: 
 ---

@@ -4,7 +4,7 @@ title:  "Instalan tuberías de drenaje"
 date:   2020-12-21
 categories: rosarito
 permalink: /:categories/:title:output_ext
-image: /img/logos/2020-12-21-instalan-tuberias-de-drenaje.png
+image: /img/cnr/2020-12-21-instalan-tuberias-de-drenaje.png
 alt: "Instalan tuberías de drenaje"
 autor: 
 ---

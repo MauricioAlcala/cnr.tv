@@ -4,7 +4,7 @@ title:  "Cementerio de unidades oficiales"
 date:   2020-12-21
 categories: rosarito
 permalink: /:categories/:title:output_ext
-image: /img/logos/2020-12-21-cementerio.png
+image: /img/cnr/2020-12-21-cementerio.png
 alt: "Cementerio de unidades oficiales"
 autor: 
 ---

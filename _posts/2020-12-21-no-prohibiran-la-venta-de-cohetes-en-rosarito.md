@@ -4,7 +4,7 @@ title:  "No prohibirán la venta de cohetes en Rosarito"
 date:   2020-12-21
 categories: rosarito
 permalink: /:categories/:title:output_ext
-image: /img/logos/2020-12-21-no-prohibiran.png
+image: /img/cnr/2020-12-21-no-prohibiran.png
 alt: "No prohibirán la venta de cohetes en Rosarito"
 autor: 
 ---

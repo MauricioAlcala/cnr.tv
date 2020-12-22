@@ -4,7 +4,7 @@ title:  "Campaña de vacunación contra la influenza"
 date:   2020-12-21
 categories: rosarito
 permalink: /:categories/:title:output_ext
-image: /img/logos/2020-12-21-campana-de.png
+image: /img/cnr/2020-12-21-campana-de.png
 alt: "Campaña de vacunación contra la influenza"
 autor: 
 ---
