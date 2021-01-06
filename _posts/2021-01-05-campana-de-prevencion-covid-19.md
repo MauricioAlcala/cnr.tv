@@ -4,7 +4,7 @@ title: “Campaña de prevención Covid-19 ”
 Date: 2021-01-05
 categories: rosarito
 permalink: /:categories/:title:output_ext
-image: /img/cnr/2021-01-05-campana-de-prevencion.PNG
+image: /img/cnr/2021-01-05-campana-de-prevencion.png
 alt: “ “
 autor:
 ---
@@ -18,7 +18,7 @@ En la explanada de las instalaciones del recaudacion de rentas del estado de baj
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-       <img class="d-block w-100" src="/img/cnr/2021-01-05-campana-de-prevencion.PNG" loading="lazy"  alt="">
+       <img class="d-block w-100" src="/img/cnr/2021-01-05-campana-de-prevencion.png" loading="lazy"  alt="">
     </div>
   </div>
 </div>

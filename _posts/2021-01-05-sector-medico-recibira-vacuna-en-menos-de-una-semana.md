@@ -4,7 +4,7 @@ title: "Sector médico recibira vacuna en menos de una semana"
 Date: 2021-01-05
 categories: mexicali
 permalink: /:categories/:title:output_ext
-image: /img/cnr/2021-01-05-sector-medico-recibira-vacuna-en-menos-de-una-semana.JPG
+image: /img/cnr/2021-01-05-sector-medico-recibira-vacuna-en-menos-de-una-semana.jpg
 alt: " "
 autor:
 ---
@@ -30,7 +30,7 @@ El funcionario también puntualizó: "Esta pandemia, en cuanto rompamos la tempo
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-       <img class="d-block w-100" src="/img/cnr/2021-01-05-sector-medico-recibira-vacuna-en-menos-de-una-semana.JPG" loading="lazy"  alt="">
+       <img class="d-block w-100" src="/img/cnr/2021-01-05-sector-medico-recibira-vacuna-en-menos-de-una-semana.jpg" loading="lazy"  alt="">
     </div>
   </div>
 </div>
