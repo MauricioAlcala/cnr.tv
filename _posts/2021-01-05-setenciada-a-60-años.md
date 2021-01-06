@@ -4,7 +4,7 @@ title: "Sentenciada a 60 años"
 Date: 2021-01-05
 categories: tijuana
 permalink: /:categories/:title:output_ext
-image: /img/cnr/2021-01-05-setenciada-a-60-anos.jpeg
+image: /img/cnr/2021-01-05-setenciada-a-60-anos.JPEG
 alt: "Sentenciada a 60 años"
 autor:
 ---
@@ -19,7 +19,7 @@ Pues se encontró como prueba unas cartas en las cuales la madre confesaba que e
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-       <img class="d-block w-100" src="/img/cnr/2021-01-05-setenciada-a-60-anos.jpeg" loading="lazy"  alt="Sentenciada a 60 años">
+       <img class="d-block w-100" src="/img/cnr/2021-01-05-setenciada-a-60-anos.JPEG" loading="lazy"  alt="Sentenciada a 60 años">
     </div>
   </div>
 </div>
