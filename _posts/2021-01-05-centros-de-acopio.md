@@ -2,7 +2,7 @@
 layout: blog
 title: “Centros de acopio ”
 Date: 2021-01-05
-categories: playas de rosarito
+categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-01-05-centro-de-acopio.PNG
 alt: “ “

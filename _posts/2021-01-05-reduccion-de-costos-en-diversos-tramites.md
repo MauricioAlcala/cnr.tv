@@ -2,7 +2,7 @@
 layout: blog
 title: “Reducción de costos en diversos trámites”
 Date: 2021-01-05
-categories: playas de rosarito
+categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-01-05-reduccion-de-costos.PNG
 alt: “ “

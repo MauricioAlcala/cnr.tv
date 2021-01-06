@@ -2,7 +2,7 @@
 layout: blog
 title: “Controversias en cuestiones de pagos”
 Date: 2021-01-05
-categories: playas de rosarito
+categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-01-05-controversias-en-cuestiones-de-pago.PNG
 alt: “ “

@@ -2,7 +2,7 @@
 layout: blog
 title: “Reparaciones en colonia Mazatlan”
 Date: 2021-01-05
-categories: playas de rosarito
+categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-01-05-reparaciones.PNG
 alt: “ “
