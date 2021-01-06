@@ -1,11 +1,11 @@
 ﻿---
 layout: blog
-title: “Atención a socavón en rosas magallón ”
+title: "Atención a socavón en rosas magallón"
 Date: 2021-01-04
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-01-04-atencion-a-socavon-en-rosas-magallon.jpeg
-alt: “ “
+alt: "Atención a socavón en rosas magallón"
 autor:
 ---
 
@@ -24,7 +24,7 @@ El Gobierno de la ciudad agradece la participación y confianza de los tijuanens
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-       <img class="d-block w-100" src="/img/cnr/2021-01-04-atencion-a-socavon-en-rosas-magallon.jpeg" loading="lazy"  alt="">
+       <img class="d-block w-100" src="/img/cnr/2021-01-04-atencion-a-socavon-en-rosas-magallon.jpeg" loading="lazy"  alt="Atención a socavón en rosas magallón">
     </div>
   </div>
 </div>

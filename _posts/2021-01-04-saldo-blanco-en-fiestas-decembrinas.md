@@ -1,11 +1,11 @@
 ﻿---
 layout: blog
-title: “Saldo blanco en fiestas decembrinas”
+title: "Saldo blanco en fiestas decembrinas"
 Date: 2021-01-04
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2020-01-04-saldo-blanco-en-fiestas-decembrinas.jpeg
-alt: “ “
+alt: "Saldo blanco en fiestas decembrinas"
 autor:
 ---
 
@@ -27,7 +27,7 @@ Reiteró el llamado del Gobierno Municipal, para que los ciudadanos respeten las
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-       <img class="d-block w-100" src="/img/cnr/2020-01-04-saldo-blanco-en-fiestas-decembrinas.jpeg" loading="lazy"  alt="">
+       <img class="d-block w-100" src="/img/cnr/2020-01-04-saldo-blanco-en-fiestas-decembrinas.jpeg" loading="lazy"  alt="Saldo blanco en fiestas decembrinas">
     </div>
   </div>
 </div>

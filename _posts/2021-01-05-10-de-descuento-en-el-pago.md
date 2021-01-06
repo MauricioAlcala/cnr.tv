@@ -1,11 +1,11 @@
 ﻿---
 layout: blog
-title: “10% de descuento en el pago”
+title: "10% de descuento en el pago"
 Date: 2021-01-05
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2020-01-04-descuentos-en-el-pago-del-predial.jpeg
-alt: “ “
+alt: "10% de descuento en el pago"
 autor:
 ---
 
@@ -18,7 +18,7 @@ Se invita a los residentes de playas de rosarito a que contribuyan con el pago d
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-       <img class="d-block w-100" src="/img/cnr/2020-01-04-descuentos-en-el-pago-del-predial.jpeg" loading="lazy"  alt="">
+       <img class="d-block w-100" src="/img/cnr/2020-01-04-descuentos-en-el-pago-del-predial.jpeg" loading="lazy"  alt="10% de descuento en el pago">
     </div>
   </div>
 </div>

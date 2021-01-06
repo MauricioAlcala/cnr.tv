@@ -1,11 +1,11 @@
 ﻿---
 layout: blog
-title: “Largas filas para pagar el predial”
+title: "Largas filas para pagar el predial"
 Date: 2021-01-05
 categories: tecate
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-01-05-largas-filas-para-pagar-el-predial.PNG
-alt: “ “
+alt: "Largas filas para pagar el predial"
 autor:
 ---
 
@@ -20,7 +20,7 @@ La mañana de este martes varias personas han estado haciendo largas filas debid
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-       <img class="d-block w-100" src="/img/cnr/2021-01-05-largas-filas-para-pagar-el-predial.PNG" loading="lazy"  alt="">
+       <img class="d-block w-100" src="/img/cnr/2021-01-05-largas-filas-para-pagar-el-predial.png" loading="lazy"  alt="Largas filas para pagar el predial">
     </div>
   </div>
 </div>

@@ -1,11 +1,11 @@
 ﻿---
 layout: blog
-title: “Reducción de costos en diversos trámites”
+title: "Reducción de costos en diversos trámites"
 Date: 2021-01-05
 categories: rosarito
 permalink: /:categories/:title:output_ext
-image: /img/cnr/2021-01-05-reduccion-de-costos.PNG
-alt: “ “
+image: /img/cnr/2021-01-05-reduccion-de-costos.png
+alt: "Reducción de costos en diversos trámites"
 autor:
 ---
 
@@ -18,7 +18,7 @@ El octavo ayuntamiento de playas de rosarito, en este ejercicio fiscal 2021 en a
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-       <img class="d-block w-100" src="/img/cnr/2021-01-05-reduccion-de-costos.PNG" loading="lazy"  alt="">
+       <img class="d-block w-100" src="/img/cnr/2021-01-05-reduccion-de-costos.png" loading="lazy"  alt="Reducción de costos en diversos trámites">
     </div>
   </div>
 </div>

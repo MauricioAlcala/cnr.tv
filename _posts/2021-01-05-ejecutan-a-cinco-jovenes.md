@@ -1,11 +1,11 @@
 ﻿---
 layout: blog
-title: “Ejecutan a cinco jóvenes”
+title: "Ejecutan a cinco jóvenes"
 Date: 2021-01-05
 categories: tecate
 permalink: /:categories/:title:output_ext
-image: /img/cnr/2021-01-05-ejecutan-a-cinco-jovenes.JPG
-alt: “ “
+image: /img/cnr/2021-01-05-ejecutan-a-cinco-jovenes.jpg
+alt: "Ejecutan a cinco jóvenes"
 autor:
 ---
 
@@ -21,7 +21,7 @@ Horas después un joven de esos 5 asesinados fue identificado como Alexis Chavez
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-       <img class="d-block w-100" src="/img/cnr/2021-01-05-ejecutan-a-cinco-jovenes.JPG" loading="lazy"  alt="">
+       <img class="d-block w-100" src="/img/cnr/2021-01-05-ejecutan-a-cinco-jovenes.jpg" loading="lazy"  alt="Ejecutan a cinco jóvenes">
     </div>
   </div>
 </div>

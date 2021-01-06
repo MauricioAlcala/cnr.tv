@@ -1,11 +1,11 @@
 ﻿---
 layout: blog
-title: “Controversias en cuestiones de pagos”
+title: "Controversias en cuestiones de pagos"
 Date: 2021-01-05
 categories: rosarito
 permalink: /:categories/:title:output_ext
-image: /img/cnr/2021-01-05-controversias-en-cuestiones-de-pago.PNG
-alt: “ “
+image: /img/cnr/2021-01-05-controversias-en-cuestiones-de-pago.png
+alt: "Controversias en cuestiones de pagos"
 autor:
 ---
 
@@ -18,7 +18,7 @@ Un tema que ha causado controversias entre el cuerpo de policías de la secretar
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-       <img class="d-block w-100" src="/img/cnr/2021-01-05-controversias-en-cuestiones-de-pago.PNG" loading="lazy"  alt="">
+       <img class="d-block w-100" src="/img/cnr/2021-01-05-controversias-en-cuestiones-de-pago.png" loading="lazy"  alt="Controversias en cuestiones de pagos">
     </div>
   </div>
 </div>

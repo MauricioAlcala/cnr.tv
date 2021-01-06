@@ -1,11 +1,11 @@
 ﻿---
 layout: blog
-title: “Descuentos en el pago del predial”
+title: "Descuentos en el pago del predial"
 Date: 2021-01-04
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2020-01-04-descuentos-en-el-pago-del-predial.jpeg
-alt: “ “
+alt: "Descuentos en el pago del predial"
 autor:
 ---
 
@@ -27,7 +27,7 @@ Para cumplir con estas obligaciones municipales, los contribuyentes pueden acudi
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-       <img class="d-block w-100" src="/img/cnr/2020-01-04-descuentos-en-el-pago-del-predial.jpeg" loading="lazy"  alt="">
+       <img class="d-block w-100" src="/img/cnr/2020-01-04-descuentos-en-el-pago-del-predial.jpeg" loading="lazy"  alt="Descuentos en el pago del predial">
     </div>
   </div>
 </div>

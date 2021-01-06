@@ -1,11 +1,11 @@
 ﻿---
 layout: blog
-title: “Centros de acopio hasta el 31 de enero”
+title: "Centros de acopio hasta el 31 de enero"
 Date: 2021-01-04
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2020-01-04-centros-de-acopio-hasta-el-31-de-enero.jpeg
-alt: “ “
+alt: "Centros de acopio hasta el 31 de enero"
 autor:
 ---
 
@@ -27,7 +27,7 @@ En estos sitios se van a recibir los árboles a partir de este día y hasta el p
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-       <img class="d-block w-100" src="/img/cnr/2020-01-04-centros-de-acopio-hasta-el-31-de-enero.jpeg" loading="lazy"  alt="">
+       <img class="d-block w-100" src="/img/cnr/2020-01-04-centros-de-acopio-hasta-el-31-de-enero.jpeg" loading="lazy"  alt="Centros de acopio hasta el 31 de enero">
     </div>
   </div>
 </div>
