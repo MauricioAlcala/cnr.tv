@@ -5,7 +5,11 @@ Date: 2021-01-05
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-01-05-reparaciones.png
+<<<<<<< HEAD
 alt: "Reparaciones en colonia Mazatlan"
+=======
+alt: “ “
+>>>>>>> db0574f0e16b7ef857f9f18aacb8cde1b959c8cc
 autor:
 ---
 
@@ -18,7 +22,11 @@ En la esquina de la calle gabriel leyva y alfredo bonfil de la colonia mazatlán
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
+<<<<<<< HEAD
        <img class="d-block w-100" src="/img/cnr/2021-01-05-reparaciones.png" loading="lazy"  alt="Reparaciones en colonia Mazatlan">
+=======
+       <img class="d-block w-100" src="/img/cnr/2021-01-05-reparaciones.png" loading="lazy"  alt="">
+>>>>>>> db0574f0e16b7ef857f9f18aacb8cde1b959c8cc
     </div>
   </div>
 </div>
