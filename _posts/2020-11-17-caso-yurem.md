@@ -4,7 +4,7 @@ title:  "Caso Yurem"
 date:   2020-11-17 
 categories: tijuana
 permalink: /:categories/:title:output_ext
-image: /img/cnr/niño-yurem.jpg
+image: /img/cnr/nino-yurem.jpg
 alt: "Rosarito Centro"
 autor: "CNR Noticias - Canal 73"
 ---
@@ -21,7 +21,7 @@ La madre de Yurem, Mónica Mercedes Carrasco Cruz pide justicia por la muerte de
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-       <img class="d-block w-100" src="/img/cnr/niño-yurem.jpg" loading="lazy" alt="Yurem de 5 años">
+       <img class="d-block w-100" src="/img/cnr/nino-yurem.jpg" loading="lazy" alt="Yurem de 5 años">
     </div>
      <div class="carousel-item">
        <img class="d-block w-100" src="/img/cnr/mama-yurem.jpg" loading="lazy" alt="La madre de Yurem, Monica Mercedes Carrasco Cruz pide justicia por la muerte de su hijo">
