@@ -5,14 +5,8 @@ Date: 2021-01-05
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-01-05-controversias-en-cuestiones-de-pago.png
-<<<<<<< HEAD
-alt: "Controversias en cuestiones de pagos"
-=======
-alt: “ “
->>>>>>> db0574f0e16b7ef857f9f18aacb8cde1b959c8cc
 autor:
 ---
-
 
 **Playas de Rosarito, Baja California; Martes 5 de enero del 2021.** 
 
@@ -22,11 +16,7 @@ Un tema que ha causado controversias entre el cuerpo de policías de la secretar
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-<<<<<<< HEAD
        <img class="d-block w-100" src="/img/cnr/2021-01-05-controversias-en-cuestiones-de-pago.png" loading="lazy"  alt="Controversias en cuestiones de pagos">
-=======
-       <img class="d-block w-100" src="/img/cnr/2021-01-05-controversias-en-cuestiones-de-pago.png" loading="lazy"  alt="">
->>>>>>> db0574f0e16b7ef857f9f18aacb8cde1b959c8cc
     </div>
   </div>
 </div>

@@ -5,11 +5,7 @@ Date: 2021-01-05
 categories: tecate
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-01-05-denuncia-en-contra.jpg
-<<<<<<< HEAD
 alt: "Denuncia en contra de funcionarios municipales"
-=======
-alt: “ “
->>>>>>> db0574f0e16b7ef857f9f18aacb8cde1b959c8cc
 autor:
 ---
 
@@ -22,11 +18,7 @@ Esta mañana el Síndico procurador Gonzalo Higuera ratificó la denuncia en con
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-<<<<<<< HEAD
        <img class="d-block w-100" src="/img/cnr/2021-01-05-denuncia-en-contra.jpg" loading="lazy"  alt="Denuncia en contra de funcionarios municipales">
-=======
-       <img class="d-block w-100" src="/img/cnr/2021-01-05-denuncia-en-contra.jpg" loading="lazy"  alt="">
->>>>>>> db0574f0e16b7ef857f9f18aacb8cde1b959c8cc
     </div>
   </div>
 </div>

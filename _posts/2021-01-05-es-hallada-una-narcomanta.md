@@ -5,11 +5,7 @@ Date: 2021-01-05
 categories: tecate
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-01-05-es-hallada-una-narcomanta.jpg
-<<<<<<< HEAD
 alt: "Es hallada una narcomanta"
-=======
-alt: “ “
->>>>>>> db0574f0e16b7ef857f9f18aacb8cde1b959c8cc
 autor:
 ---
 
@@ -33,11 +29,7 @@ Posteriormente el área fue acordonada y se hizo cargo la Fiscalía del Estado.
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-<<<<<<< HEAD
        <img class="d-block w-100" src="/img/cnr/2021-01-05-es-hallada-una-narcomanta.jpg" loading="lazy"  alt="Es hallada una narcomanta">
-=======
-       <img class="d-block w-100" src="/img/cnr/2021-01-05-es-hallada-una-narcomanta.jpg" loading="lazy"  alt="">
->>>>>>> db0574f0e16b7ef857f9f18aacb8cde1b959c8cc
     </div>
   </div>
 </div>
