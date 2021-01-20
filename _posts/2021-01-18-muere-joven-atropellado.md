@@ -4,7 +4,7 @@ title: "Muere joven atropellado"
 Date: 2021-01-18
 categories: rosarito
 permalink: /:categories/:title:output_ext
-image: /img/cnr/.jpeg
+image: /img/cnr/2021-01-18-muere-joven-atropellado.png
 alt: "Muere joven atropellado"
 autor:
 ---
@@ -23,7 +23,7 @@ Alrededor de las 17 horas, un joven de aproximadamente 25 años de edad fue arro
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-       <img class="d-block w-100" src="/img/cnr/.jpeg" loading="lazy"  alt="Titulo">
+       <img class="d-block w-100" src="/img/cnr/2021-01-18-muere-joven-atropellado.png" loading="lazy"  alt="Titulo">
     </div>
   </div>
 </div>

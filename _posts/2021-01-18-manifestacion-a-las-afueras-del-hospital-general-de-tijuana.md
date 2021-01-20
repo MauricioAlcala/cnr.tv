@@ -4,7 +4,7 @@ title: "Manifestación a las afueras del Hospital General de Tijuana"
 Date: 2021-01-18
 categories: tijuana
 permalink: /:categories/:title:output_ext
-image: /img/cnr/.jpeg
+image: /img/cnr/2021-01-18-manifestacion-a-las-afueras-del-hospital-general-de-tijuana.jpg
 alt: "Titulo"
 autor:
 ---
@@ -22,7 +22,7 @@ La incertidumbre de saber si tendrán trabajado o les darán otro contrato es un
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-       <img class="d-block w-100" src="/img/cnr/.jpeg" loading="lazy"  alt="Titulo">
+       <img class="d-block w-100" src="/img/cnr/2021-01-18-manifestacion-a-las-afueras-del-hospital-general-de-tijuana.jpg" loading="lazy"  alt="Titulo">
     </div>
   </div>
 </div>

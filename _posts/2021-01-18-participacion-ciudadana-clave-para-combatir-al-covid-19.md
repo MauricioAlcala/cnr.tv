@@ -4,7 +4,7 @@ title: "Participación ciudadana, clave para combatir al covid-19"
 Date: 2021-01-18
 categories: rosarito
 permalink: /:categories/:title:output_ext
-image: /img/cnr/.jpeg
+image: /img/cnr/2021-01-18-participacion-ciudadana-clave-para-combatir-al-covid-19.png
 alt: "Participación ciudadana, clave para combatir al covid-19"
 autor:
 ---
@@ -25,7 +25,7 @@ El octavo ayuntamiento de playas de rosarito, presidido por su alcaldesa Hilda A
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-       <img class="d-block w-100" src="/img/cnr/.jpeg" loading="lazy"  alt="Titulo">
+       <img class="d-block w-100" src="/img/cnr/2021-01-18-participacion-ciudadana-clave-para-combatir-al-covid-19.png" loading="lazy"  alt="Titulo">
     </div>
   </div>
 </div>

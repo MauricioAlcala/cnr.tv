@@ -4,7 +4,7 @@ title: "Asesinan a juez de Tijuana en Rosarito"
 Date: 2021-01-18
 categories: rosarito
 permalink: /:categories/:title:output_ext
-image: /img/cnr/.jpeg
+image: /img/cnr/2021-01-18-asesinan-a-juez-de-tijuana-en-rosarito.jpeg
 alt: "Asesinan a juez de Tijuana en Rosarito"
 autor:
 ---
@@ -29,7 +29,7 @@ En el lugar de los hechos fueron localizados un aproximado de 15 casquillos perc
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-       <img class="d-block w-100" src="/img/cnr/.jpeg" loading="lazy"  alt="Titulo">
+       <img class="d-block w-100" src="/img/cnr/2021-01-18-asesinan-a-juez-de-tijuana-en-rosarito.jpeg" loading="lazy"  alt="Titulo">
     </div>
   </div>
 </div>

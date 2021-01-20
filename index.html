@@ -195,7 +195,7 @@
                     <div class="col-md-6">
                         <h2>Tijuana</h2>
                         <div class="row cn-slider">
-                            {% for post in site.categories.tijuana %}
+                            {% for post in site.categories.tijuana limit:4 %}
                                 <div class="col-md-6">
                                     <div class="cn-img">
                                         <img src="{{ post.image }}" />
@@ -210,7 +210,7 @@
                     <div class="col-md-6">
                         <h2>Tecate</h2>
                         <div class="row cn-slider">
-                            {% for post in site.categories.tecate %}
+                            {% for post in site.categories.tecate limit:4 %}
                                 <div class="col-md-6">
                                     <div class="cn-img">
                                         <img src="{{ post.image }}" />
@@ -234,7 +234,7 @@
                     <div class="col-md-6">
                         <h2>Rosarito</h2>
                         <div class="row cn-slider">
-                            {% for post in site.categories.rosarito %}
+                            {% for post in site.categories.rosarito limit:4 %}
                                 <div class="col-md-6">
                                     <div class="cn-img">
                                         <img src="{{ post.image }}" />
@@ -249,7 +249,7 @@
                     <div class="col-md-6">
                         <h2>Mexicali</h2>
                         <div class="row cn-slider">
-                            {% for post in site.categories.mexicali %}
+                            {% for post in site.categories.mexicali limit:4 %}
                             <div class="col-md-6">
                                 <div class="cn-img">
                                     <img src="{{ post.image }}" />

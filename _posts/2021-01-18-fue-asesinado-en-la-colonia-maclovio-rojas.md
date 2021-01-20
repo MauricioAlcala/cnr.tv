@@ -4,7 +4,7 @@ title: "Fue asesinado en la Colonia Maclovio Rojas"
 Date: 2021-01-18
 categories: tijuana
 permalink: /:categories/:title:output_ext
-image: /img/cnr/.jpeg
+image: /img/cnr/2021-01-18-fue-asesinado-en-la-colonia-maclovio-rojas.jpeg
 alt: "Titulo"
 autor:
 ---
@@ -24,7 +24,7 @@ El descubrimiento fue en la Calle Zapata Vive en la Colonia Maclovio Rojas, el m
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-       <img class="d-block w-100" src="/img/cnr/.jpeg" loading="lazy"  alt="Titulo">
+       <img class="d-block w-100" src="/img/cnr/2021-01-18-fue-asesinado-en-la-colonia-maclovio-rojas.jpeg" loading="lazy"  alt="Titulo">
     </div>
   </div>
 </div>

@@ -4,7 +4,7 @@ title: "Entrega de tarjeta de invitado especial a bomberos y policías"
 Date: 2021-01-18
 categories: rosarito
 permalink: /:categories/:title:output_ext
-image: /img/cnr/.jpeg
+image: /img/cnr/2021-01-18-entrega-de-tarjeta-de-invitado-especial-a-bomberos-y-policias.jpeg
 alt: "Entrega de tarjeta de invitado especial a bomberos y policías"
 autor:
 ---
@@ -25,7 +25,7 @@ Hoy lunes 18 de enero en punto de las 11:30 am se llevó a cabo un pequeño even
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-       <img class="d-block w-100" src="/img/cnr/.jpeg" loading="lazy"  alt="Titulo">
+       <img class="d-block w-100" src="/img/cnr/2021-01-18-entrega-de-tarjeta-de-invitado-especial-a-bomberos-y-policias.jpeg" loading="lazy"  alt="Titulo">
     </div>
   </div>
 </div>

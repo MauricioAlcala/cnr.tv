@@ -4,7 +4,7 @@ title: "Gran afluencia de bañistas este fin de semana"
 Date: 2021-01-18
 categories: rosarito
 permalink: /:categories/:title:output_ext
-image: /img/cnr/.jpeg
+image: /img/cnr/2021-01-18-gran-afluencia-de-banistas-este-fin-de-semana.png
 alt: "Gran afluencia de bañistas este fin de semana"
 autor:
 ---
@@ -23,7 +23,7 @@ A consecuencia de las altas temperaturas que se sintieron este pasado fin de sem
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-       <img class="d-block w-100" src="/img/cnr/.jpeg" loading="lazy"  alt="Titulo">
+       <img class="d-block w-100" src="/img/cnr/2021-01-18-gran-afluencia-de-banistas-este-fin-de-semana.png" loading="lazy"  alt="Titulo">
     </div>
   </div>
 </div>
