@@ -198,7 +198,7 @@
                             {% for post in site.categories.tijuana limit:4 %}
                                 <div class="col-md-6">
                                     <div class="cn-img">
-                                        <img src="{{ post.image }}" />
+                                        <img src="{{ post.image | default: '/img/cnr/mapa.jpg' }} " />
                                         <div class="cn-title">
                                             <a href="{{ post.url }}">{{ post.title }}</a>
                                         </div>
@@ -213,7 +213,7 @@
                             {% for post in site.categories.tecate limit:4 %}
                                 <div class="col-md-6">
                                     <div class="cn-img">
-                                        <img src="{{ post.image }}" />
+                                        <img src="{{ post.image  | default: '/img/cnr/mapa.jpg' }}" />
                                         <div class="cn-title">
                                             <a href="{{ post.url }}">{{ post.title }}</a>
                                         </div>
@@ -237,7 +237,7 @@
                             {% for post in site.categories.rosarito limit:4 %}
                                 <div class="col-md-6">
                                     <div class="cn-img">
-                                        <img src="{{ post.image }}" />
+                                        <img src="{{ post.image  | default: '/img/cnr/mapa.jpg' }}" />
                                         <div class="cn-title">
                                             <a href="{{ post.url }}">{{ post.title }}</a>
                                         </div>
@@ -252,7 +252,7 @@
                             {% for post in site.categories.mexicali limit:4 %}
                             <div class="col-md-6">
                                 <div class="cn-img">
-                                    <img src="{{ post.image }}" />
+                                    <img src="{{ post.image  | default: '/img/cnr/mapa.jpg' }}" />
                                     <div class="cn-title">
                                         <a href="{{ post.url }}">{{ post.title }}</a>
                                     </div>

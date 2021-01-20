@@ -4,7 +4,7 @@ title: “Habrá apoyo a albergues para migrantes en el Estado"
 Date: 2021-01-18
 categories: mexicali
 permalink: /:categories/:title:output_ext
-image: /img/cnr/.jpeg
+image:
 alt: "Titulo"
 autor:
 ---
