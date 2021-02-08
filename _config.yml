@@ -26,6 +26,7 @@ plugins:
 exclude:
   - .sass-cache/
   - .jekyll-cache/
+  - .github
   - gemfiles/
   - Gemfile
   - Gemfile.lock
