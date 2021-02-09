@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Siguen  trabajos en socavones en la ciudad, ayuntamiento espera se hagan cargo de las compuertas de la canalización el gobierno del estado"
+title: "Siguen trabajos en socavones en la ciudad de Tijuana"
 Date: 2021-02-04
 categories: tijuana
 permalink: /:categories/:title:output_ext
