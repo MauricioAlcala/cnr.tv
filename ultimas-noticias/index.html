@@ -19,10 +19,8 @@ description: Mantente informado de los acontecimientos mas recientes.
                         <div class="col-lg-12">
                             {% for video in site.data.videos %}
                             <article class="entry">
-                                <div class="video">
-                                    <iframe 
-                                        width="560" 
-                                        height="315" 
+                                <div class="video-responsive">
+                                    <iframe                                        
                                         src="{{video.url|uri_escape}}" 
                                         frameborder="0" 
                                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
