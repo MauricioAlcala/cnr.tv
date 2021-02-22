@@ -15,7 +15,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /img/cnr/mapa.jpg
+      image: /img/logos/og.png
       alt: "Descripción de la imagen"
 theme: minima
 plugins:
