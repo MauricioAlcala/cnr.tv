@@ -4,7 +4,6 @@ title: "Comité pro bomberos de Playas de Rosarito"
 Date: 2021-02-11
 categories: rosarito
 permalink: /:categories/:title:output_ext
-image: /img/cnr/.jpg
 alt: "Comité pro bomberos de Playas de Rosarito"
 autor:
 ---
@@ -16,7 +15,7 @@ El comité pro bomberos es un organismo autónomo quien siempre ha velado por lo
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-       <img class="d-block w-100" src="/img/cnr/.jpg" loading="lazy"  alt="Comité pro bomberos de Playas de Rosarito">
+       <img class="d-block w-100" src="" loading="lazy"  alt="Comité pro bomberos de Playas de Rosarito">
     </div>
   </div>
 </div>
