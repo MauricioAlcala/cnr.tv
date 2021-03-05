@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Escurrimientos de aguas negras y obras inconclusas a lo largo de la ciudad"
-Date: 2021-02-09
+date: 2021-02-09
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-09-escurimientos-de-aguas-negras-y-obras-inconclusas-a-lo-largo-de-la-ciudad.jpg

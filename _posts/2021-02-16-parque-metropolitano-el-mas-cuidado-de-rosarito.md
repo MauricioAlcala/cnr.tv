@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Parque metropolitano el más cuidado de rosarito"
-Date: 2021-02-16
+date: 2021-02-16
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-16-parque-metropolitano-el-mas-cuidado-de-rosarito.jpg

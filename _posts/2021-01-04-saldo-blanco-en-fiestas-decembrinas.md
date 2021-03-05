@@ -1,7 +1,7 @@
 ﻿---
 layout: blog
 title: "Saldo blanco en fiestas decembrinas"
-Date: 2021-01-04
+date: 2021-01-04
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2020-01-04-saldo-blanco-en-fiestas-decembrinas.jpeg

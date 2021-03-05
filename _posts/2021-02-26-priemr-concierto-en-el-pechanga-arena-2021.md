@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "PRIMER CONCIERTO EN EL PECHANGA ARENA 2021"
-Date: 2021-02-26
+date: 2021-02-26
 categories: san-diego
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-26-priemr-concierto-en-el-pechanga-arena-2021.jpg

@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "POLICIA DISPARA EN CONTRA DE UN HOMBRE ARMADO CON UN CUCHILLO"
-Date: 2021-02-26
+date: 2021-02-26
 categories: san-diego
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-26-policia-dispara-en-contra-de-un-hombre-armado.jpg

@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Siguen operando sin seguros trasporte de alista en valle de las palmas"
-Date: 2021-03-02
+date: 2021-03-02
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-03-siguen-operando-sin-seguros-transporte-de-alista.jpg

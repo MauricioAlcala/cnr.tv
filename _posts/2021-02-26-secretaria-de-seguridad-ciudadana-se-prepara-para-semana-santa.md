@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "secretaria de seguridad ciudadana se prepara para semana santa"
-Date: 2021-02-26
+date: 2021-02-26
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-26-secretaria-de-seguridad-ciudadana-se-prepara-para-semana-santa.jpg

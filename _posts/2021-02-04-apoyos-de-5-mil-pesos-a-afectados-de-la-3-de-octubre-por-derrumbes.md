@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Apoyos de 5 mil pesos a afectados de la 3 de octubre por derrumbes"
-Date: 2021-02-04
+date: 2021-02-04
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: 

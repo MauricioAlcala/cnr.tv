@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "ASESINAN A DOS PERSONAS EN SOBRERUEDAS DE OTAY"
-Date: 2021-02-08
+date: 2021-02-08
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-08-asesinan-a-dos-personas-en-sobreruedas-de-otay.jpg

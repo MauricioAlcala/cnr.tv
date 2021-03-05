@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "INICIA SIBSO PROGRAMA DE DESAYUNOS "
-Date: 2021-03-02
+date: 2021-03-02
 categories: tecate
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-02-inicia-sibso-programa-de-desayunos.jpg

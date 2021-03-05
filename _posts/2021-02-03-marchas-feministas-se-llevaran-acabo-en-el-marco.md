@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Marchas feministas se llevarán a cabo en el marco del día de la mujer en Tijuana"
-Date: 2021-02-03
+date: 2021-02-03
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-03-marchas-feministas-se-llevaran-acabo-en-el-marco.jpg

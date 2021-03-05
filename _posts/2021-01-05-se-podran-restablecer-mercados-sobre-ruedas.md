@@ -1,7 +1,7 @@
 ﻿---
 layout: blog
 title: "Se podrán restablecer mercados sobre ruedas"
-Date: 2021-01-05
+date: 2021-01-05
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-01-05-se-podran-restablecer.jpeg

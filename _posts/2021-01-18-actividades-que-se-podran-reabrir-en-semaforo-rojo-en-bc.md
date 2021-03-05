@@ -1,7 +1,7 @@
 ﻿---
 layout: blog
 title: “Actividades que se podrán reabrir en semáforo rojo en BC"
-Date: 2021-01-18
+date: 2021-01-18
 categories: mexicali
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-01-18-actividades-que-se-podran-reabrir-en-semaforo-rojo-en-bc.jpeg

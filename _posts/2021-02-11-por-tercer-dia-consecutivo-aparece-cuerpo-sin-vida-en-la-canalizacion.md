@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Por tercer día consecutivo aparece cuerpo sin vida en la canalización"
-Date: 2021-02-11
+date: 2021-02-11
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-11-por-tercer-dia-consecutivo-aparece-cuerpo-sin-vida-en-la-canalizacion.jpg

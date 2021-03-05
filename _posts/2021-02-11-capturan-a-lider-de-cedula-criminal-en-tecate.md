@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "CAPTURAN A LÍDER DE CÉLULA CRIMINAL EN TECATE"
-Date: 2021-02-11
+date: 2021-02-11
 categories: tecate
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-11-capturan-a-lider-de-cedula-criminal-en-tecate.PNG

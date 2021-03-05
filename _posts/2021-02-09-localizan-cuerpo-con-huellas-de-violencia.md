@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "LOCALIZAN CUERPO CON HUELLAS DE VIOLENCIA"
-Date: 2021-02-09
+date: 2021-02-09
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-09-localizan-cuerpo-con-huellas-de-violencia.jpg

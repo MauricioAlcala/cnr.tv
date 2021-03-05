@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Cabildo aprobó la licencia de Arturo Cruz Gonzalez para separarse del cargo de presidente municipal"
-Date: 2021-02-11
+date: 2021-02-11
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-11-cabildo-aprobo-la-licencia-de-arturo-cruz-gonzalez.jpg

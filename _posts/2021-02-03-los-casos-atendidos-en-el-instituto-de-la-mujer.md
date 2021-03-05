@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Los casos atendidos en el instituto de la mujer por situación en crisis durante lo que va de la pandemia"
-Date: 2021-03-02
+date: 2021-03-02
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-03-los-casos-atendidos-en-el-instituto-de-la-mujer.jpg

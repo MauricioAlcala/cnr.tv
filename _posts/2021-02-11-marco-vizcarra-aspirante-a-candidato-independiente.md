@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Marco Vizcarra aspirante a candidato independiente"
-Date: 2021-02-11
+date: 2021-02-11
 categories: mexicali
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-11-marco-vizcarra-aspirante-a-candidato-independiente.jpg

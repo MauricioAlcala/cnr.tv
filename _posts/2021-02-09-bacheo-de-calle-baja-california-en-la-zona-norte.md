@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "BACHEO DE CALLE  BAJA CALIFORNIA EN LA ZONA NORTE"
-Date: 2021-02-09
+date: 2021-02-09
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-09-bacheo-de-calle-baja-california-en-la-zona-norte.jpg

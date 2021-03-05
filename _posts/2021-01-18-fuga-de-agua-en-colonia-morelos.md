@@ -1,7 +1,7 @@
 ﻿---
 layout: blog
 title: "Fuga de agua en colonia Morelos"
-Date: 2021-01-18
+date: 2021-01-18
 categories: tecate
 permalink: /:categories/:title:output_ext
 image:

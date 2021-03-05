@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "María Luisa Gutiérrez Santoyo no ve las condiciones dadas para ese posible regreso a clases en las aulas"
-Date: 2021-03-02
+date: 2021-03-02
 categories: mexicali
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-02-maria-luisa-gutierrez-no-ve-las-condiciones-dadas.jpg

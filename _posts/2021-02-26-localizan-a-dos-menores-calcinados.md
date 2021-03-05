@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "LOCALIZAN A DOS MENORES CALCINADOS, A CAUSA DE UNA DEUDA DE 500 MIL PESOS"
-Date: 2021-02-26
+date: 2021-02-26
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-26-localizan-a-dos-menores-calcinados.jpg

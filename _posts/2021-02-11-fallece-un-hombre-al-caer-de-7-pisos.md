@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Fallece un hombre al caer de 7 pisos"
-Date: 2021-02-11
+date: 2021-02-11
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-11-fallece-un-hombre-al-caer-de-7-pisos.jpg

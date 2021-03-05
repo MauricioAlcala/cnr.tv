@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Pavimentan calle michoacan en colonia ampliacion plan libertador"
-Date: 2021-03-02
+date: 2021-03-02
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-02-pavimentan-calle-michoacan-en-colina-ampliacion-plan-libertador.jpg

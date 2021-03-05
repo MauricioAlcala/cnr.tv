@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "CONTINÚA SIN SOLUCIÓN AL PROBLEMA DE LAS PERSONAS SIN HOGAR"
-Date: 2021-02-10
+date: 2021-02-10
 categories: tecate
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-10-continua-sin-solucion-al-problema-de-las-personas-sin-hogar.jpg

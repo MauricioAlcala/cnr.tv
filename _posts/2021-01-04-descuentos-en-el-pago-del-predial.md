@@ -1,7 +1,7 @@
 ﻿---
 layout: blog
 title: "Descuentos en el pago del predial"
-Date: 2021-01-04
+date: 2021-01-04
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2020-01-04-descuentos-en-el-pago-del-predial.jpeg

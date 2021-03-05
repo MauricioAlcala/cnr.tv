@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Denuncian aumento al precio de la caseta Tecate - Tijuana"
-Date: 2021-02-08
+date: 2021-02-08
 categories: tecate
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-04-denuncian-aumento-al-precio-de-la-caseta-de-tecate-tijuana.jpg

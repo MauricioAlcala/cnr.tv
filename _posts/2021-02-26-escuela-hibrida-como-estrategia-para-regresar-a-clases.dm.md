@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Escuela híbrida como estrategia para regresar a clases"
-Date: 2021-02-26
+date: 2021-02-26
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-26-escuela-hibrida-como-estrategia-para-regresar-a-clases.jpg

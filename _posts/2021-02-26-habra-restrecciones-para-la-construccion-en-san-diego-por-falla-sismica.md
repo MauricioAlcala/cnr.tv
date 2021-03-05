@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "HABRÁ RESTRICCIONES PARA LA CONSTRUCCIÓN EN SAN DIEGO POR FALLA SÍSMICA"
-Date: 2021-02-26
+date: 2021-02-26
 categories: san-diego
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-26-habra-restrecciones-para-la-construccion-en-san-diego-por-falla-sismica.jpg

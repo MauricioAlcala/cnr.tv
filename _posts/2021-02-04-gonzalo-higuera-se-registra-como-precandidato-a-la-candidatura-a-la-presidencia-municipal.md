@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Gonzalo Higuera se registra como precandidato a la candidatura a la presidencia municipal"
-Date: 2021-01-05
+date: 2021-01-05
 categories: tecate
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-04-Gonzalo-Higuera-se-registra-como-precandidato-a-la-candidatura-a-la-presidencia-municipal.PNG

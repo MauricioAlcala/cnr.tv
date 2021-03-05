@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "REALIZA CORONEL RAMON MARQUEZ PASE DE REVISTA"
-Date: 2021-02-26
+date: 2021-02-26
 categories: tecate
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-26-realiza-coronel-ramon-marquez-pase-de-revista.jpg

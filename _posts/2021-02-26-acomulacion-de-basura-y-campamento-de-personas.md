@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "ACOMULANCION DE BASURA Y CAMPAMENTO DE PERSONAS SIN HOGAR"
-Date: 2021-02-26
+date: 2021-02-26
 categories: tecate
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-26-acomulacion-de-basura-y-campamento-de-personas.jpg

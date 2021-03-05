@@ -1,7 +1,7 @@
 ﻿---
 layout: blog
 title: "Disparan a familia en delegación de playas"
-Date: 2021-01-05
+date: 2021-01-05
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-01-05-disparan-a-familia-en-delegacion-de-playas.jpeg

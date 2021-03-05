@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: " Área deportiva y de inclusión"
-Date: 2021-02-10
+date: 2021-02-10
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-10-area-deportiva-y-de-inclusion.jpg

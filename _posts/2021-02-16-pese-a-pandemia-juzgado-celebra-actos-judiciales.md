@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Pese a pandemia juzgado celebra actos judiciales"
-Date: 2021-02-16
+date: 2021-02-16
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-16-pese-a-pandemia-juzgado-celebra-actos-judiciales.jpg

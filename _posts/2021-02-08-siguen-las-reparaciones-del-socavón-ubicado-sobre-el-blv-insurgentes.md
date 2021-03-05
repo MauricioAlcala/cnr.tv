@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Siguen las reparaciones del socavón ubicado sobre el blv insurgentes"
-Date: 2021-02-08
+date: 2021-02-08
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-08-siguen-las-reparaciones-del-socavón-ubicado-sobre-el-blv-insurgentes.jpg

@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "MANIFESTACIÓN"
-Date: 2021-01-05
+date: 2021-01-05
 categories: mexicali
 permalink: /:categories/:title:output_ext
 image: 

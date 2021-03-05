@@ -1,7 +1,7 @@
 ﻿---
 layout: blog
 title: "Atención a socavón en rosas magallón"
-Date: 2021-01-04
+date: 2021-01-04
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-01-04-atencion-a-socavon-en-rosas-magallon.jpeg

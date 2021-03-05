@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Helicoptero de CBP genera confusión en la ciudadanía de Tecate"
-Date: 2021-02-16
+date: 2021-02-16
 categories: tecate
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-16-helicoptero-de-cbp-genera-confunsion.jpg

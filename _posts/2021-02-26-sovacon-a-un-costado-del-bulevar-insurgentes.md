@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Socavón a un costado del bulevar insurgentes no ha sido atendido"
-Date: 2021-02-26
+date: 2021-02-26
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-26-sovacon-a-un-costado-del-bulevar-insurgentes.jpg

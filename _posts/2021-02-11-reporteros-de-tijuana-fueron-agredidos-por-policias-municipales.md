@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Reporteros de Tijuana fueron agredidos por policías  municipales a las afueras del bar adelitas"
-Date: 2021-02-11
+date: 2021-02-11
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-11-reporteros-de-tijuana-fueron-agredidos-por-policias-municipales.jpg

@@ -1,7 +1,7 @@
 ﻿---
 layout: blog
 title: "Las Candidaturas Independientes son una mentira, una farsa y una trampa para ciudadanos sin partido: Artículo 39"
-Date: 2021-01-05
+date: 2021-01-05
 categories: mexicali
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-01-05-candidaturas-independientes-son-una-mentira.jpeg

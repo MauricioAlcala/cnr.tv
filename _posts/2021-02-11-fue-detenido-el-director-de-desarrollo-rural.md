@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Fue detenido el director de desarrollo rural "
-Date: 2021-02-11
+date: 2021-02-11
 categories: tecate
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-11-fue-detenido-el-director-de-desarrollo-rural.jpg

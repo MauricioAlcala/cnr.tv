@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "RENUNCIA CARLOS MURGUÍA A LA SECRETARIA GENERAL DE TIJUANA"
-Date: 2021-02-09
+date: 2021-02-09
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-09-renuncia-carlos-murguia-a-la-secretaria-general-de-tijuana.jpg

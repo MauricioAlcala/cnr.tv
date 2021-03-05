@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Mujeres comienzan entrenamiento de Marines por primera vez en la historia"
-Date: 2021-02-10
+date: 2021-02-10
 categories: san-diego
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-10-mujeres-comienzan-entrenamiento-de-marines-por-primera-vez.jpg

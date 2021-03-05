@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "No había claridad de cuantos elementos ni vehículos los cuales cuentan en seguridad pública"
-Date: 2021-02-26
+date: 2021-02-26
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-26-no-habia-claridad-de-cuantos-elementos-ni-vehiculos.jpg

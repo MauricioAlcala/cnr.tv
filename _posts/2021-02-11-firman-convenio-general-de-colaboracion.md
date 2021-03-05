@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "FIRMAN CONVENIO GENERAL DE COLABORACIÓN PARA CONTRIBUIR AL DESARROLLO DE LA FUNCIÓN PÚBLICA ELECTORAL Y FORTALECER LA CULTURA DEMOCRÁTICA"
-Date: 2021-02-11
+date: 2021-02-11
 categories: mexicali
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-11-firman-convenio-general-de-colaboracion.jpg

@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Se permite 25% de aforo en templos religiosos"
-Date: 2021-02-04
+date: 2021-02-04
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image:

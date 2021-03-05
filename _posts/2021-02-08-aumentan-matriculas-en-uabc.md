@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "AUMENTAN MATRÍCULAS EN UABC"
-Date: 2021-02-08
+date: 2021-02-08
 categories: mexicali
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-08-aumentan-matriculas-en-uabc.jpg

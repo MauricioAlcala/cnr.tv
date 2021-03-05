@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Menores en natura fueron violentados por deudas en el tema de narcomenudeo"
-Date: 2021-02-26
+date: 2021-02-26
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-26-menores-en-natura-fueron-violentados-por-deuda.jpg

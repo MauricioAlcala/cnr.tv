@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Comisión de juventud y deportes reconoce a sus deportistas"
-Date: 2021-02-04
+date: 2021-02-04
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: 

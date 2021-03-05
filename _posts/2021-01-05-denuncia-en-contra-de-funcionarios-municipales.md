@@ -1,7 +1,7 @@
 ﻿---
 layout: blog
 title: "Denuncia en contra de funcionarios municipales"
-Date: 2021-01-05
+date: 2021-01-05
 categories: tecate
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-01-05-denuncia-en-contra.jpg

@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "En busca de los familiares de José Reynaldo Campus Lemus"
-Date: 2021-02-26
+date: 2021-02-26
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-26-en-busca-de-los-familiares-de-jose-reynaldo.jpg

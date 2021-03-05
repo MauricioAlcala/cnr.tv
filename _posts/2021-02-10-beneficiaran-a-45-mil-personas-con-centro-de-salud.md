@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "BENEFICIARÁN A 45 MIL PERSONAS CON CENTRO DE  SALUD Y PREPARATORIA MUNICIPAL EN LA PRESA ESTE"
-Date: 2021-02-10
+date: 2021-02-10
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-10-beneficiaran-a-45-mil-personas-con-centro-de-salud.jpg

@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Se reportan casos de venta ilegal de la vacuna de covid-19 de AstraZeneca"
-Date: 2021-02-04
+date: 2021-02-04
 categories: mexicali
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-04-Se-reportan-casos-de-venta-ilegal-de-la-vacuna-de-covid-19-de-AstraZeneca.jpg

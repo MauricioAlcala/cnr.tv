@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "LOCALIZAN A DOS SIN VIDA."
-Date: 2021-03-02
+date: 2021-03-02
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-03-localizan-a-dos-sin-vida.jpg

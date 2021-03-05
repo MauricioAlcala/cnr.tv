@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Comité pro bomberos de Playas de Rosarito"
-Date: 2021-02-11
+date: 2021-02-11
 categories: rosarito
 permalink: /:categories/:title:output_ext
 alt: "Comité pro bomberos de Playas de Rosarito"

@@ -1,7 +1,7 @@
 ﻿---
 layout: blog
 title: "Probabilidad de lluvias acompañadas de frío en la región"
-Date: 2021-01-18
+date: 2021-01-18
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image:

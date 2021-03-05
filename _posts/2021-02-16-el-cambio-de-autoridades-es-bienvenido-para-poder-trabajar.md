@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "El cambio de autoridades es bienvenido para poder trabajar en temas de seguridad."
-Date: 2021-02-16
+date: 2021-02-16
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-16-el-cambio-de-autoridades-es-bienvenido-para-poder-trabajar.jpg

@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "SUPERVISAN AVANCE DE OBRA EN EL HOSPITAL GENERAL DE TIJUANA"
-Date: 2021-02-11
+date: 2021-02-11
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-11-supervisan-avance-de-obra-en-el-hospital-general-de-tijuana.jpg

@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Sindicato de burócratas piden que se abran plazos o realizarán paro"
-Date: 2021-02-10
+date: 2021-02-10
 categories: mexicali
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-10-sindicato-de-burocratas-piden-que-se-abran-plazos.jpg

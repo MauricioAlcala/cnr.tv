@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "LO ASESINAN A BORDO DE TAXI"
-Date: 2021-02-09
+date: 2021-02-09
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-09-lo-asesinan-a-bordo-de-taxi.jpg

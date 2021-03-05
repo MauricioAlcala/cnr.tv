@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Joven apoya a perritos de la calle"
-Date: 2021-02-16
+date: 2021-02-16
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-16-joven-apoya-a-perritos-de-la-calle.jpg

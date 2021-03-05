@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "AGENTES DE LA GUARDIA ESTATAL E INVESTIGACIÓN PIDEN ACLARACIÓN DE NÓMINAS"
-Date: 2021-02-08
+date: 2021-02-08
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-08-agentes-de-la-guardia-estatal-e-investigacion-piden-aclaracion-de-nominas.jpg

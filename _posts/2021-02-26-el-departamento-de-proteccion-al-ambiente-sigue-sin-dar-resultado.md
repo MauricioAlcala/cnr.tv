@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "El departamento de protección al ambiente sigue sin dar resultados en la ciudad"
-Date: 2021-02-26
+date: 2021-02-26
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-26-el-departamento-de-proteccion-al-ambiente-sigue-sin-dar-resultado.jpg

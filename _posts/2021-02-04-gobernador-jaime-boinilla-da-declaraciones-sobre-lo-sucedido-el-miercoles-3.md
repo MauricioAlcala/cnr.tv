@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Gobernador Jaime Boinilla da declaraciones sobre lo sucedido el miércoles 3"
-Date: 2021-01-05
+date: 2021-01-05
 categories: tecate
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-04-Gobernador-Jaime-Boinilla-da-declaraciones-sobre-lo-sucedido-el-miércoles-3.PNG

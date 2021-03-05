@@ -1,7 +1,7 @@
 ﻿---
 layout: blog
 title: "Colonia nuevo milenio recibió servicios básicos a residentes"
-Date: 2021-01-18
+date: 2021-01-18
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-01-18-colonia-nuevo-milenio-recibio-servicios-basicos-a-residentes.jpeg

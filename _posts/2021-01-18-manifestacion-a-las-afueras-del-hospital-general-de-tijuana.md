@@ -1,7 +1,7 @@
 ﻿---
 layout: blog
 title: "Manifestación a las afueras del Hospital General de Tijuana"
-Date: 2021-01-18
+date: 2021-01-18
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-01-18-manifestacion-a-las-afueras-del-hospital-general-de-tijuana.jpg

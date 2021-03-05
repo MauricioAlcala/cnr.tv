@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Aclaración por supuesta retención de ingresos por parte del comité pro bomberos"
-Date: 2021-02-11
+date: 2021-02-11
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-11-aclaracion-por-supuesta-retencion-de-ingresos.jpg

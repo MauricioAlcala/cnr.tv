@@ -1,7 +1,7 @@
 ﻿---
 layout: blog
 title: "Gran afluencia de bañistas este fin de semana"
-Date: 2021-01-18
+date: 2021-01-18
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-01-18-gran-afluencia-de-banistas-este-fin-de-semana.png

@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Cobach toma medidas para evitar deserción escolar"
-Date: 2021-02-04
+date: 2021-02-04
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image:

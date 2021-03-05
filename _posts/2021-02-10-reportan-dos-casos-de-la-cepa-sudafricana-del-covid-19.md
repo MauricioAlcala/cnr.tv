@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Se reportaron dos casos de la cepa sudafricana del COVID-19"
-Date: 2021-02-10
+date: 2021-02-10
 categories: san-diego
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-10-reportan-dos-casos-de-la-cepa-sudafricana-del-covid-19.jpg

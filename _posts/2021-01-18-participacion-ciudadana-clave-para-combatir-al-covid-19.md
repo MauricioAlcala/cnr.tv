@@ -1,7 +1,7 @@
 ﻿---
 layout: blog
 title: "Participación ciudadana, clave para combatir al covid-19"
-Date: 2021-01-18
+date: 2021-01-18
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-01-18-participacion-ciudadana-clave-para-combatir-al-covid-19.png

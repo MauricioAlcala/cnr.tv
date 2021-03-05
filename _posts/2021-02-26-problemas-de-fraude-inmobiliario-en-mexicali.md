@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Problemas de fraude inmobiliario en mexicali"
-Date: 2021-02-26
+date: 2021-02-26
 categories: mexicali
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-26-problemas-de-fraude-inmobiliario-en-mexicali.jpg

@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Encargado de despacho de la secretaría de seguridad pública se cambiara"
-Date: 2021-02-09
+date: 2021-02-09
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-09-encargado-de-despacho-de-la-secretaria-de-seguridad-publica-se-cambiara.jpg

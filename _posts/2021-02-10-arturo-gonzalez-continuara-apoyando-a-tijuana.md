@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Arturo Gonzalez continuara apoyando a Tijuana"
-Date: 2021-02-10
+date: 2021-02-10
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-10-arturo-gonzalez-continuara-apoyando-a-tijuana.jpg

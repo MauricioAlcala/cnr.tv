@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "MEJORA MUNICIPIO LA MOVILIDAD DE 20 MIL CIUDADANOS CON BACHEO EN BULEVAR DÍAZ ORDAZ"
-Date: 2021-02-08
+date: 2021-02-08
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-08-mejora-municipio-la-movilidad-de-20-mil-ciudadanos-con-bacheo-en-bulevar-diaz-ordaz.jpg

@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Realizan protesta afueras del poder judicial de la federacion en mexicali"
-Date: 2021-03-02
+date: 2021-03-02
 categories: mexicali
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-02-realizan-protesta-afueras-del-poder-judicial-de-la-federacion.jpg

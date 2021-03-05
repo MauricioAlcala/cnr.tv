@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "BALEAN A UNA PERSONA EN LA COLONIA ZAPATA EN TECATE"
-Date: 2021-02-26
+date: 2021-02-26
 categories: tecate
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-26-balean-a-una-persona-en-la-colonia-zapata.PNG

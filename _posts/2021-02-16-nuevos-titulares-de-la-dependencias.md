@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "NUEVOS TITULARES DE LAS DEPENDENCIAS MUNICIPALES: KARLA RUIZ MACFARLAND"
-Date: 2021-02-16
+date: 2021-02-16
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-16-nuevos-titulares-de-la-dependencias.jpg

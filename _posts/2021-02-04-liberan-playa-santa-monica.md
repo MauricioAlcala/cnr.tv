@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Liberan playa santa monica"
-Date: 2021-02-04
+date: 2021-02-04
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image:

@@ -1,7 +1,7 @@
 ﻿---
 layout: blog
 title: “Atención garantizada para trabajadores del Estado"
-Date: 2021-01-18
+date: 2021-01-18
 categories: mexicali
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-01-18-atencion-garantizada-para-los-trabajadores-del-estado.jpg

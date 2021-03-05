@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "ENCUENTRAN CUERPO SIN VIDA SOBRE LA VÍA PÚBLICA"
-Date: 2021-02-08
+date: 2021-02-08
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-08-encuentran-cuerpo-sin-vida-sobre-la-via-publica.jpg

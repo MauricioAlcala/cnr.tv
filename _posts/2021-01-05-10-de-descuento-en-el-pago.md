@@ -1,7 +1,7 @@
 ﻿---
 layout: blog
 title: "10% de descuento en el pago"
-Date: 2021-01-05
+date: 2021-01-05
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2020-01-04-descuentos-en-el-pago-del-predial.jpeg

@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Encuentran cadáver de una mujer flotando en un canal en la Colonia Terrazas del Valle"
-Date: 2021-02-11
+date: 2021-02-11
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-11-encuentran-cadaver-de-una-mujer-flotando-en-un-canal.jpg

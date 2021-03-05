@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "ROSARITENSES PARTICIPAN EN CAMINATA DE LA AMISTAD "
-Date: 2021-02-16
+date: 2021-02-16
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-16-rosaritenses-participan-en-caminata-de-la-amistad.jpg

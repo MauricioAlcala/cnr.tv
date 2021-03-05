@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: " Los trámites de pensión en IMSS son presenciales"
-Date: 2021-02-16
+date: 2021-02-16
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-16-los-tramites-de-pension-en-imss-son-presenciales.jpg

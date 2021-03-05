@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Fiscal General De San Diego renunciara a fin de mes"
-Date: 2021-02-09
+date: 2021-02-09
 categories: san-diego
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-09-fiscal-general-de-san-diego-renunciara-a-fin-de-mes.jpg

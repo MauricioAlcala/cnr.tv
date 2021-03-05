@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Álvaro Blancarte habla sobre la conservación del arte urbano en Tecate"
-Date: 2021-02-10
+date: 2021-02-10
 categories: tecate
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-10-alvaro-blancarte-habla-sobre-la-conservacion-del-arte-urbano-en-tecate.PNG

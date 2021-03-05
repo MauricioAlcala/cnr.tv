@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "BOMBEROS SOFOCAN INCENDIO EN SANTEE."
-Date: 2021-02-26
+date: 2021-02-26
 categories: san-diego
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-26-bomberos-sofocan-incendio-en-santee.jpg

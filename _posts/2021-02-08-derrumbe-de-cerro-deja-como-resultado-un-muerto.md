@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "DERRUMBE DE CERRO DEJA COMO RESULTADO UN MUERTO"
-Date: 2021-02-08
+date: 2021-02-08
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-08-derrumbe-de-cerro-deja-como-resultado-un-muerto.jpg

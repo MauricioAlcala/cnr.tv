@@ -1,7 +1,7 @@
 ﻿---
 layout: blog
 title: "Predial digital 2021"
-Date: 2021-01-04
+date: 2021-01-04
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2020-01-04-predial-digital-2021.jpeg

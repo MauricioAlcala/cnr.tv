@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Ataque armado en colonia cumbres"
-Date: 2021-02-04
+date: 2021-02-04
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-04-02-Ataque-armado-en-colonia-cumbres.jpg

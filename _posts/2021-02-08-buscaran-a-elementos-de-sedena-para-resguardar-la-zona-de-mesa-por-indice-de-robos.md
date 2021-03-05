@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Buscaran a elementos de SEDENA para resguardar la zona de mesa por indice de robos"
-Date: 2021-02-08
+date: 2021-02-08
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-04-08-buscaran-a-elementos-de-sedena-para-resguardar-la-zona-de-mesa-por-indice-de-robos.jpg

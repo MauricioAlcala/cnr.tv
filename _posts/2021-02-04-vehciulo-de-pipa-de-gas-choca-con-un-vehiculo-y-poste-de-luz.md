@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Pipa de gas choca con un vehículo y un poste de luz"
-Date: 2021-02-04
+date: 2021-02-04
 categories: tecate
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-04-Vehciulo-de-pipa-de-gas-choca-con-un-vehiculo-y-poste-de-luz.jpg

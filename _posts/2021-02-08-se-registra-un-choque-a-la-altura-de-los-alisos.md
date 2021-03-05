@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "SE REGISTRA UN CHOQUE A LA ALTURA DE LOS ALISOS"
-Date: 2021-02-08
+date: 2021-02-08
 categories: tecate
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-08-se-registra-un-choque-a-la-altura-de-los-alisos.jpg

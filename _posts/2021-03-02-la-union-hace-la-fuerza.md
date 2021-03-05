@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "LA UNIÓN HACE LA FUERZA"
-Date: 2021-03-02
+date: 2021-03-02
 categories: tecate
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-02-la-union-hace-la-fuerza.jpg

@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "DENUNCIAN RETENES DE SAT EN TECATE "
-Date: 2021-03-02
+date: 2021-03-02
 categories: tecate
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-02-denuncian-retenes-de-sat-en-tecate.PNG

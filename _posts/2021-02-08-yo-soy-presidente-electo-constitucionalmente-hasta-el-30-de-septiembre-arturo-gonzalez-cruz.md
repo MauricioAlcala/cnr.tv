@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Yo soy presidente electo constitucionalmente hasta el 30 de septiembre, Arturo González cruz"
-Date: 2021-02-08
+date: 2021-02-08
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-08-yo-soy-presidente-electo-constitucionalmente-hasta-el-30-de-septiembre-arturo-gonzalez-cruz.jpg

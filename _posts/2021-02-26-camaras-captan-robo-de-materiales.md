@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Cámaras captan robo de materiales artísticos en el IMAC"
-Date: 2021-02-26
+date: 2021-02-26
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-26-camaras-captan-robo-de-materiales.jpg

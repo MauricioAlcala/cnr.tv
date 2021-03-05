@@ -1,7 +1,7 @@
 ﻿---
 layout: blog
 title: "Resultado tras incendio en blvd 2000"
-Date: 2021-01-18
+date: 2021-01-18
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image:

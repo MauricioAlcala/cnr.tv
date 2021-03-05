@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "No hay certeza por las plantas productoras de la vacuna covid ya que diversas plantas de producción no están exportando"
-Date: 2021-02-16
+date: 2021-02-16
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-16-no-hay-certeza-por-las-plantas-productoras.jpg

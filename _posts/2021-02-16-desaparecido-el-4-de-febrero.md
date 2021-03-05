@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Desaparecido el 4 de febrero"
-Date: 2021-02-16
+date: 2021-02-16
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-16-desaparecido-el-4-de-febrero.jpg

@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Encuentran a hombre muerto en el centro de ensenada"
-Date: 2021-01-05
+date: 2021-01-05
 categories: ensenada
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-04-Encuentran-a-hombre-muerto-en-el-centro-de-ensenada.jpg

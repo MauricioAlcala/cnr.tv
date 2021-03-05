@@ -1,7 +1,7 @@
 ﻿---
 layout: blog
 title: "Centros de acopio hasta el 31 de enero"
-Date: 2021-01-04
+date: 2021-01-04
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2020-01-04-centros-de-acopio-hasta-el-31-de-enero.jpeg

@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Nuevas Rutas piloto iniciaran en zona rio, palacio, línea y centro"
-Date: 2021-02-04
+date: 2021-02-04
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image:

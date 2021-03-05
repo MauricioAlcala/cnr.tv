@@ -1,7 +1,7 @@
 ﻿---
 layout: blog
 title: "Continúan obras de mejoramiento de vialidades"
-Date: 2021-01-18
+date: 2021-01-18
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-01-18-continuan-obras-de-mejoramiento-de-vialidades.png

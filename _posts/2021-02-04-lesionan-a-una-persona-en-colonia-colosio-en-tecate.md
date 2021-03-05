@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "LESIONAN A UNA PERSONA EN COLONIA COLOSIO EN TECATE"
-Date: 2021-02-08
+date: 2021-02-08
 categories: tecate
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-04-lesionan-a-una-persona-en-colonia-colosio-en-tecate.jpg

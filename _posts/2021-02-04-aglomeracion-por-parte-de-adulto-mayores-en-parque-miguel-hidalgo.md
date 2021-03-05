@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Aglomeración por parte de adulto mayores en parque miguel hidalgo"
-Date: 2021-02-04
+date: 2021-02-04
 categories: tecate
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-04-Aglomeración-por-parte-de-adulto-mayores-en-parque-miguel-hidalgo.PNG

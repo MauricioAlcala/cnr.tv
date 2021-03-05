@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "ENCUENTRAN RESTOS HUMANOS EN EL CAÑÓN MANTECA"
-Date: 2021-02-08
+date: 2021-02-08
 categories: tecate
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-08-encuentran-restos-humanos-en-el-canon-manteca.jpg

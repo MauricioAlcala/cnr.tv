@@ -1,7 +1,7 @@
 ﻿---
 layout: blog
 title: "Es hallada una narcomanta"
-Date: 2021-01-05
+date: 2021-01-05
 categories: tecate
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-01-05-es-hallada-una-narcomanta.jpg

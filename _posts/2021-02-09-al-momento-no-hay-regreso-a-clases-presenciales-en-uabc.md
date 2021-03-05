@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Al momento no hay regreso a clases presenciales en UABC"
-Date: 2021-02-09
+date: 2021-02-09
 categories: tecate
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-09-al-momento-no-hay-regreso-a-clases-presenciales-en-uabc.JPG

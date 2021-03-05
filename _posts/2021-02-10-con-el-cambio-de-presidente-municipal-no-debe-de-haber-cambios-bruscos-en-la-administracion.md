@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Con el cambio de presidente municipal no debe de haber cambios bruscos en la administración"
-Date: 2021-02-10
+date: 2021-02-10
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-10-con-el-cambio-de-presidente-municipal-no-debe-de-haber-cambios-bruscos-en-la-administracion.jpg

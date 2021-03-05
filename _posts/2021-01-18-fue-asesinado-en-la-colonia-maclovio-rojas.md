@@ -1,7 +1,7 @@
 ﻿---
 layout: blog
 title: "Fue asesinado en la Colonia Maclovio Rojas"
-Date: 2021-01-18
+date: 2021-01-18
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-01-18-fue-asesinado-en-la-colonia-maclovio-rojas.jpeg

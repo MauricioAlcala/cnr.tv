@@ -1,7 +1,7 @@
 ﻿---
 layout: blog
 title: "Campaña de prevención Covid-19"
-Date: 2021-01-05
+date: 2021-01-05
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-01-05-campana-de-prevencion.png

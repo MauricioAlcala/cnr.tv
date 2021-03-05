@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "LLEGAN LOS TAXÍMETROS AL ESTADO."
-Date: 2021-03-02
+date: 2021-03-02
 categories: mexicali
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-02-llegan-los-taximetros-al-estado.jpg

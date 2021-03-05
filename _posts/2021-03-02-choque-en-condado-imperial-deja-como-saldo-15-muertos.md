@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "CHOQUE EN CONDADO IMPERIAL DEJA COMO SALDO 15 MUERTOS"
-Date: 2021-03-02
+date: 2021-03-02
 categories: mexicali
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-02-choque-en-condado-imperial-deja-como-saldo-15-muertos.jpg

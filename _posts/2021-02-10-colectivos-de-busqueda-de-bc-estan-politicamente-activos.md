@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Colectivos de búsqueda de BC están políticamente activos y esto afecta la finalidad de los colectivos que realmente  hacen búsquedas sin lucrar"
-Date: 2021-02-10
+date: 2021-02-10
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-10-colectivos-de-busqueda-de-bc-estan-politicamente-activos.jpg

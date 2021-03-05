@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "RESCATAN A MIGRANTE HERIDO EN JAMUL"
-Date: 2021-02-10
+date: 2021-02-10
 categories: tecate
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-10-rescatan-a-migrante-herido-en-jamul.jpg

@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Acampan para tramitar su INE"
-Date: 2021-02-09
+date: 2021-02-09
 categories: tecate
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-09-acampan-para-tramitar-su-ine.JPG

@@ -1,7 +1,7 @@
 ﻿---
 layout: blog
 title: "Enfermeros denuncian carencias para laborar debidamente"
-Date: 2021-01-18
+date: 2021-01-18
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-01-18-enfermeros-denuncian-carencias-para-laborar-debidamente.jpg

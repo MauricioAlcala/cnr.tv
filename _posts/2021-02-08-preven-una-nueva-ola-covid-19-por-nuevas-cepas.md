@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "PREVÉN UNA NUEVA OLA DE COVID-19 POR NUEVAS CEPAS"
-Date: 2021-02-08
+date: 2021-02-08
 categories: mexicali
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-08-preven-una-nueva-ola-covid-19-por-nuevas-cepas.jpg

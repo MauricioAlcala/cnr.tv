@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "No es tiempo de regresos a clases experimentales"
-Date: 2021-03-02
+date: 2021-03-02
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-03-no-es-tiempo-de-regresos-a-clases-experimentales.jpg

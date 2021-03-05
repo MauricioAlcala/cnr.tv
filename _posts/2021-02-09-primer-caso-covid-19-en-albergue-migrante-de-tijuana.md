@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "PRIMER CASO DE COVID 19 EN ALBERGUE MIGRANTE DE TIJUANA"
-Date: 2021-02-09
+date: 2021-02-09
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-09-primer-caso-covid-19-en-albergue-migrante-de-tijuana.jpg

@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Presidente de CANACINTRA espera que el cobro se refleje en nueva y mas eficiente"
-Date: 2021-02-16
+date: 2021-02-16
 categories: mexicali
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-16-presidente-de-canacintra-espera-que-el-cobro-se-refleje-en-nueva-y-mas-eficiente.jpg

@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "ciudadano toma acciones sobre la calle libertad"
-Date: 2021-02-10
+date: 2021-02-10
 categories: tecate
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-10-ciudadano-toma-acciones-sobre-la-calle-libertad.PNG

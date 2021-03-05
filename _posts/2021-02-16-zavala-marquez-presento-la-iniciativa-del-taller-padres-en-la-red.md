@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Zavala Marquez presento la iniciativa del taller Padres en la red"
-Date: 2021-02-16
+date: 2021-02-16
 categories: mexicali
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-16-zavala-marquez-presento-la-iniciativa-del-taller-padres-en-la-red.jpg

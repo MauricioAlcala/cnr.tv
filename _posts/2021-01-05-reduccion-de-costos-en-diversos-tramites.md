@@ -1,7 +1,7 @@
 ﻿---
 layout: blog
 title: "Reducción de costos en diversos trámites"
-Date: 2021-01-05
+date: 2021-01-05
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-01-05-reduccion-de-costos.png

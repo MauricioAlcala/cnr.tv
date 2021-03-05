@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Fuerte incendio en recicladora de Ojo de Agua"
-Date: 2021-02-26
+date: 2021-02-26
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-26-fuerte-incendio-en-recicladora-de-ojo-de-agua.jpg

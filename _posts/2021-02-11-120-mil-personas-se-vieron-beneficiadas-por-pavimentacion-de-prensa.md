@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "120 MIL PERSONAS SE VIERON BENEFICIADAS POR LA PAVIMENTACIÓN DE LA PRESA"
-Date: 2021-02-11
+date: 2021-02-11
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-11-120-mil-personas-se-vieron-beneficiadas-por-pavimentacion-de-prensa.jpg

@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "HOMICIDIOS EN EL PRIMER DÍA DE MARZO"
-Date: 2021-03-02
+date: 2021-03-02
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-03-homicidos-en-el-primer-dia-de-marzo.jpg

@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Capturan a ladron minutos después tras una denuncia"
-Date: 2021-02-05
+date: 2021-02-05
 categories: tecate
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-04-Capturan-a-ladron-minutos-después-tras-una-denuncia.jpg

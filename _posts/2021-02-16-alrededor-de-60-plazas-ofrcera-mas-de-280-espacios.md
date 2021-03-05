@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "alrededor de 60 plazas ofrecera mas de 280 espacios laborales para sus miembros"
-Date: 2021-02-16
+date: 2021-02-16
 categories: mexicali
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-16-alrededor-de-60-plazas-ofrcera-mas-de-280-espacios.jpg

@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "EJECUTAN A DOS EN EL PEDREGAL DE SANTA JULIA"
-Date: 2021-02-08
+date: 2021-02-08
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-08-ejecutan-a-dos-en-el-pedregal-de-santa-julia.jpg

@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Comercio de la zona centro de  Tijuana no está soportando la pandemia"
-Date: 2021-02-09
+date: 2021-02-09
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-09-comercio-de-la-zona-centro-de-tijuana-no-esta-soportando-la-pandemia.jpg

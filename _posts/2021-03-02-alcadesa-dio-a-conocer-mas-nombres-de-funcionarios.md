@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "alcaldesa dio a conocer más nombres de funcionarios que la acompañarán durante la campaña electoral"
-Date: 2021-03-02
+date: 2021-03-02
 categories: mexicali
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-02-alcadesa-dio-a-conocer-mas-nombres-de-funcionarios.jpg

@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Se extiende periodo de reinscripción escolar"
-Date: 2021-02-11
+date: 2021-02-11
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-11-se-extiende-periodo-de-reinscipcion-escolar.jpg

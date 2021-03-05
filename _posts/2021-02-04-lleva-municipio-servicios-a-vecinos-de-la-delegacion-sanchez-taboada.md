@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Lleva municipio servicios a vecinos de la delegación Sanchez Taboada"
-Date: 2021-02-04
+date: 2021-02-04
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: 

@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Capacitan a elementos del cuerpo de bomberos"
-Date: 2021-02-26
+date: 2021-02-26
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-26-capacitan-a-elementos-del-cuerpo-de-bomberos.jpg

@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Entrega de material didáctico a sector pre escolar"
-Date: 2021-02-11
+date: 2021-02-11
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-11-entrega-de-material-didactico-a-sector-pre-escolar.jpg

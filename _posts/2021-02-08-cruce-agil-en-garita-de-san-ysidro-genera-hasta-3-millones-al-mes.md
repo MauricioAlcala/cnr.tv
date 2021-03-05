@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "CRUCE ÁGIL EN GARITA DE SAN YSIDRO GENERA HASTA 3 MILLONES AL MES."
-Date: 2021-02-08
+date: 2021-02-08
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-08-cruce-agil-en-garita-de-san-ysidro-genera-hasta-3-millones-al-mes.jpg

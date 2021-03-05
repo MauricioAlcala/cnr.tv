@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "REALIZAN EVENTO DE DESARROLLO ECONÓMICO Y TURISMO EN TECATE"
-Date: 2021-02-26
+date: 2021-02-26
 categories: tecate
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-26-realizan-evento-de-desarrollo-economico-y-turismo.jpg

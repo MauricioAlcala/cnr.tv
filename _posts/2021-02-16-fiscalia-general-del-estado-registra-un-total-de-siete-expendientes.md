@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Fiscalia General del Estado registra un total de siete expendientes por desaparecion forzada"
-Date: 2021-02-16
+date: 2021-02-16
 categories: mexicali
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-16-fiscalia-general-del-estado-registra-un-total-de-siete-expendientes.jpg

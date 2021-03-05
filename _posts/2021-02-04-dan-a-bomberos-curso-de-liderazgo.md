@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Dan a bomberos Curso de Liderazgo estratégico en operaciones"
-Date: 2021-02-04
+date: 2021-02-04
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-05-02-Dan-a-bomberos-curso-de-liderazgo.jpg

@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Exigen justicia para mailo"
-Date: 2021-03-02
+date: 2021-03-02
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-02-exigen-justicia-para-mailo.jpg

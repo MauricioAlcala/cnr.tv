@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "CUBREBOCAS"
-Date: 2021-02-05
+date: 2021-02-05
 categories: mexicali
 permalink: /:categories/:title:output_ext
 image:

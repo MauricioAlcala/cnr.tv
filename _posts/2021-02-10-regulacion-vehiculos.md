@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "REGULACIÓN VEHÍCULOS"
-Date: 2021-02-10
+date: 2021-02-10
 categories: mexicali
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-10-regulacion-vehiculos.jpg

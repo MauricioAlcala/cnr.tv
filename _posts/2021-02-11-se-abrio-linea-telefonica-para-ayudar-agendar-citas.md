@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Se abrió línea telefónica para ayudar agendar citas contra covid-19"
-Date: 2021-02-11
+date: 2021-02-11
 categories: san-diego
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-11-se-abrio-linea-telefonica-para-ayudar-agendar-citas.jpg

@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "SE REGISTRAN 4 HOMICIDIOS DURANTE LA MADRUGADA"
-Date: 2021-02-09
+date: 2021-02-09
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-09-se-registran-cuatro-homicidos-durante-la-madrugada.jpg

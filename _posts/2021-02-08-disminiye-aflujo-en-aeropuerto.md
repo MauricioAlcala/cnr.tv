@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "DISMINUYE AFLUJO EN AEROPUERTO"
-Date: 2021-02-08
+date: 2021-02-08
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-08-disminiye-aflujo-en-aeropuerto.jpg

@@ -1,7 +1,7 @@
 ﻿---
 layout: blog
 title: "Avance en pavimentación de Calle Real del Mar en San Antonio de los Buenos"
-Date: 2021-01-18
+date: 2021-01-18
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-01-18-pavimentacion-de-calle-real-del-mar-en-san-antonio-de-los-buenos.jpeg

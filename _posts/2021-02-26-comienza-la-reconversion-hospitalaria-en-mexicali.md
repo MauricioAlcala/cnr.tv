@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Comienza la reconversión hospitalaria en Mexicali"
-Date: 2021-02-26
+date: 2021-02-26
 categories: mexicali
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-26-comienza-la-reconversion-hospitalaria-en-mexicali.jpg

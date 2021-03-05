@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "ALERTA ANTE CAMBIOS DE CLIMA EN PLAYAS DE ROSARITO"
-Date: 2021-02-16
+date: 2021-02-16
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-16-alerta-ante-cambios-de-clima-en-playas-de-rosarito.jpg

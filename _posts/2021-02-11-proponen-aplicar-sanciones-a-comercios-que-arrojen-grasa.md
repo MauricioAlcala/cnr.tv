@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: " PROPONEN APLICAR SANCIONES A COMERCIOS QUE ARROJEN GRASA AL ALCANTARILLADO"
-Date: 2021-02-11
+date: 2021-02-11
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-11-proponen-aplicar-sanciones-a-comercios-que-arrojen-grasa.jpg

@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Se integra a la policía municipal de Playas de Rosarito un nuevo cuerpo de seguridad"
-Date: 2021-03-02
+date: 2021-03-02
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-02-se-integra-a-la-policia-municipal-un-nuevo-cuerpo-de-seguridad.jpg

@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: " PRESENTACIÓN OFICIAL DEL NUEVO DIRECTOR DE LA DIRECCIÓN DE SEGURIDAD CIUDADANA"
-Date: 2021-02-26
+date: 2021-02-26
 categories: tecate
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-26-presentacion-oficial-del-nuevo-director.PNG

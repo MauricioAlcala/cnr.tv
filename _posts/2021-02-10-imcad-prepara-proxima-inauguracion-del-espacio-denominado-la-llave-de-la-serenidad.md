@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Imcad prepara próxima inauguración del espacio denominado 'La llave de la serenidad"
-Date: 2021-02-10
+date: 2021-02-10
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-10-imcad-prepara-proxima-inauguracion-del-espacio-denominado-la-llave-de-la-serenidad.jpg

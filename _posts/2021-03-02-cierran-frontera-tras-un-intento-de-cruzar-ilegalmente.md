@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "CIERRAN FRONTERA TRAS UN INTENTO DE CRUZAR ILEGALMENTE"
-Date: 2021-03-02
+date: 2021-03-02
 categories: tecate
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-02-cierran-frontera-tras-un-intento-de-cruzar-ilegalmente.jpg

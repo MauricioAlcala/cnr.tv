@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "CONCLUYE LA FASE DE VACUNACIÓN A LOS ADULTOS MAYORES EN TECATE"
-Date: 2021-03-02
+date: 2021-03-02
 categories: tecate
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-02-concluye-la-fase-de-vacunacion.PNG

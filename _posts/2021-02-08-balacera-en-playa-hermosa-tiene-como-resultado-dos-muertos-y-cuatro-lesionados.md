@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "BALACERA EN PLAYA HERMOSA TIENE COMO RESULTADO DOS MUERTOS Y CUATRO LESIONADOS"
-Date: 2021-02-08
+date: 2021-02-08
 categories: ensenada
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-08-balacera-en-playa-hermosa-tiene-como-resultado-dos-muertos-y-cuatro-lesionados.jpg

@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "LA MISA DEL MIÉRCOLES DE CENIZA SERÁ PRESENCIAL"
-Date: 2021-02-08
+date: 2021-02-08
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-08-la-misa-del-miercoles-de-ceniza-sera-presencial.jpg

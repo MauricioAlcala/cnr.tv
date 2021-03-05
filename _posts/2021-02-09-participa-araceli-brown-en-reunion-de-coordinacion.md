@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "PARTICIPA ARACELI BROWN EN REUNIÓN DE COORDINACIÓN DE SEGURIDAD PÚBLICA ENTRE LOS AYUNTAMIENTOS DE ROSARITO Y DE ENSENADA"
-Date: 2021-02-09
+date: 2021-02-09
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-09-participa-araceli-brown-en-reunion-de-coordinacion.jpg

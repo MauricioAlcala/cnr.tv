@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Accidente vehicular en Santa Anita"
-Date: 2021-02-08
+date: 2021-02-08
 categories: tecate
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-08-accidente-vehicular-en-santa-anita.jpg

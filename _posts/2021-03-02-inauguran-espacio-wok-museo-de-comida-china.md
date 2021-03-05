@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Inauguran espacio Wok museo de la comida china en mexicali"
-Date: 2021-03-02
+date: 2021-03-02
 categories: mexicali
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-02-inauguran-espacio-wok-museo-de-comida-china.jpg

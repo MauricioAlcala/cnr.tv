@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "No hay apoyo por parte de la fiscalía a grupos de búsqueda en bc"
-Date: 2021-02-04
+date: 2021-02-04
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image:

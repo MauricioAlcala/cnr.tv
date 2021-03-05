@@ -1,7 +1,7 @@
 ﻿---
 layout: blog
 title: "Sentenciada a 60 años"
-Date: 2021-01-05
+date: 2021-01-05
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-01-05-setenciada-a-60-anos.jpeg

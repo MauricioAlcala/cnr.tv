@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Familiares exigen a la fiscalia del estado aceleren las investigaciones"
-Date: 2021-02-26
+date: 2021-02-26
 categories: mexicali
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-26-familiares-exigen-a-la-fiscalia-del-estado.jpg

@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Paga tu predial en línea"
-Date: 2021-02-09
+date: 2021-02-09
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-02-09-paga-tu-predial-en-linea.jpg

@@ -1,7 +1,7 @@
 ﻿---
 layout: blog
 title: "Jornadas de limpieza nocturnas por parte de Servicios Urbanos"
-Date: 2021-01-18
+date: 2021-01-18
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-01-18-jornadas-de-limpieza-nocturnas-por-parte-de-servicios-urbanos.jpeg
