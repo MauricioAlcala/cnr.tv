@@ -16,7 +16,7 @@ defaults:
       path: ""
     values:
       image: /img/logos/og.png
-      alt: "Descripción de la imagen"
+      alt: "CNR 73 ESTATAL"
 theme: minima
 plugins:
   - jekyll-feed
