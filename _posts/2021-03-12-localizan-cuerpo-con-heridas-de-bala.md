@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Localizan cuerpo con heridas de bala a la altura de Rancho Tecate"
-Date: 2021-03-12
+date: 2021-03-12
 categories: tecate
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-12-localizan-cuerpo-con-heridas-de-bala.PNG

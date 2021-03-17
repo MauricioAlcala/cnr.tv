@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Alcalde de Tijuana empujara a la iniciativa de abrir espacios pero bien regulados"
-Date: 2021-03-09
+date: 2021-03-09
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-09-alcalde-de-tijuana-empujara-a-la-iniciativa.jpg

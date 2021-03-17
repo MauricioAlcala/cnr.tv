@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "REITERA KARLA PATRICIA RUIZ MACFARLAND SU APOYO Y RESPETO A LAS MUJERES POR MANIFESTARSE EN PRO DE SUS DERECHOS"
-Date: 2021-03-09
+date: 2021-03-09
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-09-reteira-karla-patricia-su-apoyo-y-respeto-a-las-mujeres.jpg

@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "14 miembros de la fiscalia general han perdido la vida por COVID-19"
-Date: 2021-03-10
+date: 2021-03-10
 categories: mexicali
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-10-cartose-miembros-de-la-fiscalia-general.jpg

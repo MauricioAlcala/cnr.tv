@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Migrantes están pasándola muy mal ante las lluvias y la nula presencia de autoridades en el chaparra"
-Date: 2021-03-10
+date: 2021-03-10
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-10-migrantes-estan-pasandola-muy-mal.jpg

@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "87 por ciento ha disminuido la incidencia del abigueato en el Valle de Mexicali"
-Date: 2021-03-12
+date: 2021-03-12
 categories: mexicali
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-12-ochentaciete-ha-disminuido-la-incidencia.jpg

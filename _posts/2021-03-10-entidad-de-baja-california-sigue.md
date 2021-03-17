@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Entidad de Baja California sigue siendo los principales imanes de migrantes"
-Date: 2021-03-10
+date: 2021-03-10
 categories: mexicali
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-10-entidad-de-baja-california-sigue.jpg

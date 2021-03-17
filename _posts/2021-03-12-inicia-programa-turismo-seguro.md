@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Inicia programa Turismo Seguro"
-Date: 2021-03-12
+date: 2021-03-12
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-12-inicia-programa-turismo-seguro.jpg

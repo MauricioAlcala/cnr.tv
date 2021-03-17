@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Se han vacunado a 14 mil 335 personas"
-Date: 2021-03-10
+date: 2021-03-10
 categories: mexicali
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-10-se-han-vacunado-a-14-mil-335-personas.jpg

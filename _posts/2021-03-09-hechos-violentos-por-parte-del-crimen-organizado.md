@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Hechos violentos por parte del crimen organizado en el valle"
-Date: 2021-03-09
+date: 2021-03-09
 categories: mexicali
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-09-hechos-violentos-por-parte-del-crimen-organizado.jpg

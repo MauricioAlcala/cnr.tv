@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Playas de Rosarito tiene nuevo Delegado General de Gobierno"
-Date: 2021-03-09
+date: 2021-03-09
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-09-playas-de-rosarito-tiene-nuevo-delegado.jpg

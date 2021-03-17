@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Falta realizar análisis integrales en tema de violencia a menores con el caso de homicidio de los tres menores en natura"
-Date: 2021-03-11
+date: 2021-03-11
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-11-falta-realizar-analis-integrales-en-tema.jpg

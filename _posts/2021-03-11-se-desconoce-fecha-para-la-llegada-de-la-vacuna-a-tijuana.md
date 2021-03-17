@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Se desconoce fecha para la llegada de la vacuna a Tijuana "
-Date: 2021-03-11
+date: 2021-03-11
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-11-se-desconoce-fecha-para-la-llegada-de-la-vacuna-a-tijuana.jpg

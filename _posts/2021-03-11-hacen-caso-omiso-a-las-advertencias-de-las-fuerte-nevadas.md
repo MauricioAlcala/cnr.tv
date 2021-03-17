@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "HACEN CASO OMISO A LAS ADVERTENCIAS DE LAS FUERTES NEVADAS"
-Date: 2021-03-11
+date: 2021-03-11
 categories: tecate
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-11-hacen-caso-omiso-a-las-advertencias-de-las-fuerte-nevadas.PNG

@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Proceso de vacunación va mas rapido por dia en Mexicali"
-Date: 2021-03-12
+date: 2021-03-12
 categories: mexicali
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-12-proceso-de-vacunacion-va-mas-rapido.jpg

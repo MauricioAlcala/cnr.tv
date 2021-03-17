@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "ASESINAN EN SU CASA A MANUEL VELA Y SECUESTRAN A UNO DE SUS HIJOS."
-Date: 2021-03-10
+date: 2021-03-10
 categories: tecate
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-10-asesinan-en-su-casa-a-manuel-vela-y-secuestran-a-uno-de-sus-hijos.jpg

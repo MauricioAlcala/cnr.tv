@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Falta de drenaje en Oficinas del Municipio"
-Date: 2021-03-12
+date: 2021-03-12
 categories: tecate
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-12-falta-de-drenaje-en-oficinas-del-municipio.PNG

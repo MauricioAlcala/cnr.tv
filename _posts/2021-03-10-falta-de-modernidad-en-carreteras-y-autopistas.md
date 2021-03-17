@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Falta de modernidad en carreteras y autopistas provoca perdidas"
-Date: 2021-03-10
+date: 2021-03-10
 categories: mexicali
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-10-falta-de-modernidad-en-carreteras-y-autopistas.jpg

@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Protesta pacífica en Playas de Rosarito"
-Date: 2021-03-09
+date: 2021-03-09
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-09-protesta-pacifica-en-playas-rosarito.jpg

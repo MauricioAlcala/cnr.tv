@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Perro cuida a su amigo atropellado"
-Date: 2021-03-12
+date: 2021-03-12
 categories: tecate
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-12-perro-cuida-a-su-amigo-atropellado.jpg

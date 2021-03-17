@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Vinculan a proceso a ex acalde de tijuana"
-Date: 2021-03-09
+date: 2021-03-09
 categories: mexicali
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-09-vinculan-a-proceso-a-ex-acalde-de-tijuana.jpg

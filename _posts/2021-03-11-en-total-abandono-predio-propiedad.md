@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "En total abandono predio propiedad de la secretaría de educación"
-Date: 2021-03-11
+date: 2021-03-11
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-11-en-total-abandono-predio-propiedad.jpg

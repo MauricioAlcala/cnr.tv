@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Secuestran a empresario en rosarito "
-Date: 2021-03-10
+date: 2021-03-10
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-10-secuestran-a-empresario-en-rosarito.jpg

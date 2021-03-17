@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Presentan informe del Gobierno Municipal"
-Date: 2021-03-12
+date: 2021-03-12
 categories: mexicali
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-12-presentan-informe-del-gobiero-municipal.jpg

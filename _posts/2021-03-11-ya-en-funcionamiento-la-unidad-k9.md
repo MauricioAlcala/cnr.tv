@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Ya en funcionamiento la unidad K9"
-Date: 2021-03-11
+date: 2021-03-11
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-11-ya-en-funcionamiento-la-unidad-k9.jpg

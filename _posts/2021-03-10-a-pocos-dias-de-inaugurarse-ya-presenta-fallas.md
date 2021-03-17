@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "A pocos días de inaugurarse ya presenta fallas "
-Date: 2021-03-10
+date: 2021-03-10
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-10-a-pocos-dias-de-inaugurarse-ya-presenta-fallas.jpg

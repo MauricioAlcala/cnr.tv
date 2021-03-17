@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Lloverá un promedio 19 milimetros , posiblemente en toda la noche de hoy a mañana"
-Date: 2021-03-09
+date: 2021-03-09
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-09-llovera-un-promedio-de-19-milimetros.jpg

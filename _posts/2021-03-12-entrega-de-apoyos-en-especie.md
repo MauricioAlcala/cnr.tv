@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Entrega de apoyos en especie"
-Date: 2021-03-12
+date: 2021-03-12
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-12-entrega-de-apoyos-en-especie.jpg

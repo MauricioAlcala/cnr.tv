@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Riesgos sanitarios cofepris menciona no tener injerencia en el tema de migrantes en el chaparral"
-Date: 2021-03-10
+date: 2021-03-10
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-10-riesgos-sanitarios-cofepris.jpg

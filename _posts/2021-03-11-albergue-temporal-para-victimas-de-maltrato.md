@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Albergue temporal para víctimas de maltrato"
-Date: 2021-03-11
+date: 2021-03-11
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-11-albergue-temporal-para-victimas-de-maltrato.jpg

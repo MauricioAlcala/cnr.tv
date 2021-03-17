@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Perros K9 reciben entrenamiento especial"
-Date: 2021-03-11
+date: 2021-03-11
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-11-perros-k9-reciben-entrenamiento-especial.jpg

@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "UNIDADES DE POLICIA MUNICIPAL DESCOMPUESTAS Y SIN MANTENIMIENTO"
-Date: 2021-03-11
+date: 2021-03-11
 categories: tecate
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-11-unidades-de-la-policia-municipal-descompuestas-y-sin-mantenimiento.PNG

@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "El sector médico tras el secuestro a uno de sus colegas se sienten atemorizados"
-Date: 2021-03-12
+date: 2021-03-12
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-12-el-sector-medico-tras-el-secuestro-a-uno-de-sus-colegas.jpg

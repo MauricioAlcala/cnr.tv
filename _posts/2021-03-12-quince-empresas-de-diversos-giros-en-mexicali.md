@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "15 Empresas de diversos giros en Mexicali sufrieron el corte del servicio de agua"
-Date: 2021-03-12
+date: 2021-03-12
 categories: mexicali
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-12-quince-empresas-de-diversos-giros-en-mexicali.jpg

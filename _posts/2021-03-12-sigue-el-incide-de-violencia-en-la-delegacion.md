@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Sigue el incide de violencia en la delegación de la Presa"
-Date: 2021-03-12
+date: 2021-03-12
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-12-sigue-el-incide-de-violencia-en-la-delegacion.jpg

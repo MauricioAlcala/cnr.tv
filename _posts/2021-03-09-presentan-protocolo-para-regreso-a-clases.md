@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Presentan protocolo para regreso a las clases en Baja California"
-Date: 2021-03-09
+date: 2021-03-09
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-09-presentan-protocolo-para-regreso-a-clases.jpg

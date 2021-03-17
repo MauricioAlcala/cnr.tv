@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "DESAPARECEN LA FIGURA DE VOCERO EN EL DSPM"
-Date: 2021-03-10
+date: 2021-03-10
 categories: tecate
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-10-desaparecen-la-figura-de-vocero-en-el-dsmp.jpg

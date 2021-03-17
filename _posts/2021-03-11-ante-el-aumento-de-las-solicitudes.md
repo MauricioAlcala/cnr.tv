@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Ante el aumento de las solicitudes de la condición de refugiado en México"
-Date: 2021-03-11
+date: 2021-03-11
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-11-ante-el-aumento-de-las-solicitudes.jpg

@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "MUJER INTENTA HACER JUSTICIA POR MANO PROPIA EN LA LÁZARO CÁRDENAS"
-Date: 2021-03-10
+date: 2021-03-10
 categories: tecate
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-10-mujer-intenta-hacer-justicia-por-mano-propia.jpg

@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Se detectaron en la zona este muchos cruces con aglomeración de tráficos que corresponden a la federación"
-Date: 2021-03-10
+date: 2021-03-10
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-10-se-detectaron-en-la-zona-este.jpg

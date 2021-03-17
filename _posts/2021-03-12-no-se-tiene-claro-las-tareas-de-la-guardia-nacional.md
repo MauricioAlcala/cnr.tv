@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "No se tiene claro las tareas de la guardia nacional en Tijuana"
-Date: 2021-03-12
+date: 2021-03-12
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-12-no-se-tiene-claro-las-tareas-de-la-guardia-nacional.jpg

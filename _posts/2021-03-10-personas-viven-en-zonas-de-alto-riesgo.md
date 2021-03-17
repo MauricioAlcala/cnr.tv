@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Personas viven en zonas de alto riesgo"
-Date: 2021-03-10
+date: 2021-03-10
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-10-personas-viven-en-zonas-de-alto-riesgo.jpg

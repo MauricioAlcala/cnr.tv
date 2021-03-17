@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Los daños en las estaciones del sitt tienen como resultados costosos "
-Date: 2021-03-09
+date: 2021-03-09
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-09-los-danos-en-las-estaciones-del-sitt.jpg

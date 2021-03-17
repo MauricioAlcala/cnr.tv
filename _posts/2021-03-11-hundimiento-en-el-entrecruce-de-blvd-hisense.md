@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Hundimiento en el entrecruce de blvd hisense y carretera Tijuana-Rosarito"
-Date: 2021-03-11
+date: 2021-03-11
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-11-hundimiento-en-el-entrecruce-de-blvd-hisense.jpg

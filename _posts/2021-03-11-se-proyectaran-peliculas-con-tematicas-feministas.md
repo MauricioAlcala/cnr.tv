@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Se proyectarán películas con temáticas feministas"
-Date: 2021-03-11
+date: 2021-03-11
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/2021-03-11-se-proyectaran-peliculas-con-tematicas-feministas.jpg
