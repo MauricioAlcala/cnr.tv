@@ -4,7 +4,7 @@
         <div class="news-list">
             <div class="nl-item">
                 <div class="nl-img">
-                    <img src="{{ "/img/cnricon/apple-touch-icon.png" | relative_url }}" />
+                    <img src="{{ "/img/cnricon/apple-touch-icon.png" | relative_url }}" loading="lazy" />
                 </div>
                 <div class="nl-title">
                     <a href="">Programa: "Noticiero Estatal"</a>
@@ -12,7 +12,7 @@
             </div>
             <div class="nl-item">
                 <div class="nl-img">
-                    <img src="{{ "/img/cnricon/apple-touch-icon.png" | relative_url }}" />
+                    <img src="{{ "/img/cnricon/apple-touch-icon.png" | relative_url }}" loading="lazy" />
                 </div>
                 <div class="nl-title">
                     <a href="">Programa: "Fuerza Musical"</a>
@@ -21,7 +21,7 @@
 
             <div class="nl-item">
                 <div class="nl-img">
-                    <img src="{{ "/img/cnricon/apple-touch-icon.png" | relative_url }}" />
+                    <img src="{{ "/img/cnricon/apple-touch-icon.png" | relative_url }}" loading="lazy" />
                 </div>
                 <div class="nl-title">
                     <a href="">Programa: "Frente a la Noticia"</a>
@@ -30,7 +30,7 @@
 
             <div class="nl-item">
                 <div class="nl-img">
-                    <img src="{{ "/img/cnricon/apple-touch-icon.png" | relative_url }}" />
+                    <img src="{{ "/img/cnricon/apple-touch-icon.png" | relative_url }}" loading="lazy" />
                 </div>
                 <div class="nl-title">
                     <a href="">Programa: "Charly Stpx"</a>
@@ -39,7 +39,7 @@
 
             <div class="nl-item">
                 <div class="nl-img">
-                    <img src="{{ "/img/cnricon/apple-touch-icon.png" | relative_url }}" />
+                    <img src="{{ "/img/cnricon/apple-touch-icon.png" | relative_url }}" loading="lazy" />
                 </div>
                 <div class="nl-title">
                     <a href="">Programa: "Luz de Vida"</a>
@@ -48,7 +48,7 @@
 
             <div class="nl-item">
                 <div class="nl-img">
-                    <img src="{{ "/img/cnricon/apple-touch-icon.png" | relative_url }}" />
+                    <img src="{{ "/img/cnricon/apple-touch-icon.png" | relative_url }}" loading="lazy" />
                 </div>
                 <div class="nl-title">
                     <a href="">Programa: "Enfoque Diverso"</a>
@@ -57,7 +57,7 @@
 
             <div class="nl-item">
                 <div class="nl-img">
-                    <img src="{{ "/img/cnricon/apple-touch-icon.png" | relative_url }}"/>
+                    <img src="{{ "/img/cnricon/apple-touch-icon.png" | relative_url }}" loading="lazy"/>
                 </div>
                 <div class="nl-title">
                     <a href="">Programa: "Centro de Protección Legal"</a>
@@ -66,7 +66,7 @@
 
             <div class="nl-item">
                 <div class="nl-img">
-                    <img src="{{ "/img/cnricon/apple-touch-icon.png" | relative_url }}" />
+                    <img src="{{ "/img/cnricon/apple-touch-icon.png" | relative_url }}" loading="lazy" />
                 </div>
                 <div class="nl-title">
                     <a href="">Programa: "Convergencia Informativa</a>
@@ -75,7 +75,7 @@
 
             <div class="nl-item">
                 <div class="nl-img">
-                    <img src="{{ "/img/cnricon/apple-touch-icon.png" | relative_url }}" />
+                    <img src="{{ "/img/cnricon/apple-touch-icon.png" | relative_url }}" loading="lazy" />
                 </div>
                 <div class="nl-title">
                     <a href="">Programa: "Noticiero Estatal por canal 73 y 66.3 "</a>
@@ -112,10 +112,10 @@
 
             <div class="tab-content">
                 <div id="tijuana" class="container tab-pane active">
-                    {% for post in site.categories.tijuana %}
+                    {% for post in site.categories.tijuana limit:2 %}
                     <div class="tn-news">
                         <div class="tn-img">
-                            <img src="{{ post.image }}" />
+                            <img src="{{ post.image }}" loading="lazy" />
                         </div>
                         <div class="tn-title">
                             <a href="{{ post.url }}">{{ post.title }}</a>
@@ -124,10 +124,10 @@
                     {% endfor %}
                 </div>
                 <div id="rosarito" class="container tab-pane fade">
-                    {% for post in site.categories.rosarito %}
+                    {% for post in site.categories.rosarito limit:2 %}
                     <div class="tn-news">
                         <div class="tn-img">
-                            <img src="{{ post.image }}" />
+                            <img src="{{ post.image }}" loading="lazy" />
                         </div>
                         <div class="tn-title">
                             <a href="{{ post.url }}">{{ post.title }}</a>
@@ -136,10 +136,10 @@
                     {% endfor %}               
                 </div>
                 <div id="ensenada" class="container tab-pane fade">
-                    {% for post in site.categories.ensenada %}
+                    {% for post in site.categories.ensenada limit:2 %}
                     <div class="tn-news">
                         <div class="tn-img">
-                            <img src="{{ post.image }}" />
+                            <img src="{{ post.image }}" loading="lazy" />
                         </div>
                         <div class="tn-title">
                             <a href="{{ post.url }}">{{ post.title }}</a>
@@ -148,10 +148,10 @@
                     {% endfor %}
                 </div>
                 <div id="tecate" class="container tab-pane fade">
-                    {% for post in site.categories.tecate %}
+                    {% for post in site.categories.tecate limit:2 %}
                     <div class="tn-news">
                         <div class="tn-img">
-                            <img src="{{ post.image }}" />
+                            <img src="{{ post.image }}" loading="lazy" />
                         </div>
                         <div class="tn-title">
                             <a href="{{ post.url }}">{{ post.title }}</a>
@@ -160,10 +160,10 @@
                     {% endfor %}
                 </div>
                 <div id="mexicali" class="container tab-pane fade">
-                    {% for post in site.categories.mexicali %}
+                    {% for post in site.categories.mexicali limit:2 %}
                     <div class="tn-news">
                         <div class="tn-img">
-                            <img src="{{ post.image }}" />
+                            <img src="{{ post.image }}" loading="lazy" />
                         </div>
                         <div class="tn-title">
                             <a href="{{ post.url }}">{{ post.title }}</a>
@@ -177,7 +177,7 @@
 
     <div class="sidebar-widget">
         <div class="image">
-            <a href="#"><img src="{{ "img/logos/logocnr.jpg" | relative_url }}" alt="Image"></a>
+            <a href="#"><img src="{{ "img/logos/logocnr.jpg" | relative_url }}" alt="Image" loading="lazy"></a>
         </div>
     </div>
 
@@ -198,7 +198,7 @@
 
     <div class="sidebar-widget">
         <div class="image">
-            <a href="#"><img src="{{ "img/logos/73estatal.png" | relative_url }}" alt="Image"></a>
+            <a href="#"><img src="{{ "img/logos/73estatal.png" | relative_url }}" alt="Image" loading="lazy"></a>
         </div>
     </div>
 
