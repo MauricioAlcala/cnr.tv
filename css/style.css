@@ -1466,3 +1466,24 @@ article.entry {
     top: 0;
     width: 100%;
     }
+
+    article.entry {
+        padding: 30px; 
+         margin-bottom: 60px; 
+         box-shadow: 0 4px 16px rgba(248, 245, 245, 0.1);
+    }
+    
+    .video-responsive {
+        height: 0;
+        overflow: hidden;
+        padding-bottom: 56.25%;
+        padding-top: 30px;
+        position: relative;
+        }
+    .video-responsive iframe, .video-responsive object, .video-responsive embed {
+        height: 100%;
+        left: 0;
+        position: absolute;
+        top: 0;
+        width: 100%;
+        }
