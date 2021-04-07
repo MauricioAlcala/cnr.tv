@@ -3,9 +3,9 @@
 /**********************************/
 body {
     color: #000000;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 400;
-    background: #000000;
+    background: #ffffff;
 }
 
 a {
@@ -16,7 +16,7 @@ a {
 a:hover,
 a:active,
 a:focus {
-    color: #ffffff;
+    color: #000000;
     outline: none;
     text-decoration: none;
 }
@@ -48,7 +48,7 @@ h6 {
 .back-to-top {
     position: fixed;
     display: none;
-    background: #7c170f;
+    background: #FF6F61;
     color: #ffffff;
     width: 35px;
     height: 35px;
@@ -88,7 +88,7 @@ h6 {
 .form-control:focus,
 .custom-select:focus {
     box-shadow: none;
-    border-color: #7c170f;
+    border-color: #FF6F61;
 }
 
 .custom-radio,
@@ -104,7 +104,7 @@ h6 {
 .custom-radio .custom-control-input:checked~.custom-control-label::before,
 .custom-checkbox .custom-control-input:checked~.custom-control-label::before {
     color: #ffffff;
-    background: #7c170f;
+    background: #FF6F61;
 }
 
 button.btn {
@@ -115,8 +115,8 @@ button.btn {
 
 button.btn:hover {
     color: #ffffff;
-    background: #7c7c7b;
-    border-color: #7c170f;
+    background: #FF6F61;
+    border-color: #FF6F61;
 }
 
 
@@ -131,7 +131,7 @@ button.btn:hover {
 .top-bar .tb-contact p {
     display: inline-block;
     margin: 0;
-    color: #ffffff;
+    color: #FF6F61;
     font-size: 14px;
 }
 
@@ -149,7 +149,7 @@ button.btn:hover {
 }
 
 .top-bar .tb-menu a {
-    color: #ffffff;
+    color: #FF6F61;
     font-size: 14px;
     margin: 0 8px;
 }
@@ -166,7 +166,7 @@ button.btn:hover {
     position: absolute;
     content: "/";
     margin: 1px 0 0 6px;
-    color: #a39391;
+    color: #FF6F61;
     font-size: 14px;
 }
 
@@ -186,8 +186,8 @@ button.btn:hover {
 /*********** Brand CSS ************/
 /**********************************/
 .brand {
-    margin: 0px 0;
-    background: #7c170f;
+    margin: 15px 0;
+    background: #ffffff;
 }
 
 .brand .b-logo {
@@ -196,8 +196,8 @@ button.btn:hover {
 }
 
 .brand .b-logo a img {
-    max-width: 110%;
-    max-height: 110px;
+    max-width: 100%;
+    max-height: 60px;
 }
 
 .brand .b-ads {
@@ -234,18 +234,18 @@ button.btn:hover {
     right: 15px;
     border: none;
     background: none;
-    color: #7c7c7b;
+    color: #FF6F61;
     border-radius: 0 4px 4px 0;
 }
 
 .brand .b-search button:hover {
-    background: #7c170f;
-    color: #7c7c7b;
+    background: #FF6F61;
+    color: #ffffff;
 }
 
 @media (min-width: 768px) {
     .brand {
-        max-height: 105px;
+        max-height: 90px;
     }
 }
 
@@ -293,7 +293,7 @@ button.btn:hover {
 
 .navbar-dark .navbar-nav .nav-link:hover,
 .navbar-dark .navbar-nav .nav-link.active {
-    border-bottom: 2px solid #ffffff;
+    border-bottom: 2px solid #000000;
     transition: none;
 }
 
@@ -301,21 +301,13 @@ button.btn:hover {
     margin-top: 0;
     border: 0;
     border-radius: 0;
-    background: #7c170f;
-}
-
-.nav-bar .dropdown-menu :hover {
-    background: #7c7c7b;
-}
-
-.nav-bar .dropdown-menu a{
-    color: #ffffff;
+    background: #f8f9fa;
 }
 
 @media (min-width: 768px) {
     .nav-bar,
     .nav-bar .navbar {
-        background: #7c170f!important;
+        background: #FF6F61 !important;
     }
     
     .nav-bar .navbar-brand {
@@ -333,7 +325,7 @@ button.btn:hover {
     .nav-bar,
     .nav-bar .navbar {
         padding: 3px 0;
-        background: #7c170f !important;
+        background: #FF6F61 !important;
     }
     
     .nav-bar a.nav-link {
@@ -362,7 +354,7 @@ button.btn:hover {
     padding: 3px 0;
     text-align: center;
     font-size: 14px;
-    background:#7c170f;
+    background: #FF6F61;
     border: 1px solid #ffffff;
     border-radius: 4px;
 }
@@ -377,7 +369,7 @@ button.btn:hover {
 }
 
 .nav-bar .social a:hover i {
-    color: #7c170f;
+    color: #FF6F61;
 }
 
 
@@ -400,8 +392,8 @@ button.btn:hover {
 }
 
 .top-news .tn-img:hover img {
-    filter: blur(0px);
-    -webkit-filter: blur(0px);
+    filter: blur(3px);
+    -webkit-filter: blur(3px);
 }
 
 .top-news .tn-title {
@@ -431,7 +423,7 @@ button.btn:hover {
 }
 
 .top-news .tn-title a:hover {
-    color: whitesmoke;
+    color: #FF6F61;
 }
 
 .top-news .tn-left {
@@ -505,10 +497,10 @@ button.btn:hover {
 }
 
 .cat-news h2 {
-    color: #ffffff;
+    color: #000000;
     margin-bottom: 30px;
     padding-bottom: 15px;
-    border-bottom: 3px double #ffffff;
+    border-bottom: 3px double #000000;
 }
 
 .cat-news .cn-img {
@@ -521,8 +513,8 @@ button.btn:hover {
 }
 
 .cat-news .cn-img:hover img {
-    filter: blur(0px);
-    -webkit-filter: blur(0px);
+    filter: blur(3px);
+    -webkit-filter: blur(3px);
 }
 
 .cat-news .cn-title {
@@ -541,13 +533,13 @@ button.btn:hover {
     display: block;
     width: 100%;
     color: #ffffff;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 400;
     transition: .3s;
 }
 
 .cat-news .cn-title a:hover {
-    color: whitesmoke;
+    color: #FF6F61;
 }
 
 .cat-news .slick-prev,
@@ -558,7 +550,7 @@ button.btn:hover {
     z-index: 1;
     transition: .5s;
     color: #ffffff;
-    background: #7c170f;
+    background: #000000;
     border-radius: 4px;
 }
 
@@ -575,7 +567,7 @@ button.btn:hover {
 .cat-news .slick-next:hover,
 .cat-news .slick-next:focus {
     color: #ffffff;
-    background: #7c7c7b;
+    background: #FF6F61;
 }
 
 .cat-news .slick-prev::before,
@@ -608,26 +600,26 @@ button.btn:hover {
 
 .tab-news .nav.nav-pills .nav-link {
     color: #ffffff;
-    background: #7c7c7b;
+    background: #000000;
     border-radius: 0;
 }
 
 .tab-news .nav.nav-pills .nav-link:hover,
 .tab-news .nav.nav-pills .nav-link.active {
     color: #ffffff;
-    background: #7c7c7b;
+    background: #FF6F61;
 }
 
 .tab-news .tab-content {
     padding: 30px 15px 15px 15px;
-    background: #7c170f;
+    background: rgba(0, 0, 0, .05);
 }
 
 .tab-news .tn-news {
     display: flex;
     align-items: center;
     margin-bottom: 15px;
-    background: #7c170f;
+    background: #ffffff;
 }
 
 .tab-news .tn-img {
@@ -643,14 +635,14 @@ button.btn:hover {
 }
 
 .tab-news .tn-title a {
-    color: rgb(255, 255, 255);
+    color: #000000;
     font-size: 18px;
     font-weight: 400;
     transition: all .3s;
 }
 
 .tab-news .tn-title a:hover {
-    color: #7c7c7b;
+    color: #FF6F61;
 }
 
 
@@ -678,8 +670,8 @@ button.btn:hover {
 }
 
 .main-news .mn-img:hover img {
-    filter: blur(0px);
-    -webkit-filter: blur(0px);
+    filter: blur(3px);
+    -webkit-filter: blur(3px);
 }
 
 .main-news .mn-title {
@@ -704,7 +696,7 @@ button.btn:hover {
 }
 
 .main-news .mn-title a:hover {
-    color: #ffffff;
+    color: #FF6F61;
 }
 
 .main-news .mn-list {
@@ -712,10 +704,10 @@ button.btn:hover {
 }
 
 .main-news .mn-list h2 {
-    color: #ffffff;
+    color: #000000;
     margin-bottom: 30px;
     padding-bottom: 15px;
-    border-bottom: 3px double #ffffff;
+    border-bottom: 3px double #000000;
 }
 
 .main-news .mn-list ul {
@@ -733,7 +725,7 @@ button.btn:hover {
 }
 
 .main-news .mn-list ul li a {
-    color: #ffffff;
+    color: #000000;
     display: block;
     line-height: 23px;
 }
@@ -743,12 +735,12 @@ button.btn:hover {
     content: '\f061';
     font-family: 'Font Awesome 5 Free';
     font-weight: 900;
-    color: #ffffff;
+    color: #000000;
     left: 1px;
 }
 
 .main-news .mn-list ul li a:hover {
-    color: #7c7c7b;
+    color: #FF6F61;
 }
 
 
@@ -801,26 +793,10 @@ button.btn:hover {
     padding: 30px 0;
 }
 
-.single-news .sn-content p {
-    color: #ffffff;
-}
-
-.single-news .sn-content a {
-    color: #ffffff;
-}
-
-.single-news .sn-content h4 {
-    color: #ffffff;
-}
-
-.single-news .sn-content h3 {
-    color: #ffffff;
-}
-
 .single-news .sn-content h1.sn-title {
     display: block;
     width: 100%;
-    color: #ffffff;
+    color: #000000;
 }
 
 .single-news .sn-related {
@@ -828,10 +804,10 @@ button.btn:hover {
 }
 
 .single-news .sn-related h2 {
-    color: #ffffff;
+    color: #000000;
     margin-bottom: 30px;
     padding-bottom: 15px;
-    border-bottom: 3px double #ffffff;
+    border-bottom: 3px double #000000;
 }
 
 .single-news .sn-slider .sn-img {
@@ -870,7 +846,7 @@ button.btn:hover {
 }
 
 .single-news .sn-slider .sn-title a:hover {
-    color: #ffffff;
+    color: #FF6F61;
 }
 
 .single-news .sn-slider .slick-prev,
@@ -933,10 +909,10 @@ button.btn:hover {
 }
 
 .sidebar .sidebar-widget h2.sw-title {
-    color: #ffffff;
+    color: #000000;
     margin-bottom: 30px;
     padding-bottom: 15px;
-    border-bottom: 3px double #ffffff;
+    border-bottom: 3px double #000000;
 }
 
 .sidebar .sidebar-widget .news-list {
@@ -963,7 +939,7 @@ button.btn:hover {
 }
 
 .sidebar .news-list .nl-item .nl-title a {
-    color: #ffffff;
+    color: #000000;
     font-size: 16px;
     font-weight: 400;
     transition: all .3s;
@@ -1048,7 +1024,7 @@ button.btn:hover {
 
 .sidebar .category ul li a {
     display: inline-block;
-    color: #ffffff;
+    color: #000000;
     line-height: 23px;
 }
 
@@ -1061,14 +1037,13 @@ button.btn:hover {
     content: '\f061';
     font-family: 'Font Awesome 5 Free';
     font-weight: 900;
-    color: #ffffff;
+    color: #000000;
     left: 1px;
 }
 
 .sidebar .category ul li span {
     display: inline-block;
     float: right;
-    color: #ffffff;
 }
 
 .sidebar .sidebar-widget .tags {
@@ -1117,77 +1092,19 @@ button.btn:hover {
     padding: 25px 0 15px 0;
 }
 
-.contact .contact-info h3 {
-    color: #ffffff;
-}
-
-.contact .contact-info p {
-    color: #ffffff;
-}
-
-.contact .php-email-form .validate {
-  display: none;
-  color: red;
-  margin: 0 0 15px 0;
-  font-weight: 400;
-  font-size: 13px;
-}
-
-.contact .php-email-form .error-message {
-  display: none;
-  color: #fff;
-  background: #ed3c0d;
-  text-align: left;
-  padding: 15px;
-  font-weight: 600;
-}
-
-.contact .php-email-form .error-message br + br {
-  margin-top: 25px;
-}
-
-.contact .php-email-form .sent-message {
-  display: none;
-  color: #fff;
-  background: #18d26e;
-  text-align: center;
-  padding: 15px;
-  font-weight: 600;
-}
-
-.contact .php-email-form .loading {
-  display: none;
-  background: #fff;
-  text-align: center;
-  padding: 15px;
-}
-
-.contact .php-email-form .loading:before {
-  content: "";
-  display: inline-block;
-  border-radius: 50%;
-  width: 24px;
-  height: 24px;
-  margin: 0 10px -6px 0;
-  border: 3px solid #18d26e;
-  border-top-color: #eee;
-  -webkit-animation: animate-loading 1s linear infinite;
-  animation: animate-loading 1s linear infinite;
-}
-
+.contact .contact-form,
 .contact .contact-info {
     margin-bottom: 45px;
 }
 
 .contact .contact-info h4 {
-    color: #ffffff;
     margin-bottom: 10px;
     font-size: 16px;
     font-weight: 400;
 }
 
 .contact .contact-info h4 i {
-    color: #ffffff;
+    color: #000000;
     margin-right: 5px;
 }
 
@@ -1204,17 +1121,17 @@ button.btn:hover {
     padding: 7px 0;
     text-align: center;
     font-size: 18px;
-    border: 1px solid #7c7c7b;
+    border: 1px solid #000000;
     border-radius: 4px;
 }
 
 .contact .social a i {
-    color: #ffffff;
+    color: #000000;
 }
 
 .contact .social a:hover {
-    background: #7c170f;
-    border-color: #7c7c7b;
+    background: #FF6F61;
+    border-color: #FF6F61;
 }
 
 .contact .social a:hover i {
@@ -1316,7 +1233,7 @@ button.btn:hover {
 }
 
 .footer .social a:hover {
-    background: #7c7c7b;
+    background: #FF6F61;
 }
 
 .footer .social a:hover i {
@@ -1357,7 +1274,7 @@ button.btn:hover {
 }
 
 .footer .newsletter .btn:hover {
-    background: #7c7c7b;
+    background: #FF6F61;
 }
 
 .footer .newsletter input:focus,
@@ -1393,7 +1310,7 @@ button.btn:hover {
 }
 
 .footer-menu .f-menu a:hover {
-    color: #7c7c7b;
+    color: #FF6F61;
 }
 
 .footer-menu .f-menu a:last-child {
@@ -1430,12 +1347,11 @@ button.btn:hover {
 .footer-bottom .copyright p a,
 .footer-bottom .template-by p a {
     font-weight: 600;
-    color: #7c170f;
 }
 
 .footer-bottom .copyright p a:hover,
 .footer-bottom .template-by p a:hover {
-    color: #7c7c7b;
+    color: #ffffff;
 }
 
 @media (max-width: 768.98px) {
@@ -1487,3 +1403,5 @@ article.entry {
         top: 0;
         width: 100%;
         }
+=======
+}
