@@ -106,7 +106,7 @@
                 <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
                     <div class="navbar-nav mr-auto">
                         <a href="index.html" class="nav-item nav-link active">Inicio</a>
-                        <!--div class="nav-item dropdown">
+                       <!--div class="nav-item dropdown">
                             <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Noticias</a>
                             <div class="dropdown-menu">
                                 <a href="tijuana" class="dropdown-item">Tijuana</a>
@@ -193,7 +193,69 @@
                     <div class="col-md-12">
                         <h2>Tijuana</h2>
                         <div class="row cn-slider">
-                            {% for video in site.data.videos limit:15 %}
+                            {% for video in site.data.tijuana limit:3 limit:10 %}
+                            {% if video.region == "Tijuana" %}
+                            <article class="entry">
+                                <div class="video-responsive">
+                                    <iframe                                        
+                                        src="{{video.url|uri_escape}}" 
+                                        frameborder="0" 
+                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                                        allowfullscreen></iframe>
+                                </div>
+                                <h2 class="entry-title"><a href="{{video.url|uri_escape}}">{{video.titulo}}</a></h2>
+                            </article><!-- End blog entry --> 
+                            {% endif %}
+                            {% endfor %}
+                           
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <h2>Tecate</h2>
+                        <div class="row cn-slider">
+                            {% for video in site.data.tecate limit:3 %}
+                            <article class="entry">
+                                <div class="video-responsive">
+                                    <iframe                                        
+                                        src="{{video.url|uri_escape}}" 
+                                        frameborder="0" 
+                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                                        allowfullscreen></iframe>
+                                </div>
+                                <h2 class="entry-title"><a href="{{video.url|uri_escape}}">{{video.titulo}}</a></h2>
+                            </article><!-- End blog entry --> 
+                            {% endfor %}
+                           
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <h2>Rosarito</h2>
+                        <div class="row cn-slider">
+                            {% for video in site.data.rosarito limit:3 %}
+                            <article class="entry">
+                                <div class="video-responsive">
+                                    <iframe                                        
+                                        src="{{video.url|uri_escape}}" 
+                                        frameborder="0" 
+                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                                        allowfullscreen></iframe>
+                                </div>
+                                <h2 class="entry-title"><a href="{{video.url|uri_escape}}">{{video.titulo}}</a></h2>
+                            </article><!-- End blog entry --> 
+                            {% endfor %}
+                           
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <h2>Mexicali</h2>
+                        <div class="row cn-slider">
+                            {% for video in site.data.mexicali limit:3 %}
                             <article class="entry">
                                 <div class="video-responsive">
                                     <iframe                                        
