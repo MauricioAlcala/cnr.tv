@@ -79,16 +79,25 @@
     <div class="brand">
         <div class="container">
             <div class="row align-items-center">
-                <div class="col-lg-3 col-md-4">
+                <div class="col-lg-5 col-md-4">
                     <div class="b-logo">
+                        
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4">
+                    <div class="b-ads">
                         <a href="index.html">
-                            <img src="img/logos/logo.png" alt="Logo">
+                            <img src="img/logos/logo.png" alt="Logo de CNR Noticias">
                         </a>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4">
+                    <div class="b-search">
+                        <p style='color:aliceblue'>Viernes, 9 de abril 2021</p>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
     </div>
     <!-- Brand End -->
         
@@ -140,7 +149,7 @@
                                 Haz llegar tu noticia. CNR siempre allí.
                             </p>
                         <p>Llena este formulario con todo lo relevante.</p></div>
-                        <form action="https://formspree.io/f/xzbkgdvq" method="post" class="php-email-form">
+                        <form action="/forms/enviarcorreo.php" method="post" class="php-email-form">
                             <div class="form-row">
                                 <div class="form-group col-md-6">
                                     <input type="text" id="inputname" name="inputname" class="form-control" placeholder="Nombre" />
@@ -155,11 +164,6 @@
                             <div class="form-group">
                                 <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Mensaje"></textarea>
                                 <div class="validate"></div>
-                            </div>
-                            <div id="statusForm" class="mb-3">
-                              <div class="loading">Cargando</div>
-                              <div class="error-message"></div>
-                              <div class="sent-message">Gracias!. Tú mensaje ha sido enviado</div>
                             </div>
                             <div><button class="btn" type="submit">Enviar Mensaje</button></div>
                         </form>
