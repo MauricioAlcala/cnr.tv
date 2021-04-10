@@ -1199,7 +1199,7 @@ button.btn:hover {
 
 .footer .footer-widget ul li a:hover {
     padding-left: 10px;
-    color: #FF6F61;
+    color: #7c170f;
 }
 
 .footer .contact-info p {
@@ -1210,6 +1210,45 @@ button.btn:hover {
 
 .footer .contact-info p i {
     color: #ffffff;
+    margin-right: 5px;
+}
+
+.contact-info .social a {
+    background: #7c170f;
+    border: 1px solid #7c7c7b;
+    border-radius: 4px;
+}
+
+.contact-info .social a:hover {
+    background: #ffffff;
+    border: 1px solid #7c170f;
+}
+
+.contact-info .social a i {
+    color: #ffffff;
+}
+
+.contact-info .social a:hover i {
+    color: #7c170f;
+}
+
+.contact-info .social a {
+    color: #ffffff;
+    margin-right: 5px;
+}
+
+.contact-info .social a:hover {
+    color: #ffffff;
+    margin-right: 5px;
+}
+
+.contact-info .social a i {
+    color: #ffffff;
+    margin-right: 5px;
+}
+
+.contact-info .social a i:hover {
+    color: #7c170f;
     margin-right: 5px;
 }
 
@@ -1231,11 +1270,11 @@ button.btn:hover {
 }
 
 .footer .social a i {
-    color: #111111;
+    color: #7c170f;
 }
 
 .footer .social a:hover {
-    background: #FF6F61;
+    background: #7c170f;
 }
 
 .footer .social a:hover i {
@@ -1268,7 +1307,7 @@ button.btn:hover {
     right: 0;
     padding: 0 15px;
     border: none;
-    background: #111111;
+    background: #7c170f;
     color: #ffffff;
     font-size: 14px;
     border: 1px solid #ffffff;
@@ -1276,7 +1315,7 @@ button.btn:hover {
 }
 
 .footer .newsletter .btn:hover {
-    background: #FF6F61;
+    background: #7c7c7b;
 }
 
 .footer .newsletter input:focus,
@@ -1346,21 +1385,31 @@ button.btn:hover {
     margin: 0;
 }
 
-.footer-bottom .copyright p a,
+.footer-bottom .copyright p a {
+    color: #ffffff;
+}
+
 .footer-bottom .template-by p a {
     font-weight: 600;
 }
 
-.footer-bottom .copyright p a:hover,
+.footer-bottom .copyright p a:hover {
+    color: #ffffff;
+}
+
 .footer-bottom .template-by p a:hover {
     color: #ffffff;
 }
 
 @media (max-width: 768.98px) {
-    .footer-bottom .copyright,
-    .footer-bottom .template-by {
-        text-align: center; 
-    } 
+}
+
+.footer-bottom .copyright {
+    }
+
+.footer-bottom .template-by p a {
+    color: #7c170f;
+    text-align: center; 
 }
 
 
