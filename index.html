@@ -115,8 +115,8 @@
                 </button>
                 <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
                     <div class="navbar-nav mr-auto">
-                        <!--a href="index.html" class="nav-item nav-link active">Inicio</a>
-                        <div class="nav-item dropdown">
+                        <a href="index.html" class="nav-item nav-link active">Inicio</a>
+                        <!--div class="nav-item dropdown">
                             <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Noticias</a>
                             <div class="dropdown-menu">
                                 <a href="tijuana" class="dropdown-item">Tijuana</a>
@@ -127,8 +127,8 @@
                             </div>
                         </div>
                         <a href="cobertura.html" class="nav-item nav-link">Cobertura</a>
-                        <a href="ultimas-noticias/index.html" class="nav-item nav-link">Últimas Noticias</a>
-                        <a href="contact.html" class="nav-item nav-link">Contacto</a-->
+                        <a href="ultimas-noticias/index.html" class="nav-item nav-link">Últimas Noticias</a-->
+                        <a href="contact.html" class="nav-item nav-link">Contacto</a>
                     </div>
                     <div class="social ml-auto">
                         <a href="https://www.facebook.com/cnrnoticias"><i class="fab fa-facebook-f"></i></a>
@@ -206,11 +206,11 @@
                 <div class="col-md-12">
                     <h2>Tijuana</h2>
                     <div class="row cn-slider">
-                        {% for video in site.data.tijuana limit:20 limit:10 %}
+                        {% for video in site.data.tijuana limit:5 limit:10 %}
                         {% if video.region == "Tijuana" %}
                         <article class="entry">
                             <div class="video-responsive">
-                                <iframe src="{{video.url|uri_escape}}" frameborder="0"
+                                <iframe loading="lazy" src="{{video.url|uri_escape}}" frameborder="0"
                                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                                     allowfullscreen></iframe>
                             </div>
@@ -226,10 +226,10 @@
                 <div class="col-md-12">
                     <h2>Tecate</h2>
                     <div class="row cn-slider">
-                        {% for video in site.data.tecate limit:20 %}
+                        {% for video in site.data.tecate limit:5 %}
                         <article class="entry">
                             <div class="video-responsive">
-                                <iframe src="{{video.url|uri_escape}}" frameborder="0"
+                                <iframe loading="lazy" src="{{video.url|uri_escape}}" frameborder="0"
                                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                                     allowfullscreen></iframe>
                             </div>
@@ -244,10 +244,10 @@
                 <div class="col-md-12">
                     <h2>Rosarito</h2>
                     <div class="row cn-slider">
-                        {% for video in site.data.rosarito limit:20 %}
+                        {% for video in site.data.rosarito limit:5 %}
                         <article class="entry">
                             <div class="video-responsive">
-                                <iframe src="{{video.url|uri_escape}}" frameborder="0"
+                                <iframe loading="lazy" src="{{video.url|uri_escape}}" frameborder="0"
                                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                                     allowfullscreen></iframe>
                             </div>
@@ -262,10 +262,10 @@
                 <div class="col-md-12">
                     <h2>Mexicali</h2>
                     <div class="row cn-slider">
-                        {% for video in site.data.mexicali limit:20 %}
+                        {% for video in site.data.mexicali limit:5 %}
                         <article class="entry">
                             <div class="video-responsive">
-                                <iframe src="{{video.url|uri_escape}}" frameborder="0"
+                                <iframe loading="lazy" src="{{video.url|uri_escape}}" frameborder="0"
                                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                                     allowfullscreen></iframe>
                             </div>
@@ -280,10 +280,10 @@
                 <div class="col-md-12">
                     <h2>Ensenada</h2>
                     <div class="row cn-slider">
-                        {% for video in site.data.ensenada limit:20 %}
+                        {% for video in site.data.ensenada limit:5 %}
                         <article class="entry">
                             <div class="video-responsive">
-                                <iframe src="{{video.url|uri_escape}}" frameborder="0"
+                                <iframe loading="lazy" src="{{video.url|uri_escape}}" frameborder="0"
                                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                                     allowfullscreen></iframe>
                             </div>
