@@ -97,7 +97,21 @@
                 </div>
                 <div class="col-lg-3 col-md-4">
                     <div class="b-search">
-                        <p style='color:aliceblue'>Martes, 13 de abril 2021</p>
+                        <font size="1">
+                            <script languaje="JavaScript"> 
+                            var mydate=new Date() 
+                            var year=mydate.getYear() 
+                            if (year < 1000) 
+                            year+=1900 
+                            var day=mydate.getDay() 
+                            var month=mydate.getMonth() 
+                            var daym=mydate.getDate() 
+                            if (daym<10) 
+                            daym="0"+daym 
+                            var dayarray=new Array("Domingo,","Lunes,","Martes,","Miércoles,","Jueves,","Viernes,","Sábado,")
+                            var montharray=new Array("Enero","Febrero","Marzo","Abril","Mayo","Junio","Julio","Agosto","Septiembre","Octubre","Noviembre","Diciembre")
+                            document.write("<font color='white' face='Newsreader' style='font-size:12pt'>"+dayarray[day]+" "+daym+" de "+montharray[month]+" de "+year+"</font>") 
+                        </script></font>
                     </div>
                 </div>
             </div>
@@ -468,7 +482,7 @@
                             </p>
                             <p><i class="fa fa-envelope"></i><a href="mailto:contacto@cnrnoticias.tv">
                                     contacto@cnrnoticias.tv</a>
-                            <p><i class="fa fa-phone"></i>+52 661 612 4333
+                            <p><i class="fa fa-phone"></i>+52 646 135 3705
                             </p>
                             <div class="social">
                                 <a href="https://www.facebook.com/cnrnoticias"><i class="fab fa-facebook-f"></i></a>

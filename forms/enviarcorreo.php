@@ -21,7 +21,7 @@ require("../lib/PHPMailer/src/SMTP.php");
  $phone = $_POST['phone'];
  $message = $_POST['message'];
  
- $mail->Body = "Nombre: {$name} <br> Email: {$email} <br> Teléfono : {$phone} <br> Mensaje : {$message}";
+ $mail->Body = "Nombre: {$name} <br> Email: {$email} <br> Telefono : {$phone} <br> Mensaje : {$message}";
  $mail->AddAddress("contacto@cnrnoticias.tv");
  if(!$mail->Send()) {
  echo "Mailer Error: " . $mail->ErrorInfo;
