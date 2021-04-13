@@ -206,7 +206,7 @@
                 <div class="col-md-12">
                     <h2>Tijuana</h2>
                     <div class="row cn-slider">
-                        {% for video in site.data.tijuana limit:3 limit:10 %}
+                        {% for video in site.data.tijuana limit:20 limit:10 %}
                         {% if video.region == "Tijuana" %}
                         <article class="entry">
                             <div class="video-responsive">
@@ -226,7 +226,7 @@
                 <div class="col-md-12">
                     <h2>Tecate</h2>
                     <div class="row cn-slider">
-                        {% for video in site.data.tecate limit:3 %}
+                        {% for video in site.data.tecate limit:20 %}
                         <article class="entry">
                             <div class="video-responsive">
                                 <iframe src="{{video.url|uri_escape}}" frameborder="0"
@@ -244,7 +244,7 @@
                 <div class="col-md-12">
                     <h2>Rosarito</h2>
                     <div class="row cn-slider">
-                        {% for video in site.data.rosarito limit:3 %}
+                        {% for video in site.data.rosarito limit:20 %}
                         <article class="entry">
                             <div class="video-responsive">
                                 <iframe src="{{video.url|uri_escape}}" frameborder="0"
@@ -262,7 +262,7 @@
                 <div class="col-md-12">
                     <h2>Mexicali</h2>
                     <div class="row cn-slider">
-                        {% for video in site.data.mexicali limit:3 %}
+                        {% for video in site.data.mexicali limit:20 %}
                         <article class="entry">
                             <div class="video-responsive">
                                 <iframe src="{{video.url|uri_escape}}" frameborder="0"
@@ -280,7 +280,7 @@
                 <div class="col-md-12">
                     <h2>Ensenada</h2>
                     <div class="row cn-slider">
-                        {% for video in site.data.ensenada limit:3 %}
+                        {% for video in site.data.ensenada limit:20 %}
                         <article class="entry">
                             <div class="video-responsive">
                                 <iframe src="{{video.url|uri_escape}}" frameborder="0"
