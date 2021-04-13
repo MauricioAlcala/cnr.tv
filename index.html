@@ -97,7 +97,7 @@
                 </div>
                 <div class="col-lg-3 col-md-4">
                     <div class="b-search">
-                        <p style='color:aliceblue'>Lunes, 12 de abril 2021</p>
+                        <p style='color:aliceblue'>Martes, 13 de abril 2021</p>
                     </div>
                 </div>
             </div>
@@ -115,8 +115,8 @@
                 </button>
                 <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
                     <div class="navbar-nav mr-auto">
-                        <a href="index.html" class="nav-item nav-link active">Inicio</a>
-                        <!--div class="nav-item dropdown">
+                        <!--a href="index.html" class="nav-item nav-link active">Inicio</a>
+                        <div class="nav-item dropdown">
                             <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Noticias</a>
                             <div class="dropdown-menu">
                                 <a href="tijuana" class="dropdown-item">Tijuana</a>
@@ -127,8 +127,8 @@
                             </div>
                         </div>
                         <a href="cobertura.html" class="nav-item nav-link">Cobertura</a>
-                        <a href="ultimas-noticias/index.html" class="nav-item nav-link">Últimas Noticias</a-->
-                        <a href="contact.html" class="nav-item nav-link">Contacto</a>
+                        <a href="ultimas-noticias/index.html" class="nav-item nav-link">Últimas Noticias</a>
+                        <a href="contact.html" class="nav-item nav-link">Contacto</a-->
                     </div>
                     <div class="social ml-auto">
                         <a href="https://www.facebook.com/cnrnoticias"><i class="fab fa-facebook-f"></i></a>
@@ -263,6 +263,24 @@
                     <h2>Mexicali</h2>
                     <div class="row cn-slider">
                         {% for video in site.data.mexicali limit:3 %}
+                        <article class="entry">
+                            <div class="video-responsive">
+                                <iframe src="{{video.url|uri_escape}}" frameborder="0"
+                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                    allowfullscreen></iframe>
+                            </div>
+                            <h4 class="entry-title">{{video.titulo}}</h4>
+                        </article><!-- End blog entry -->
+                        {% endfor %}
+
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <h2>Ensenada</h2>
+                    <div class="row cn-slider">
+                        {% for video in site.data.ensenada limit:3 %}
                         <article class="entry">
                             <div class="video-responsive">
                                 <iframe src="{{video.url|uri_escape}}" frameborder="0"
@@ -446,7 +464,7 @@
                     <div class="footer-widget">
                         <h3 class="title">CNR Ensenada</h3>
                         <div class="contact-info">
-                            <p><i class="fa fa-map-marker"></i>Calle ONCE # 1999, Esquina calle Espinoza, Centro, Ensenada, B.C. México
+                            <p><i class="fa fa-map-marker"></i>Calle Once 1999, 22910 Ensenada, B.C. México
                             </p>
                             <p><i class="fa fa-envelope"></i><a href="mailto:contacto@cnrnoticias.tv">
                                     contacto@cnrnoticias.tv</a>
