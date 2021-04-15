@@ -97,7 +97,21 @@
                 </div>
                 <div class="col-lg-3 col-md-4">
                     <div class="b-search">
-                        <p style='color:aliceblue'>Lunes, 12 de abril 2021</p>
+                        <font size="1">
+                            <script languaje="JavaScript"> 
+                            var mydate=new Date() 
+                            var year=mydate.getYear() 
+                            if (year < 1000) 
+                            year+=1900 
+                            var day=mydate.getDay() 
+                            var month=mydate.getMonth() 
+                            var daym=mydate.getDate() 
+                            if (daym<10) 
+                            daym="0"+daym 
+                            var dayarray=new Array("Domingo,","Lunes,","Martes,","Miércoles,","Jueves,","Viernes,","Sábado,")
+                            var montharray=new Array("Enero","Febrero","Marzo","Abril","Mayo","Junio","Julio","Agosto","Septiembre","Octubre","Noviembre","Diciembre")
+                            document.write("<font color='white' face='Newsreader' style='font-size:12pt'>"+dayarray[day]+" "+daym+" de "+montharray[month]+" de "+year+"</font>") 
+                        </script></font>
                     </div>
                 </div>
             </div>
@@ -206,11 +220,11 @@
                 <div class="col-md-12">
                     <h2>Tijuana</h2>
                     <div class="row cn-slider">
-                        {% for video in site.data.tijuana limit:3 limit:10 %}
+                        {% for video in site.data.tijuana limit:5 limit:10 %}
                         {% if video.region == "Tijuana" %}
                         <article class="entry">
                             <div class="video-responsive">
-                                <iframe src="{{video.url|uri_escape}}" frameborder="0"
+                                <iframe loading="lazy" src="{{video.url|uri_escape}}" frameborder="0"
                                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                                     allowfullscreen></iframe>
                             </div>
@@ -226,10 +240,10 @@
                 <div class="col-md-12">
                     <h2>Tecate</h2>
                     <div class="row cn-slider">
-                        {% for video in site.data.tecate limit:3 %}
+                        {% for video in site.data.tecate limit:5 %}
                         <article class="entry">
                             <div class="video-responsive">
-                                <iframe src="{{video.url|uri_escape}}" frameborder="0"
+                                <iframe loading="lazy" src="{{video.url|uri_escape}}" frameborder="0"
                                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                                     allowfullscreen></iframe>
                             </div>
@@ -244,10 +258,10 @@
                 <div class="col-md-12">
                     <h2>Rosarito</h2>
                     <div class="row cn-slider">
-                        {% for video in site.data.rosarito limit:3 %}
+                        {% for video in site.data.rosarito limit:5 %}
                         <article class="entry">
                             <div class="video-responsive">
-                                <iframe src="{{video.url|uri_escape}}" frameborder="0"
+                                <iframe loading="lazy" src="{{video.url|uri_escape}}" frameborder="0"
                                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                                     allowfullscreen></iframe>
                             </div>
@@ -262,10 +276,28 @@
                 <div class="col-md-12">
                     <h2>Mexicali</h2>
                     <div class="row cn-slider">
-                        {% for video in site.data.mexicali limit:3 %}
+                        {% for video in site.data.mexicali limit:5 %}
                         <article class="entry">
                             <div class="video-responsive">
-                                <iframe src="{{video.url|uri_escape}}" frameborder="0"
+                                <iframe loading="lazy" src="{{video.url|uri_escape}}" frameborder="0"
+                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                    allowfullscreen></iframe>
+                            </div>
+                            <h4 class="entry-title">{{video.titulo}}</h4>
+                        </article><!-- End blog entry -->
+                        {% endfor %}
+
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <h2>Ensenada</h2>
+                    <div class="row cn-slider">
+                        {% for video in site.data.ensenada limit:5 %}
+                        <article class="entry">
+                            <div class="video-responsive">
+                                <iframe loading="lazy" src="{{video.url|uri_escape}}" frameborder="0"
                                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                                     allowfullscreen></iframe>
                             </div>
@@ -442,20 +474,22 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-4 col-md-6">
                     <div class="footer-widget">
-                        <h3 class="title">Noticias</h3>
-                        <div class="newsletter">
-                            <p>
-                                Nuestro boletin de Noticias.
+                        <h3 class="title">CNR Ensenada</h3>
+                        <div class="contact-info">
+                            <p><i class="fa fa-map-marker"></i>Calle Once 1999, 22910 Ensenada, B.C. México
                             </p>
-                            <form
-                                action="https://cnrnoticias.us2.list-manage.com/subscribe/post?u=d19854985c143c128852b99b7&amp;id=c9d5d48a25"
-                                method="post">
-                                <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL"
-                                    placeholder="Correo Electrónico" required>
-                                <button class="btn">Enviar</button>
-                            </form>
+                            <p><i class="fa fa-envelope"></i><a href="mailto:contacto@cnrnoticias.tv">
+                                    contacto@cnrnoticias.tv</a>
+                            <p><i class="fa fa-phone"></i>+52 646 135 3705
+                            </p>
+                            <div class="social">
+                                <a href="https://www.facebook.com/cnrnoticias"><i class="fab fa-facebook-f"></i></a>
+                                <a href="https://www.instagram.com/cnrtv73/"><i class="fab fa-instagram"></i></a>
+                                <a href="https://www.youtube.com/channel/UCr8eCa3i5h4PGApvmK1IyTw"><i
+                                        class="fab fa-youtube"></i></a>
+                            </div>
                         </div>
                     </div>
                 </div>
