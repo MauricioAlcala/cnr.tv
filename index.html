@@ -85,7 +85,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-5 col-md-4">
                     <div class="b-logo">
-                        
+
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4">
@@ -98,20 +98,21 @@
                 <div class="col-lg-3 col-md-4">
                     <div class="b-search">
                         <font size="1">
-                            <script languaje="JavaScript"> 
-                            var mydate=new Date() 
-                            var year=mydate.getYear() 
-                            if (year < 1000) 
-                            year+=1900 
-                            var day=mydate.getDay() 
-                            var month=mydate.getMonth() 
-                            var daym=mydate.getDate() 
-                            if (daym<10) 
-                            daym="0"+daym 
-                            var dayarray=new Array("Domingo,","Lunes,","Martes,","Miércoles,","Jueves,","Viernes,","Sábado,")
-                            var montharray=new Array("Enero","Febrero","Marzo","Abril","Mayo","Junio","Julio","Agosto","Septiembre","Octubre","Noviembre","Diciembre")
-                            document.write("<font color='white' face='Newsreader' style='font-size:12pt'>"+dayarray[day]+" "+daym+" de "+montharray[month]+" de "+year+"</font>") 
-                        </script></font>
+                            <script languaje="JavaScript">
+                                var mydate = new Date()
+                                var year = mydate.getYear()
+                                if (year < 1000)
+                                    year += 1900
+                                var day = mydate.getDay()
+                                var month = mydate.getMonth()
+                                var daym = mydate.getDate()
+                                if (daym < 10)
+                                    daym = "0" + daym
+                                var dayarray = new Array("Domingo,", "Lunes,", "Martes,", "Miércoles,", "Jueves,", "Viernes,", "Sábado,")
+                                var montharray = new Array("Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre")
+                                document.write("<font color='white' face='Newsreader' style='font-size:12pt'>" + dayarray[day] + " " + daym + " de " + montharray[month] + " de " + year + "</font>")
+                            </script>
+                        </font>
                     </div>
                 </div>
             </div>
@@ -320,7 +321,8 @@
                     <div class="row">
                         <div class="col-md-4">
                             <div class="mn-img">
-                                <img  loading="lazy" src="img\patrocinadores\distribuidora-el-florido.jpeg" alt="El florido" />
+                                <img loading="lazy" src="img\patrocinadores\distribuidora-el-florido.jpeg"
+                                    alt="El florido" />
                                 <div class="mn-title">
                                     <a href="">
                                     </a>
@@ -329,7 +331,8 @@
                         </div>
                         <div class="col-md-4">
                             <div class="mn-img">
-                                <img  loading="lazy" src="img\patrocinadores\madederia-la-esperanza.jpeg" alt="La Esperanza" />
+                                <img loading="lazy" src="img\patrocinadores\madederia-la-esperanza.jpeg"
+                                    alt="La Esperanza" />
                                 <div class="mn-title">
                                     <a href="">
                                     </a>
@@ -347,7 +350,8 @@
                         </div>
                         <div class="col-md-4">
                             <div class="mn-img">
-                                <img loading="lazy" src="img\patrocinadores\plaza-ejido-mazatlan.jpeg" alt="Plaza Ejido Mazatlan" />
+                                <img loading="lazy" src="img\patrocinadores\plaza-ejido-mazatlan.jpeg"
+                                    alt="Plaza Ejido Mazatlan" />
                                 <div class="mn-title">
                                     <a href="">
                                     </a>
@@ -400,7 +404,8 @@
                         </div-->
                         <div class="col-md-4">
                             <div class="mn-img">
-                                <img loading="lazy" src="img\patrocinadores\visual-corporativo.jpeg" alt="VisUal Corporativo" />
+                                <img loading="lazy" src="img\patrocinadores\visual-corporativo.jpeg"
+                                    alt="VisUal Corporativo" />
                                 <div class="mn-title">
                                     <a href="">
                                     </a>
@@ -441,12 +446,39 @@
         </div>
     </div>
     <!-- Main News End-->
+    <style>
+        .image-source-link {
+            color: #98C3D1;
+        }
+        .mfp-with-zoom .mfp-container,
+        .mfp-with-zoom.mfp-bg {
+            opacity: 0;
+            -webkit-backface-visibility: hidden;
+            /* ideally, transition speed should match zoom duration */
+            -webkit-transition: all 0.3s ease-out;
+            -moz-transition: all 0.3s ease-out;
+            -o-transition: all 0.3s ease-out;
+            transition: all 0.3s ease-out;
+        }
+        .mfp-with-zoom.mfp-ready .mfp-container {
+            opacity: 1;
+        }
+        .mfp-with-zoom.mfp-ready.mfp-bg {
+            opacity: 0.8;
+        }
+        .mfp-with-zoom.mfp-removing .mfp-container,
+        .mfp-with-zoom.mfp-removing.mfp-bg {
+            opacity: 0;
+        }
+    </style>
 
     <div class="d-none popup-gallery  hidden-xs-up">
-        <a id="comunicados" href="https://cnrnoticias.tv/img/comunicados/votaremos.jpeg" title="6 de Junio. Votaremos para Elegir. Tu Voto Cuenta">
+        <a id="comunicados" href="https://cnrnoticias.tv/img/comunicados/votaremos.jpeg"
+            title="6 de Junio. Votaremos para Elegir. Tu Voto Cuenta">
             <img src="img/comunicados/votaremos.jpeg" width="75" height="75">
         </a>
-        <a href="https://cnrnoticias.tv/img/patrocinadores/AFN.jpeg" title="Agencia Fronteriza de NOTICIAS">
+        <a href="https://cnrnoticias.tv/img/patrocinadores/AFN.jpeg" title="Agencia Fronteriza de NOTICIAS"
+            data-source="https://www.afntijuana.info/">
             <img src="img/patrocinadores/AFN.jpeg" width="75" height="75">
         </a>
     </div>
@@ -577,8 +609,13 @@
                 image: {
                     tError: '<a href="%url%">No se pudo #%curr%</a> cargar la imagen.',
                     titleSrc: function (item) {
-                        return item.el.attr('title') + '<small></small>';
+                        var titulo = item.el.attr('title');
+                        if (item.el.attr('data-source')) {
+                            titulo = titulo + ' &middot; <a class="image-source-link" href="' + item.el.attr('data-source') + '" target="_blank">Visitanos</a>';
+                        }
+                        return titulo;
                     }
+
                 }
             });
             $('#comunicados').click();
