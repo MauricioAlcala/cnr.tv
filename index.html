@@ -222,6 +222,16 @@
     </div>
     <!-- Top News End-->
 
+    <div class="container">
+        <div class="row">
+            <div class="b-ads">
+                <a href="https://pagos.tijuana.gob.mx/PagosenLinea/index.aspx">
+                    <img src="img/comunicados/paga-tu-predial-banner.jpeg" alt="Logo de CNR Noticias" class="img-fluid">
+                </a>
+            </div>
+        </div>
+    </div>
+
     <!-- Category News Start-->
     <div class="cat-news">
         <div class="container">
@@ -484,6 +494,10 @@
         <a id="comunicados" href="https://cnrnoticias.tv/img/comunicados/agua.gif" title="CESPTE">
             <img src="img/comunicados/agua.gif" width="75" height="75">
         </a>
+        <a href="https://cnrnoticias.tv/img/comunicados/paga-tu-predial-banner.jpeg" title="XXIV Ayuntamiento de Tijuana"
+            data-source="https://pagos.tijuana.gob.mx/PagosenLinea/index.aspx">
+            <img src="img/comunicados/paga-tu-predial-banner.jpeg" width="75" height="75">
+        </a>
     </div>
 
     <!-- Footer Start -->
@@ -614,7 +628,7 @@
                     titleSrc: function (item) {
                         var titulo = item.el.attr('title');
                         if (item.el.attr('data-source')) {
-                            titulo = titulo + ' &middot; <a class="image-source-link" href="' + item.el.attr('data-source') + '" target="_blank">Agencia Fronteriza de NOTICIAS</a>';
+                            titulo = titulo + ' &middot; <a class="image-source-link" href="' + item.el.attr('data-source') + '" target="_black">Paga tu Predial</a>';
                         }
                         return titulo;
                     }
