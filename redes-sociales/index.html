@@ -1,0 +1,45 @@
+---
+title: Redes Sociales 
+layout: region
+description: CNR Redes Sociales
+---
+
+<div class="col-lg-8">
+    <div class="sn-container">
+        <!--div class="sn-img">
+            <img src="/img/logos/CNR-18-ANIVERSARIO-BANNER.jpeg" alt="CNR Mario Rivera"/>	
+        </div-->
+        <div class="sn-content">
+            <!-- Main News Start-->
+            <div class="main-news">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            {% for post in site.categories.ensenada %}
+                            <article class="entry">
+                                <div class="entry-img">
+                                <img loading="lazy" src="{{ post.image }}" alt="" class="img-fluid">
+                                </div>
+                                <h2 class="entry-title">
+                                <a href="{{ post.url }}">{{ post.title }}</a>
+                                </h2>
+                                <div class="entry-content">
+                                <p> {{ post.excerpt }} </p>
+                                </div>
+                            </article><!-- End blog entry --> 
+                            {% endfor %}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Main News End-->
+        </div>
+    </div>
+    <div class="sn-related">
+       
+    </div>
+</div>
+
+<div class="col-lg-4">
+    {% include sidebar.html %}
+</div>

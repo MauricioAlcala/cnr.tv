@@ -8,20 +8,64 @@
 
             <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
                 <div class="navbar-nav mr-auto">
-                    <a href="{{ "index.html" | relative_url }}" class="nav-item nav-link active">Inicio</a>
+                    <div class="nav-item dropdown">
+                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Inicio</a>
+                        <div class="dropdown-menu">
+                            <a href="{{ "programacion-en-vivo" | relative_url }}" class="dropdown-item">PROGRAMACION EN VIVO </a>
+                            <a href="{{ "noticiero" | relative_url }}" class="dropdown-item">BANNER NOTICIERO</a>
+                            <a href="{{ "clima" | relative_url }}" class="dropdown-item">CLIMA</a>
+                            <a href="{{ "noticias-relevantes" | relative_url }}" class="dropdown-item">NOTAS RELEVANTES</a>
+                            <a href="{{ "redes-sociales" | relative_url }}" class="dropdown-item">REDES SOCIALES</a>
+                            <a href="{{ "publicidad" | relative_url }}" class="dropdown-item">PUBLICIDAD</a>
+                        </div>
+                    </div>
+                    <div class="nav-item dropdown">
+                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">EN VIVO</a>
+                        <div class="dropdown-menu">
+                            <a href="{{ "tijuana" | relative_url }}" class="dropdown-item">PANTALLA GRANDE DE LA PROGRAMACION EN VIVO</a>
+                            <a href="{{ "tecate" | relative_url }}" class="dropdown-item">BANNERS DE PROGRAMAS (FLYERS) </a>
+                            <a href="{{ "cobertura" | relative_url }}" class="dropdown-item">COBERTURA</a>
+                        </div>
+                    </div>
                     <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Noticias</a>
                         <div class="dropdown-menu">
                             <a href="{{ "tijuana" | relative_url }}" class="dropdown-item">Tijuana</a>
-                            <a href="{{ "tecate" | relative_url }}" class="dropdown-item">Tecate</a>
                             <a href="{{ "rosarito" | relative_url }}" class="dropdown-item">Rosarito</a>
-                            <a href="{{ "ensenada" | relative_url }}" class="dropdown-item">Ensenada</a>
+                            <a href="{{ "tecate" | relative_url }}" class="dropdown-item">Tecate</a>
                             <a href="{{ "mexicali" | relative_url }}" class="dropdown-item">Mexicali</a>
+                            <a href="{{ "ensenada" | relative_url }}" class="dropdown-item">Ensenada</a>
+                            <a href="{{ "ensenada" | relative_url }}" class="dropdown-item">San Diego</a>
+                            <a href="{{ "ensenada" | relative_url }}" class="dropdown-item">Editoriales</a>
+                            <a href="{{ "ensenada" | relative_url }}" class="dropdown-item">Nacional</a>
+                            <a href="{{ "ensenada" | relative_url }}" class="dropdown-item">Internacional</a>
+                        </div>
+                    </div>
+                    <div class="nav-item dropdown">
+                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Programación</a>
+                        <div class="dropdown-menu">
+                            <a href="{{ "tijuana" | relative_url }}" class="dropdown-item">LINKS DE YOUTUBE DE LOS PROGRAMAS</a>
+                            <a href="{{ "tecate" | relative_url }}" class="dropdown-item">BANNERS DE PROGRAMAS</a>
+                        </div>
+                    </div>
+                    <div class="nav-item dropdown">
+                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">CONOCENOS</a>
+                        <div class="dropdown-menu">
+                            <a href="{{ "quienes-somos" | relative_url }}" class="dropdown-item">QUIENES SOMOS?</a>
+                            <a href="{{ "director-fundador" | relative_url }}" class="dropdown-item">DIRECTOR Y FUNDADOR DE CNR</a>
+                            <a href="{{ "direccion" | relative_url }}" class="dropdown-item">DIRECCION</a>
+                            <a href="{{ "ventas" | relative_url }}" class="dropdown-item">VENTAS</a>
+                            <a href="{{ "reporteros" | relative_url }}" class="dropdown-item">REPORTEROS</a>
+                        </div>
+                    </div>
+                    <div class="nav-item dropdown">
+                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Contacto</a>
+                        <div class="dropdown-menu">
+                            <a href="{{ "contact.html" | relative_url }}" class="dropdown-item">Contacto</a>
+                            <a href="{{ "anunciate-con-nosotros" | relative_url }}" class="dropdown-item">ANUNCIATE CON NOSOTROS</a>
                         </div>
                     </div>
                     <!--a href="{{ "cobertura.html" | relative_url }}" class="nav-item nav-link">Cobertura</a-->
-                    <a href="{{ "ultimas-noticias/index.html" | relative_url }}" class="nav-item nav-link">Últimas Noticias</a>
-                    <a href="{{ "contact.html" | relative_url }}" class="nav-item nav-link">Contacto</a>
                 </div>
                 <div class="social ml-auto">
                     <a href="https://www.facebook.com/cnrnoticias"><i class="fab fa-facebook-f"></i></a>
