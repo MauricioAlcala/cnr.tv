@@ -132,9 +132,11 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 tn-left">
-                    <center><div class="title">
-                        <a href="">EN VIVO</a>
-                    </div></center>
+                    <center>
+                        <div class="title">
+                            <a href="">EN VIVO</a>
+                        </div>
+                    </center>
                     <div class="row tn-slider">
                         <div class="col-md">
                             <div class="video">
@@ -189,6 +191,16 @@
 
     <div class="container">
         <div class="row">
+            <a class="weatherwidget-io" href="https://forecast7.com/es/32d51n117d04/tijuana/" data-label_1="TIJUANA"
+                data-label_2="WEATHER" data-theme="ruby">Clima TIJUANA</a>
+            <script>
+                !function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = 'https://weatherwidget.io/js/widget.min.js'; fjs.parentNode.insertBefore(js, fjs); } }(document, 'script', 'weatherwidget-io-js');
+            </script>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row">
             <div class="b-ads">
                 <a href="https://pagos.tijuana.gob.mx/PagosenLinea/index.aspx">
                     <img src="img/comunicados/paga-tu-predial-banner.jpeg" alt="Logo de CNR Noticias" class="img-fluid">
@@ -204,7 +216,7 @@
                 <div class="col-md-12">
                     <h2>Tijuana</h2>
                     <div class="row cn-slider">
-                        {% for video in site.data.tijuana limit:5 limit:10 %}
+                        {% for video in site.data.tijuana limit:2 %}
                         {% if video.region == "Tijuana" %}
                         <article class="entry">
                             <div class="video-responsive">
@@ -224,7 +236,7 @@
                 <div class="col-md-12">
                     <h2>Tecate</h2>
                     <div class="row cn-slider">
-                        {% for video in site.data.tecate limit:5 %}
+                        {% for video in site.data.tecate limit:2 %}
                         <article class="entry">
                             <div class="video-responsive">
                                 <iframe loading="lazy" src="{{video.url|uri_escape}}" frameborder="0"
@@ -242,7 +254,7 @@
                 <div class="col-md-12">
                     <h2>Rosarito</h2>
                     <div class="row cn-slider">
-                        {% for video in site.data.rosarito limit:5 %}
+                        {% for video in site.data.rosarito limit:2 %}
                         <article class="entry">
                             <div class="video-responsive">
                                 <iframe loading="lazy" src="{{video.url|uri_escape}}" frameborder="0"
@@ -260,7 +272,7 @@
                 <div class="col-md-12">
                     <h2>Mexicali</h2>
                     <div class="row cn-slider">
-                        {% for video in site.data.mexicali limit:5 %}
+                        {% for video in site.data.mexicali limit:2 %}
                         <article class="entry">
                             <div class="video-responsive">
                                 <iframe loading="lazy" src="{{video.url|uri_escape}}" frameborder="0"
@@ -278,7 +290,7 @@
                 <div class="col-md-12">
                     <h2>Ensenada</h2>
                     <div class="row cn-slider">
-                        {% for video in site.data.ensenada limit:5 %}
+                        {% for video in site.data.ensenada limit:2 %}
                         <article class="entry">
                             <div class="video-responsive">
                                 <iframe loading="lazy" src="{{video.url|uri_escape}}" frameborder="0"
@@ -302,31 +314,32 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="row">
-                        
+
                         <div class="col-md-4">
                             <div class="mn-img">
-                                <a  href="tel:6616881611" class="venobox" data-gall="gallery-item">
+                                <a href="tel:6616881611" class="venobox" data-gall="gallery-item">
                                     <img src="img\patrocinadores\biblias-y-guitarras.png" alt="Biblias y Guitarraas">
                                 </a>
                             </div>
                         </div>
                         <div class="col-md-4">
                             <div class="mn-img">
-                                <a  href="tel:6616129149" class="venobox" data-gall="gallery-item">
-                                    <img src="img\patrocinadores\tortilleria-el-diamante.png" alt="Tortillera el Diamante">
+                                <a href="tel:6616129149" class="venobox" data-gall="gallery-item">
+                                    <img src="img\patrocinadores\tortilleria-el-diamante.png"
+                                        alt="Tortillera el Diamante">
                                 </a>
                             </div>
                         </div>
                         <div class="col-md-4">
                             <div class="mn-img">
-                                <a  href="tel:6642109428" class="venobox" data-gall="gallery-item">
+                                <a href="tel:6642109428" class="venobox" data-gall="gallery-item">
                                     <img src="img\patrocinadores\viajes-genesis.png" alt="Viajes Genesis">
                                 </a>
                             </div>
                         </div>
                         <div class="col-md-4">
                             <div class="mn-img">
-                                <a  href="tel:6641036582" class="venobox" data-gall="gallery-item">
+                                <a href="tel:6641036582" class="venobox" data-gall="gallery-item">
                                     <img src="img\patrocinadores\visa-laser-corregido.png" alt="Visa Laser Xpress">
                                 </a>
                             </div>
@@ -377,6 +390,7 @@
         .image-source-link {
             color: #98C3D1;
         }
+
         .mfp-with-zoom .mfp-container,
         .mfp-with-zoom.mfp-bg {
             opacity: 0;
@@ -387,12 +401,15 @@
             -o-transition: all 0.3s ease-out;
             transition: all 0.3s ease-out;
         }
+
         .mfp-with-zoom.mfp-ready .mfp-container {
             opacity: 1;
         }
+
         .mfp-with-zoom.mfp-ready.mfp-bg {
             opacity: 0.8;
         }
+
         .mfp-with-zoom.mfp-removing .mfp-container,
         .mfp-with-zoom.mfp-removing.mfp-bg {
             opacity: 0;
@@ -400,9 +417,9 @@
     </style>
 
     <div class="d-none popup-gallery  hidden-xs-up">
-        <a id="comunicados" href="https://cnrnoticias.tv/img/comunicados/paga-tu-predial-banner.jpeg" title="XXIV Ayuntamiento de Tijuana"
-        data-source="https://pagos.tijuana.gob.mx/PagosenLinea/index.aspx">
-        <img src="img/comunicados/paga-tu-predial-banner.jpeg" width="75" height="75">
+        <a id="comunicados" href="https://cnrnoticias.tv/img/comunicados/paga-tu-predial-banner.jpeg"
+            title="XXIV Ayuntamiento de Tijuana" data-source="https://pagos.tijuana.gob.mx/PagosenLinea/index.aspx">
+            <img src="img/comunicados/paga-tu-predial-banner.jpeg" width="75" height="75">
         </a>
         <!--a href="https://cnrnoticias.tv/img/comunicados/paga-tu-predial-banner.jpeg" title="XXIV Ayuntamiento de Tijuana"
             data-source="https://pagos.tijuana.gob.mx/PagosenLinea/index.aspx">
@@ -414,7 +431,7 @@
     <div class="footer">
         <div class="container">
             <div class="row">
-                <div class="col-lg-4 col-md-6"> 
+                <div class="col-lg-4 col-md-6">
                     <div class="footer-widget">
                         <h3 class="title">CNR Tecate</h3>
                         <div class="contact-info">
