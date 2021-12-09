@@ -1,10 +1,9 @@
 # set JEKYLL_ENV=production | bundle exec jekyll build
 
-title: CNR TV Noticias
+title: CNR TV NOTICIAS – CANAL 73 – Unión con Compromiso
 email: mariorivera@cnrnoticias.tv
 description: >- 
-  Comprometidos con la comunidad de informar en tiempo y forma sin filtros.
-  Noticia pura y verídica.
+  Canal de televisión del Estado de Baja California. Siempre llevando la noticia en tiempo y forma sin filtros. Comprometidos con la comunidad. 
 baseurl: "" 
 url: "https://cnrnoticias.tv"
 twitter_username: jekyllrb
@@ -15,7 +14,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /img/logos/og.png
+      image: /img/logos/logo.png
       alt: "CNR 73 ESTATAL"
 theme: minima
 plugins:
