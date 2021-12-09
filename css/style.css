@@ -3,7 +3,7 @@
 /**********************************/
 body {
     color: #000000;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'News Cycle', sans-serif;
     font-weight: 400;
     background: #ffffff;
 }
@@ -481,14 +481,33 @@ button.btn:hover {
     content: "\f105";
 }
 
+/**********************************/
+/********** Banner CSS **********/
+/**********************************/
+.banner {
+    position: relative;
+    width: auto;
+    height: auto;
+    padding: 30px;
+}
+
+/**********************************/
+/********** Player CSS **********/
+/**********************************/
+.player {
+    position: relative;
+    width: 100%;
+    padding: 30px;
+}
 
 /**********************************/
 /******* Category News CSS ********/
 /**********************************/
 .cat-news {
     position: relative;
-    width: 100%;
-    padding: 0;
+    width: auto;
+    height: auto;
+    padding: 10px;
 }
 
 .cat-news .col-md-6 {
@@ -1537,3 +1556,12 @@ article.entry {
         width: 100%;
         }
 
+
+    .sf-snow-flake {
+        position: fixed;
+        top: -20px;
+        z-index: 99999;
+        }
+        .sf-snow-anim {
+        top: 110%;
+        }
