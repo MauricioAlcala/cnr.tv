@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Encuentran domicilio con droga"
-Date: 2021-12-09
+Date: 2021-12-09 16:36:48 -0700
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/encuentran-domicilio-con-droga.jpg
