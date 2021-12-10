@@ -49,9 +49,7 @@
                         <h1 class="sn-title">{{ page.title | escape }}</h1>
                         {% include sharebar.html %}
                         {{ content }}
-                        {%- if site.disqus.shortname -%}
                         {%- include facebook_comments.html -%}
-                        {%- endif -%}
                     </div>
                     </div>
                     <div class="sn-related">
