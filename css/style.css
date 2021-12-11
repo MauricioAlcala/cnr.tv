@@ -1555,13 +1555,3 @@ article.entry {
         top: 0;
         width: 100%;
         }
-
-
-    .sf-snow-flake {
-        position: fixed;
-        top: -20px;
-        z-index: 99999;
-        }
-        .sf-snow-anim {
-        top: 110%;
-        }
