@@ -9,7 +9,7 @@ alt: "Hotel San Francis icono en Tijuana"
 autor:
 ---
 
-**Tijuana, Baja California; 10 de diciembre 2021.** 
+**Tijuana, Baja California; 10 de Diciembre 2021.** 
 
 El relato histórico de este hotel en la ciudad de tijuana tiene un acervo bastante amplio.
 el historiador  encargado de la ciudad nos relata los pormenores de este hotel el cual muchos conocen y generaciones actual no sabían de su gran historia 

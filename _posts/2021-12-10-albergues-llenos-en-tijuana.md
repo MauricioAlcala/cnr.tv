@@ -9,7 +9,7 @@ alt: "Albergues llenos en Tijuana"
 autor:
 ---
 
-**Tijuana, Baja California; 10 de diciembre 2021.** 
+**Tijuana, Baja California; 10 de Diciembre 2021.** 
 
 Por parte del líder sergio tamai quien ha estado al frente del tema migrante
  y repatriados por largos años menciona que los simposios migrantesy las visitas de senadores 

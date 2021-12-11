@@ -9,7 +9,7 @@ alt: "Hotel historico de Tijuana queda en cenizas"
 autor:
 ---
 
-**Tijuana, Baja California; 10 de Diciembre de 2021.** 
+**Tijuana, Baja California; 10 de Diciembre 2021.** 
 
 La madrugada de hoy jueves inició el incendio del hotel san francis ubicado en la zona centro de la ciudad en donde las pérdidas fueron totales.
 más de 30 elementos por más de 3 horas estuvieron trabajando en el lugar para sofocar el fuego 

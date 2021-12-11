@@ -967,7 +967,7 @@ button.btn:hover {
 }
 
 .sidebar .news-list .nl-item .nl-title a:hover {
-    color: #FF6F61;
+    color: #7c170f;
 }
 
 .sidebar .sidebar-widget .tab-news {
@@ -984,7 +984,7 @@ button.btn:hover {
 .sidebar .tab-news .nav.nav-pills .nav-link:hover,
 .sidebar .tab-news .nav.nav-pills .nav-link.active {
     color: #ffffff;
-    background: #FF6F61;
+    background: #7c170f;
 }
 
 .sidebar .tab-news .tab-content {
@@ -1022,7 +1022,7 @@ button.btn:hover {
 }
 
 .sidebar .tab-news .tn-title a:hover {
-    color: #FF6F61;
+    color: #7c170f;
 }
 
 .sidebar .sidebar-widget .category {
@@ -1050,7 +1050,7 @@ button.btn:hover {
 }
 
 .sidebar .category ul li a:hover {
-    color: #FF6F61;
+    color: #7c170f;
 }
 
 .sidebar .category ul li::before {
@@ -1083,8 +1083,8 @@ button.btn:hover {
 
 .sidebar .sidebar-widget .tags a:hover {
     color: #ffffff;
-    background: #FF6F61;
-    border: 1px solid #FF6F61;
+    background: #7c170f;
+    border: 1px solid #7c170f;
 }
 
 .sidebar .sidebar-widget .image a {
