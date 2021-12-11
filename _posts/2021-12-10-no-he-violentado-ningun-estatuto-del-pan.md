@@ -16,7 +16,7 @@ Asegura el regidor del PAN, Óscar Vega Marín, que no ha violentado ningún est
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-       <img class="d-block w-100" src="/img/cnrno-he-violentado-ningun-estatuto-del-pan.png" loading="lazy"  alt="No he violentado ningún estatuto del pan">
+       <img class="d-block w-100" src="/img/no-he-violentado-ningun-estatuto-del-pan.png" loading="lazy"  alt="No he violentado ningún estatuto del pan">
     </div>
   </div>
 </div>
