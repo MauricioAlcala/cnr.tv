@@ -1,11 +1,11 @@
 ---
 layout: blog
-title: "Albergues llenos en tijuana"
+title: "Albergues llenos en Tijuana"
 Date: 2021-01-05
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/albergues-llenos-en-tijuana.png
-alt: "Albergues llenos en tijuana"
+alt: "Albergues llenos en Tijuana"
 autor:
 ---
 
@@ -18,7 +18,7 @@ de la república como diputados locales están a destiempoen estos momentos es h
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-       <img class="d-block w-100" src="/img/cnr/albergues-llenos-en-tijuana.png" loading="lazy"  alt="Albergues llenos en tijuana">
+       <img class="d-block w-100" src="/img/cnr/albergues-llenos-en-tijuana.png" loading="lazy"  alt="Albergues llenos en Tijuana">
     </div>
   </div>
 </div>
