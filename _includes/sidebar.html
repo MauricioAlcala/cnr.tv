@@ -100,9 +100,6 @@
                     <a class="nav-link" data-toggle="pill" href="#rosarito">Rosarito</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" data-toggle="pill" href="#ensenada">Ensenada</a>
-                </li>
-                <li class="nav-item">
                     <a class="nav-link" data-toggle="pill" href="#tecate">Tecate</a>
                 </li>
                 <li class="nav-item">
@@ -134,18 +131,6 @@
                         </div>
                     </div>
                     {% endfor %}               
-                </div>
-                <div id="ensenada" class="container tab-pane fade">
-                    {% for post in site.categories.ensenada limit:4 %}
-                    <div class="tn-news">
-                        <div class="tn-img">
-                            <img src="{{ post.image }}" loading="lazy" />
-                        </div>
-                        <div class="tn-title">
-                            <a href="{{ post.url }}">{{ post.title }}</a>
-                        </div>
-                    </div>
-                    {% endfor %}
                 </div>
                 <div id="tecate" class="container tab-pane fade">
                     {% for post in site.categories.tecate limit:4 %}
@@ -206,9 +191,8 @@
         <h2 class="sw-title">Regiones</h2>
         <div class="tags">
             <a href="{{ "rosarito" | relative_url }}">Tijuana</a>
-            <a href="{{ "tecate" | relative_url }}">Tecate</a>
             <a href="{{ "rosarito" | relative_url }}">Rosarito</a>
-            <a href="{{ "ensenada" | relative_url }}">Ensenada</a>
+            <a href="{{ "tecate" | relative_url }}">Tecate</a>
             <a href="{{ "mexicali" | relative_url }}">Mexicali</a>
         </div>
     </div>
