@@ -223,7 +223,7 @@ button.btn:hover {
 }
 
 .brand .b-search input[type=text]:focus {
-    border-color: #FF6F61;
+    border-color: #7c170f;
 }
 
 .brand .b-search button {
@@ -234,12 +234,12 @@ button.btn:hover {
     right: 15px;
     border: none;
     background: none;
-    color: #FF6F61;
+    color: #7c170f;
     border-radius: 0 4px 4px 0;
 }
 
 .brand .b-search button:hover {
-    background: #FF6F61;
+    background: #7c170f;
     color: #ffffff;
 }
 
@@ -422,7 +422,7 @@ button.btn:hover {
 }
 
 .top-news .tn-title a:hover {
-    color: #FF6F61;
+    color: #7c170f;
 }
 
 .top-news .tn-left {
@@ -462,7 +462,7 @@ button.btn:hover {
 .top-news .slick-next:hover,
 .top-news .slick-next:focus {
     color: #ffffff;
-    background: #FF6F61;
+    background: #7c170f;
 }
 
 .top-news .slick-prev::before,
@@ -628,7 +628,7 @@ button.btn:hover {
 .tab-news .nav.nav-pills .nav-link:hover,
 .tab-news .nav.nav-pills .nav-link.active {
     color: #ffffff;
-    background: #FF6F61;
+    background: #7c170f;
 }
 
 .tab-news .tab-content {
@@ -663,7 +663,7 @@ button.btn:hover {
 }
 
 .tab-news .tn-title a:hover {
-    color: #FF6F61;
+    color: #7c170f;
 }
 
 
@@ -717,7 +717,7 @@ button.btn:hover {
 }
 
 .main-news .mn-title a:hover {
-    color: #FF6F61;
+    color: #7c170f;
 }
 
 .main-news .mn-list {
@@ -761,7 +761,7 @@ button.btn:hover {
 }
 
 .main-news .mn-list ul li a:hover {
-    color: #FF6F61;
+    color: #7c170f;
 }
 
 
@@ -895,7 +895,7 @@ button.btn:hover {
 .single-news .sn-slider .slick-next:hover,
 .single-news .sn-slider .slick-next:focus {
     color: #ffffff;
-    background: #FF6F61;
+    background: #7c170f;
 }
 
 .single-news .sn-slider .slick-prev::before,
@@ -1172,8 +1172,8 @@ button.btn:hover {
 }
 
 .contact .social a:hover {
-    background: #FF6F61;
-    border-color: #FF6F61;
+    background: #7c170f;
+    border-color: #7c170f;
 }
 
 .contact .social a:hover i {
@@ -1451,7 +1451,7 @@ button.btn:hover {
 }
 
 .footer-menu .f-menu a:hover {
-    color: #FF6F61;
+    color: #7c170f;
 }
 
 .footer-menu .f-menu a:last-child {
@@ -1554,4 +1554,17 @@ article.entry {
         position: absolute;
         top: 0;
         width: 100%;
+        }
+
+
+        .fa-facebook-f{
+            color: blue !important;;
+        }
+
+        .fa-instagram{
+            color: #dd2a7b !important;;
+        }
+
+        .fa-youtube{
+            color: red !important;;
         }
