@@ -1558,13 +1558,29 @@ article.entry {
 
 
         .fa-facebook-f{
-            color: blue !important;;
+            color: blue !important;
         }
 
         .fa-instagram{
-            color: #dd2a7b !important;;
+            color: #dd2a7b !important;
         }
 
         .fa-youtube{
-            color: red !important;;
+            color: red !important;
+        }
+
+        .fa-twitter{
+            color: 	#1DA1F2 !important;
+        }
+
+        .fa-linkedin{
+            color: #0077b5 !important;
+        }
+
+        #sharebar{
+            text-align: right
+        }
+
+        .sn-container{
+            border-style: solid;
         }
