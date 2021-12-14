@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Lluvias y vientos pronosticados para este martes"
+title: "Lluvias y vientos pronosticados para este Martes"
 Date: 2021-12-13
 categories: mexicali
 permalink: /:categories/:title:output_ext

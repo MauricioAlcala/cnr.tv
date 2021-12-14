@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Siguen sin contar con personal médico en hospital general"
+title: "Siguen sin contar con personal médico en Hospital General"
 Date: 2021-12-13
 categories: rosarito
 permalink: /:categories/:title:output_ext

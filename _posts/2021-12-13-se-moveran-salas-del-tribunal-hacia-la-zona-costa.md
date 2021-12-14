@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Se moverán salas del tribunal hacia zona costa"
+title: "Se moverán salas del tribunal hacia Zona Costa"
 Date: 2021-12-13
 categories: mexicali
 permalink: /:categories/:title:output_ext

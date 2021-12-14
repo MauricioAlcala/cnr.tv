@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Derrame de combustible en zona centro"
+title: "Derrame de combustible en Zona Centro"
 Date: 2021-12-13
 categories: rosarito
 permalink: /:categories/:title:output_ext

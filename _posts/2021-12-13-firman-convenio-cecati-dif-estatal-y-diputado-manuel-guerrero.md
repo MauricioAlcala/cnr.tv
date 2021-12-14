@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Firman convenio cecati DIF estatal y diputado manuel guerrero"
+title: "Firman convenio cecati DIF estatal y diputado Manuel Guerrero"
 Date: 2021-12-13
 categories: mexicali
 permalink: /:categories/:title:output_ext

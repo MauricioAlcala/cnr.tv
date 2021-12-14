@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Reparan los semáforos en los panchos"
+title: "Reparan los semáforos en Los Panchos"
 Date: 2021-12-13
 categories: rosarito
 permalink: /:categories/:title:output_ext

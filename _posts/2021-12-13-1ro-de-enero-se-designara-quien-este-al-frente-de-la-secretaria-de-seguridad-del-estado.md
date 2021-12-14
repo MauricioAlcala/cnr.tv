@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "1ro de Enero se designará quien esté al frente de la secretaría de seguridad del estado"
+title: "1ro de Enero se designará quien esté al frente de la Secretaría de Seguridad del Estado"
 Date: 2021-12-13
 categories: tijuana
 permalink: /:categories/:title:output_ext

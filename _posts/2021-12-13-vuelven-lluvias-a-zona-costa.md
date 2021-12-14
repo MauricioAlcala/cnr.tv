@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Vuelven las lluvias a la zona costa"
+title: "Vuelven las lluvias a la Zona Costa"
 Date: 2021-12-13
 categories: rosarito
 permalink: /:categories/:title:output_ext

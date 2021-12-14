@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: " Colecta a beneficio del hermano Pablo"
+title: " Colecta a beneficio del Hermano Pablo"
 Date: 2021-12-13
 categories: tecate
 permalink: /:categories/:title:output_ext

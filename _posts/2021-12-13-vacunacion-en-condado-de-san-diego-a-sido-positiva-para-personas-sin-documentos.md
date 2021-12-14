@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Vacunación en condado de san diego ha sido positiva en personas sin documentos para cruzar a estados unidos"
+title: "Vacunación en condado de san diego ha sido positiva en personas sin documentos para cruzar a Estados Unidos"
 Date: 2021-12-13
 categories: tijuana
 permalink: /:categories/:title:output_ext
