@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Coordinación en los tres órdenes de gobierno en el tema de migración"
+title: "Coordinación en los tres órdenes de Gobierno en el tema de Migración"
 Date: 2021-12-13
 categories: mexicali
 permalink: /:categories/:title:output_ext

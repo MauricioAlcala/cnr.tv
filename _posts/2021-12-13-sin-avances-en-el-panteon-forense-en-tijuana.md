@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Sin avances en el panteon forense en tijuana"
+title: "Sin avances en el panteon forense en Tijuana"
 Date: 2021-12-13
 categories: tijuana
 permalink: /:categories/:title:output_ext

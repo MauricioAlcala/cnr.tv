@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "No hay un solo beneficio para dividir a tijuana en dos municipios"
+title: "No hay un solo beneficio para dividir a Tijuana en dos Municipios"
 Date: 2021-12-13
 categories: tijuana
 permalink: /:categories/:title:output_ext

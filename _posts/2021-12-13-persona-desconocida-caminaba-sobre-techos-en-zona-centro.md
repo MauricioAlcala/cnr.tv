@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Persona desconocida caminaba sobre techos en zona centro"
+title: "Persona desconocida caminaba sobre techos en Zona Centro"
 Date: 2021-12-13
 categories: tecate
 permalink: /:categories/:title:output_ext

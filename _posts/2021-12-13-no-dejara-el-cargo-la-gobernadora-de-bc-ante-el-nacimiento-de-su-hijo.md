@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "No dejará el cargo la gobernadora de bc ante el nacimiento de su hijo"
+title: "No dejará el cargo la Gobernadora de BC ante el nacimiento de su hijo"
 Date: 2021-12-13
 categories: tijuana
 permalink: /:categories/:title:output_ext

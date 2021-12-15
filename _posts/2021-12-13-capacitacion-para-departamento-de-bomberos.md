@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Capacitación constante durante el 2021 para el departamento de bomberos"
+title: "Capacitación constante durante el 2021 para el Departamento de Bomberos"
 Date: 2021-12-13
 categories: rosarito
 permalink: /:categories/:title:output_ext
