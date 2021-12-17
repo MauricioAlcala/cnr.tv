@@ -8,7 +8,8 @@
     <title>CNR TV Noticias - Canal 73 Unión con Compromiso</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="CNR, TV, Noticias, 73, Estatal, baja, baja california, california, news," name="keywords">
-    <meta content="Canal de televisión del Estado de Baja California. Siempre llevando la noticia en tiempo y forma sin filtros. Comprometidos con la comunidad."
+    <meta
+        content="Canal de televisión del Estado de Baja California. Siempre llevando la noticia en tiempo y forma sin filtros. Comprometidos con la comunidad."
         name="description">
     <meta property="og:title" content="CNR TV Noticias - Canal 73 Unión con Compromiso" />
     <meta property="og:type" content="website" />
@@ -37,7 +38,7 @@
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=News+Cycle:wght@700&display=swap" rel="stylesheet">    
+    <link href="https://fonts.googleapis.com/css2?family=News+Cycle:wght@700&display=swap" rel="stylesheet">
     <link href="lib/magnific-popup/magnific-popup.css" rel="stylesheet">
 
     <!-- CSS Libraries -->
@@ -127,38 +128,47 @@
     <!-- Brand End -->
 
     {% include navbar.html%}
-    <a class="weatherwidget-io" href="https://forecast7.com/es/32d51n117d04/tijuana/" data-label_1="Tijuana" data-label_2="Playas de Rosarito" data-icons="Climacons Animated" data-theme="pure" >Tijuana Playas de Rosarito</a>
-    <script>
-    !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
-    </script>
+
     <!-- Top News Start-->
 
-    <div class="top-news">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-6 tn-left">
-                    <div class="row tn-slider">
-                        <div class="col-md">
-                            <div class="video">
-                                <div class="embed-responsive embed-responsive-16by9">
-                                    <iframe src='//www.opencaster.com/mauricioalcala-100-100' width='auto' height='auto'
-                                        frameborder='0' scrolling="no" target="_blank" allowfullscreen="yes"></iframe>
-                                </div>
-                            </div>
+    <div class="row">
+        <div class="col-lg-10 tn-left">
+
+            <div class="top-news">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <a class="weatherwidget-io" href="https://forecast7.com/es/32d51n117d04/tijuana/"
+                                data-label_1="Tijuana" data-label_2="Playas de Rosarito" data-icons="Climacons Animated"
+                                data-theme="pure">Tijuana Playas de Rosarito</a>
                         </div>
                     </div>
-                </div>
-                <div class="col-md-6 tn-right">
-                    <div class="row tn">
-                        <div class="col-md">
-                            <div class="tn-img">
-                                <img loading="lazy" src="img/logos/portada.jpg" width='auto' height='305' alt="CNR Mario Rivera" />
-                                <div class="tn-title">
-                                    <a href="https://cnrnoticias.tv/"></a>
+                    <div class="row">
+                        <div class="col-md-6 tn-left">
+                            <div class="row tn-slider">
+                                <div class="col-md">
+                                    <div class="video">
+                                        <div class="embed-responsive embed-responsive-16by9">
+                                            <iframe src='//www.opencaster.com/mauricioalcala-100-100' width='auto'
+                                                height='auto' frameborder='0' scrolling="no" target="_blank"
+                                                allowfullscreen="yes"></iframe>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
-                        <!--div class="col-md-6">
+                        <div class="col-md-6 tn-right">
+                            <div class="row tn">
+                                <div class="col-md">
+                                    <div class="tn-img">
+                                        <img loading="lazy" src="img/logos/portada.jpg" width='auto' height='305'
+                                            alt="CNR Mario Rivera" />
+                                        <div class="tn-title">
+                                            <a href="https://cnrnoticias.tv/"></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!--div class="col-md-6">
                             <div class="tn-img">
                                 <img src="img/cnr/popup.jpg" alt="Logo CNR 18 Aniversario"/>
                                 <div class="tn-title">
@@ -182,236 +192,141 @@
                                 </div>
                             </div>
                         </div-->
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Top News End-->
-
-    <!-- Banner Start-->
-    <div class="banner">
-        <div class="container">
-            <div class="row">
-                <div class="b-ads">
-                    <a href="http://www.tijuana.gob.mx/negocioverde/">
-                        <img src="img/banners/banner-programa-negocios-verdes.png" alt="Programa de Negocios Verdes" class="img-fluid">
-                    </a>
-                </div>
-            </div>
-        </div>
-    </div>    
-    <!-- Banner End-->
-
-    <!-- Category News Start-->
-    <!--div class="cat-news">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <h2>Tijuana</h2>
-                    <div class="row cn-slider">
-                        {% for video in site.data.tijuana limit:2 %}
-                        {% if video.region == "Tijuana" %}
-                        <article class="entry">
-                            <div class="video-responsive">
-                                <iframe loading="lazy" src="{{video.url|uri_escape}}" frameborder="0"
-                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                    allowfullscreen></iframe>
                             </div>
-                            <h4 class="entry-title">{{video.titulo}}</h4>
-                        </article>
-                        {% endif %}
-                        {% endfor %}
-
+                        </div>
                     </div>
                 </div>
             </div>
-            <div class="row">
-                <div class="col-md-12">
-                    <h2>Tecate</h2>
-                    <div class="row cn-slider">
-                        {% for video in site.data.tecate limit:2 %}
-                        <article class="entry">
-                            <div class="video-responsive">
-                                <iframe loading="lazy" src="{{video.url|uri_escape}}" frameborder="0"
-                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                    allowfullscreen></iframe>
-                            </div>
-                            <h4 class="entry-title">{{video.titulo}}</h4>
-                        </article>
-                        {% endfor %}
+            <!-- Top News End-->
 
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-12">
-                    <h2>Rosarito</h2>
-                    <div class="row cn-slider">
-                        {% for video in site.data.rosarito limit:2 %}
-                        <article class="entry">
-                            <div class="video-responsive">
-                                <iframe loading="lazy" src="{{video.url|uri_escape}}" frameborder="0"
-                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                    allowfullscreen></iframe>
-                            </div>
-                            <h4 class="entry-title">{{video.titulo}}</h4>
-                        </article>
-                        {% endfor %}
-
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-12">
-                    <h2>Mexicali</h2>
-                    <div class="row cn-slider">
-                        {% for video in site.data.mexicali limit:2 %}
-                        <article class="entry">
-                            <div class="video-responsive">
-                                <iframe loading="lazy" src="{{video.url|uri_escape}}" frameborder="0"
-                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                    allowfullscreen></iframe>
-                            </div>
-                            <h4 class="entry-title">{{video.titulo}}</h4>
-                        </article>
-                        {% endfor %}
-
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-12">
-                    <h2>Ensenada</h2>
-                    <div class="row cn-slider">
-                        {% for video in site.data.ensenada limit:2 %}
-                        <article class="entry">
-                            <div class="video-responsive">
-                                <iframe loading="lazy" src="{{video.url|uri_escape}}" frameborder="0"
-                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                    allowfullscreen></iframe>
-                            </div>
-                            <h4 class="entry-title">{{video.titulo}}</h4>
-                        </article>
-                        {% endfor %}
-
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div-->
-    <!-- Category News End-->
-
-    <!-- Main News Start-->
-    <div class="main-news">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
+            <!-- Banner Start-->
+            <div class="banner">
+                <div class="container">
                     <div class="row">
-
-                        <div class="col-md-4">
-                            <div class="mn-img">
-                                <a href="tel:6616881611" class="venobox" data-gall="gallery-item">
-                                    <img src="img\patrocinadores\biblias-y-guitarras.png" alt="Biblias y Guitarraas">
-                                </a>
-                            </div>
+                        <div class="b-ads">
+                            <a href="http://www.tijuana.gob.mx/negocioverde/">
+                                <img src="img/banners/banner-programa-negocios-verdes.png"
+                                    alt="Programa de Negocios Verdes" class="img-fluid">
+                            </a>
                         </div>
-                        <div class="col-md-4">
-                            <div class="mn-img">
-                                <a href="tel:6616129149" class="venobox" data-gall="gallery-item">
-                                    <img src="img\patrocinadores\tortilleria-el-diamante.png"
-                                        alt="Tortillera el Diamante">
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="mn-img">
-                                <a href="tel:6642109428" class="venobox" data-gall="gallery-item">
-                                    <img src="img\patrocinadores\viajes-genesis.png" alt="Viajes Genesis">
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="mn-img">
-                                <a href="https://rosaritocentro.com/" class="venobox" data-gall="gallery-item">
-                                    <img src="img\patrocinadores\portada-diciembre.jpg" alt="Rosarito Centro">
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="mn-img">
-                                <a href="tel:6641036582" class="venobox" data-gall="gallery-item">
-                                    <img src="img\patrocinadores\visa-laser-corregido.png" alt="Visa Laser Xpress">
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="mn-img">
-                                <a href="https://rosaritocentro.com/" class="venobox" data-gall="gallery-item">
-                                    <img src="img\patrocinadores\portada-diciembre.jpg" alt="Rosarito Centro">
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="mn-img">
-                                <a href="http://www.afntijuana.info" class="venobox" data-gall="gallery-item">
-                                    <img src="img\patrocinadores\AFN.jpeg" alt="Agencia Fronteriza de NOTICIAS">
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="mn-img">
-                                <a href="http://www.afntijuana.info" class="venobox" data-gall="gallery-item">
-                                    <img src="img\patrocinadores\AFN.jpeg" alt="Agencia Fronteriza de NOTICIAS">
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="mn-img">
-                                <a href="http://www.afntijuana.info" class="venobox" data-gall="gallery-item">
-                                    <img src="img\patrocinadores\AFN.jpeg" alt="Agencia Fronteriza de NOTICIAS">
-                                </a>
-                            </div>
-                        </div>
-
                     </div>
                 </div>
             </div>
-        </div>
-    </div>
-    <!-- Main News End-->
+            <!-- Banner End-->
 
-    <style>
-        .image-source-link {
-            color: #98C3D1;
-        }
+          
+            <!-- Main News Start-->
+            <div class="main-news">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="row">
 
-        .mfp-with-zoom .mfp-container,
-        .mfp-with-zoom.mfp-bg {
-            opacity: 0;
-            -webkit-backface-visibility: hidden;
-            /* ideally, transition speed should match zoom duration */
-            -webkit-transition: all 0.3s ease-out;
-            -moz-transition: all 0.3s ease-out;
-            -o-transition: all 0.3s ease-out;
-            transition: all 0.3s ease-out;
-        }
+                                <div class="col-md-4">
+                                    <div class="mn-img">
+                                        <a href="tel:6616881611" class="venobox" data-gall="gallery-item">
+                                            <img src="img\patrocinadores\biblias-y-guitarras.png"
+                                                alt="Biblias y Guitarraas">
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="mn-img">
+                                        <a href="tel:6616129149" class="venobox" data-gall="gallery-item">
+                                            <img src="img\patrocinadores\tortilleria-el-diamante.png"
+                                                alt="Tortillera el Diamante">
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="mn-img">
+                                        <a href="tel:6642109428" class="venobox" data-gall="gallery-item">
+                                            <img src="img\patrocinadores\viajes-genesis.png" alt="Viajes Genesis">
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="mn-img">
+                                        <a href="https://rosaritocentro.com/" class="venobox" data-gall="gallery-item">
+                                            <img src="img\patrocinadores\portada-diciembre.jpg" alt="Rosarito Centro">
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="mn-img">
+                                        <a href="tel:6641036582" class="venobox" data-gall="gallery-item">
+                                            <img src="img\patrocinadores\visa-laser-corregido.png"
+                                                alt="Visa Laser Xpress">
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="mn-img">
+                                        <a href="https://rosaritocentro.com/" class="venobox" data-gall="gallery-item">
+                                            <img src="img\patrocinadores\portada-diciembre.jpg" alt="Rosarito Centro">
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="mn-img">
+                                        <a href="http://www.afntijuana.info" class="venobox" data-gall="gallery-item">
+                                            <img src="img\patrocinadores\AFN.jpeg" alt="Agencia Fronteriza de NOTICIAS">
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="mn-img">
+                                        <a href="http://www.afntijuana.info" class="venobox" data-gall="gallery-item">
+                                            <img src="img\patrocinadores\AFN.jpeg" alt="Agencia Fronteriza de NOTICIAS">
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="mn-img">
+                                        <a href="http://www.afntijuana.info" class="venobox" data-gall="gallery-item">
+                                            <img src="img\patrocinadores\AFN.jpeg" alt="Agencia Fronteriza de NOTICIAS">
+                                        </a>
+                                    </div>
+                                </div>
 
-        .mfp-with-zoom.mfp-ready .mfp-container {
-            opacity: 1;
-        }
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Main News End-->
 
-        .mfp-with-zoom.mfp-ready.mfp-bg {
-            opacity: 0.8;
-        }
+            <style>
+                .image-source-link {
+                    color: #98C3D1;
+                }
 
-        .mfp-with-zoom.mfp-removing .mfp-container,
-        .mfp-with-zoom.mfp-removing.mfp-bg {
-            opacity: 0;
-        }
-    </style>
+                .mfp-with-zoom .mfp-container,
+                .mfp-with-zoom.mfp-bg {
+                    opacity: 0;
+                    -webkit-backface-visibility: hidden;
+                    /* ideally, transition speed should match zoom duration */
+                    -webkit-transition: all 0.3s ease-out;
+                    -moz-transition: all 0.3s ease-out;
+                    -o-transition: all 0.3s ease-out;
+                    transition: all 0.3s ease-out;
+                }
 
-    <!--div class="d-none popup-gallery  hidden-xs-up">
+                .mfp-with-zoom.mfp-ready .mfp-container {
+                    opacity: 1;
+                }
+
+                .mfp-with-zoom.mfp-ready.mfp-bg {
+                    opacity: 0.8;
+                }
+
+                .mfp-with-zoom.mfp-removing .mfp-container,
+                .mfp-with-zoom.mfp-removing.mfp-bg {
+                    opacity: 0;
+                }
+            </style>
+
+            <!--div class="d-none popup-gallery  hidden-xs-up">
         <a id="comunicados" href="https://cnrnoticias.tv/img/comunicados/paga-tu-predial-banner.png"
             title="XXIV Ayuntamiento de Tijuana" data-source="https://pagos.tijuana.gob.mx/PagosenLinea/index.aspx">
             <img src="img/comunicados/paga-tu-predial-banner.png" width="auto" height="auto">
@@ -421,6 +336,17 @@
             <img src="img/comunicados/banner-cnr.png" width="75" height="75">
         </a>
     </div-->
+        </div>
+        <div class="col-lg-2 tn-right">
+            <div class="top-news">
+                <a href="http://www.tijuana.gob.mx/negocioverde/">
+                    <img src="img/banners/banner-negocios-verdes.png" alt="Programa de Negocios Verdes"
+                        class="img-fluid"></a>
+            </div>
+        </div>
+    </div>
+
+
 
     <!-- Footer Start -->
     <div class="footer">
@@ -450,7 +376,8 @@
                     <div class="footer-widget">
                         <h3 class="title">CNR Rosarito</h3>
                         <div class="contact-info">
-                            <p><i class="fa fa-map-marker"></i>Blvd. Benito Juárez 300, 22703 Playas de Rosarito, B.C. México
+                            <p><i class="fa fa-map-marker"></i>Blvd. Benito Juárez 300, 22703 Playas de Rosarito, B.C.
+                                México
                             </p>
                             <p><i class="fa fa-envelope"></i><a href="mailto:contacto@cnrnoticias.tv">
                                     contacto@cnrnoticias.tv</a>
@@ -469,7 +396,8 @@
                     <div class="footer-widget">
                         <h3 class="title">CNR Tijuana</h3>
                         <div class="contact-info">
-                            <p><i class="fa fa-map-marker"></i> Ave. Netzahualcóyotl, 22010 Zona Urbana Río Tijuana, B.C. México
+                            <p><i class="fa fa-map-marker"></i> Ave. Netzahualcóyotl, 22010 Zona Urbana Río Tijuana,
+                                B.C. México
                             </p>
                             <p><i class="fa fa-envelope"></i><a href="mailto:contacto@cnrnoticias.tv">
                                     contacto@cnrnoticias.tv</a>
@@ -487,22 +415,6 @@
             </div>
         </div>
     </div>
-    <!-- Footer End -->
-
-    <!-- Footer Menu Start -->
-    <!--div class="footer-menu">
-        <div class="container">
-            <div class="f-menu">
-                <a href="">Terminos y condiciones</a>
-                <a href="">Aviso de Privacidad</a>
-                <a href="">Cookies</a>
-                <a href="">Bolsa de Trabajo</a>
-                <a href="publicidad.html">Publicate</a>
-                <a href="contact.html">Contacto</a>
-            </div>
-        </div>
-    </div-->
-    <!-- Footer Menu End -->
 
     <!-- Footer Bottom Start -->
     <div class="footer-bottom">
@@ -559,6 +471,9 @@
             });
             $('#comunicados').click();
         });
+    </script>
+    <script>
+        !function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = 'https://weatherwidget.io/js/widget.min.js'; fjs.parentNode.insertBefore(js, fjs); } }(document, 'script', 'weatherwidget-io-js');
     </script>
 
 </body>
