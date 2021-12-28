@@ -531,8 +531,8 @@ button.btn:hover {
 }
 
 .cat-news .cn-img:hover img {
-    filter: blur(3px);
-    -webkit-filter: blur(3px);
+    filter: blur(0px);
+    -webkit-filter: blur(0px);
 }
 
 .cat-news .cn-title {
