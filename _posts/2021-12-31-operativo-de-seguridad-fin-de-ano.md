@@ -1,11 +1,11 @@
 ---
 layout: blog
-title: "Activa secretaría de seguridad ciudadana  operativo de seguridad  de fin de año"
+title: "Activa secretaría de seguridad ciudadana operativo de seguridad de fin de año"
 Date: 2021-12-31
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/operativo-de-seguridad-fin-de-ano.png
-alt: "Activa secretaría de seguridad ciudadana  operativo de seguridad  de fin de año "
+alt: "Activa secretaría de seguridad ciudadana operativo de seguridad de fin de año"
 autor:
 ---
 
@@ -24,7 +24,7 @@ El titular de la dependencia, puntualizó invitando a los ciudadanos a reportar 
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-       <img class="d-block w-100" src="/img/cnr/operativo-de-seguridad-fin-de-ano.png" loading="lazy"  alt="Activa secretaría de seguridad ciudadana  operativo de seguridad  de fin de año">
+       <img class="d-block w-100" src="/img/cnr/operativo-de-seguridad-fin-de-ano.png" loading="lazy"  alt="Activa secretaría de seguridad ciudadana operativo de seguridad de fin de año">
     </div>
   </div>
 </div>
