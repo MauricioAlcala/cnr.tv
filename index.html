@@ -96,7 +96,43 @@
     <!-- Top News Start-->
 
     <div class="row">
-        <div class="col-lg-10 tn-left">
+        <div class="col-lg-2 tn-left">
+            <div class="top-news">
+                <a href="tel:6616881611" class="venobox" data-gall="gallery-item">
+                    <img src="img\patrocinadores\biblias-y-guitarras.png"
+                    alt="Biblias y Guitarraas" class="img-fluid"></a>
+            </div>
+            <hr>
+            <div class="top-news">
+                <a href="tel:6616129149" class="venobox" data-gall="gallery-item">
+                    <img src="img\patrocinadores\tortilleria-el-diamante.png"
+                    alt="Tortillera el Diamante" class="img-fluid"></a>
+            </div>
+            <hr>
+            <div class="top-news">
+                <a href="tel:6642109428" class="venobox" data-gall="gallery-item">
+                    <img src="img\patrocinadores\viajes-genesis.png" alt="Viajes Genesis" class="img-fluid"></a>
+            </div>
+            <hr>
+            <div class="top-news">
+                <a href="tel:6641036582" class="venobox" data-gall="gallery-item">
+                    <img src="img\patrocinadores\visa-laser-corregido.png"
+                    alt="Visa Laser Xpress" class="img-fluid"></a>
+            </div>
+            <hr>
+            <div class="top-news">
+                <a href="https://rosaritocentro.com/" class="venobox" data-gall="gallery-item">
+                    <img src="img\patrocinadores\portada-diciembre.jpg" alt="Rosarito Centro" class="img-fluid"></a>
+            </div>
+            <hr>
+            <!-- <div class="top-news">
+                <a href="http://www.afntijuana.info" class="venobox" data-gall="gallery-item">
+                    <img src="img\patrocinadores\AFN.jpeg" alt="Agencia Fronteriza de NOTICIAS">
+                </a>
+            </div> -->
+            
+        </div>
+        <div class="col-lg-8 tn-left">
 
             <div class="top-news">
                 <div class="container">
@@ -160,86 +196,8 @@
                 </div>
             </div>
             <!-- Top News End-->
-
-
-             <!-- Category News Start-->
-        <div class="cat-news">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <h2>Lo más relevante</h2>
-                        <div class="row cn-slider">
-                            
-                            {% for post in site.categories.tijuana limit:1 %}
-                            <div class="col-md-3">
-                                <div class="cn-img">
-                                    <img src="{{ post.image }}" />
-                                    <!-- <div class="cn-title">
-                                        <a href="{{ post.url }}">{{ post.title }}</a>
-                                    </div> -->
-                                </div>
-                                <div> 
-                                    <p><a href="{{ post.url }}">{{ post.title }}  </a></p>
-                                    <p>{{ post.date |  date_to_string }} | {{ post.categories[0] }}</p>
-                                </div>
-                            </div>
-                            {% endfor %}
-
-                            
-                            {% for post in site.categories.tecate limit:1 %}
-                            <div class="col-md-3">
-                                <div class="cn-img">
-                                    <img src="{{ post.image }}" />
-                                    <!-- <div class="cn-title">
-                                        <a href="{{ post.url }}">{{ post.title }}</a>
-                                    </div> -->
-                                </div>
-                                <div> 
-                                    <p><a href="{{ post.url }}">{{ post.title }}  </a></p>
-                                    <p>{{ post.date |  date_to_string }} | {{ post.categories[0] }}</p>
-                                </div>
-                            </div>
-                            {% endfor %}
-
-                            
-                            {% for post in site.categories.rosarito limit:1 %}
-                            <div class="col-md-3">
-                                <div class="cn-img">
-                                    <img src="{{ post.image }}" />
-                                    <!-- <div class="cn-title">
-                                        <a href="{{ post.url }}">{{ post.title }}</a>
-                                    </div> -->
-                                </div>
-                                <div> 
-                                    <p><a href="{{ post.url }}">{{ post.title }}  </a></p>
-                                    <p>{{ post.date |  date_to_string }} | {{ post.categories[0] }}</p>
-                                </div>
-                            </div>
-                            {% endfor %}
-
-                            
-                            {% for post in site.categories.mexicali limit:1 %}
-                            <div class="col-md-3">
-                                <div class="cn-img">
-                                    <img src="{{ post.image }}" />
-                                    <!-- <div class="cn-title">
-                                        <a href="{{ post.url }}">{{ post.title }}</a>
-                                    </div> -->
-                                </div>
-                                <div> 
-                                    <p><a href="{{ post.url }}">{{ post.title }}  </a></p>
-                                    <p>{{ post.date | date_to_string }} | {{ post.categories[0] }}</p>
-                                </div>
-                            </div>
-                            {% endfor %}
-                            
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Category News End-->
-
+            {% include noticias.html %}
+            
             <!-- Banner Start-->
             <div class="banner">
                 <div class="container">
