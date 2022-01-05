@@ -15,7 +15,9 @@
                         </div>
                         <div>
                             <p><a href="{{ post.url }}">{{ post.title }} </a></p>
-                            <p>{{ post.date |  date_to_string }} | {{ post.categories[0] | capitalize }}</p>
+                            {% assign mes_index = post.date | date: "%-m" | minus: 1 %}
+                            {% assign mes = site.data.spanish.meses[mes_index] %}
+                            <p>{{ post.date | date: "%-d" }} de {{ mes }} de {{ post.date | date: "%Y" }} | {{ post.categories[0] | capitalize }}</p>
                         </div>
                     </div>
                     {% endfor %}
@@ -36,7 +38,9 @@
                         </div>
                         <div>
                             <p><a href="{{ post.url }}">{{ post.title }} </a></p>
-                            <p>{{ post.date | date_to_string }} | {{ post.categories[0] | capitalize }}</p>
+                            {% assign mes_index = post.date | date: "%-m" | minus: 1 %}
+                            {% assign mes = site.data.spanish.meses[mes_index] %}
+                            <p>{{ post.date | date: "%-d" }} de {{ mes }} de {{ post.date | date: "%Y" }} | {{ post.categories[0] | capitalize }}</p>
                         </div>
                     </div>
                     {% endfor %}
@@ -57,7 +61,9 @@
                         </div>
                         <div>
                             <p><a href="{{ post.url }}">{{ post.title }} </a></p>
-                            <p>{{ post.date | date_to_string }} | {{ post.categories[0] | capitalize }}</p>
+                            {% assign mes_index = post.date | date: "%-m" | minus: 1 %}
+                            {% assign mes = site.data.spanish.meses[mes_index] %}
+                            <p>{{ post.date | date: "%-d" }} de {{ mes }} de {{ post.date | date: "%Y" }} | {{ post.categories[0] | capitalize }}</p>
                         </div>
                     </div>
                     {% endfor %}
@@ -79,7 +85,9 @@
                         </div>
                         <div>
                             <p><a href="{{ post.url }}">{{ post.title }} </a></p>
-                            <p>{{ post.date | date_to_string }} | {{ post.categories[0] | capitalize}}</p>
+                            {% assign mes_index = post.date | date: "%-m" | minus: 1 %}
+                            {% assign mes = site.data.spanish.meses[mes_index] %}
+                            <p>{{ post.date | date: "%-d" }} de {{ mes }} de {{ post.date | date: "%Y" }} | {{ post.categories[0] | capitalize }}</p>
                         </div>
                     </div>
                     {% endfor %}
