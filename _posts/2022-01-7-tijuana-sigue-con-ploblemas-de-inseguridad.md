@@ -5,7 +5,7 @@ Date: 2022-01-07
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/tijuana-sigue-con-ploblemas-de-inseguridad.png
-alt: "Tijuana sigue con problemas de inseguridad
+alt: "Tijuana sigue con problemas de inseguridad"
 autor:
 ---
 
