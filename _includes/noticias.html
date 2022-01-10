@@ -8,7 +8,9 @@
                     {% for post in site.categories.tijuana limit:4 %}
                     <div class="col-md-3">
                         <div class="cn-img">
-                            <img src="{{ post.image }}" />
+                            <a href="{{ post.url }}">
+                                <img loading="lazy" src="{{ post.image }}" />
+                            </a>
                             <!-- <div class="cn-title">
                                 <a href="{{ post.url }}">{{ post.title }}</a>
                             </div> -->
@@ -31,7 +33,9 @@
                     {% for post in site.categories.tecate limit:4 %}
                     <div class="col-md-3">
                         <div class="cn-img">
-                            <img loading="lazy" src="{{ post.image }}" />
+                            <a href="{{ post.url }}">
+                                <img loading="lazy" src="{{ post.image }}" />
+                            </a>    
                             <!-- <div class="cn-title">
                                 <a href="{{ post.url }}">{{ post.title }}</a>
                             </div> -->
@@ -54,7 +58,9 @@
                     {% for post in site.categories.rosarito limit:4 %}
                     <div class="col-md-3">
                         <div class="cn-img">
-                            <img loading="lazy" src="{{ post.image }}" />
+                            <a href="{{ post.url }}">
+                                <img loading="lazy" src="{{ post.image }}" />
+                            </a>    
                             <!-- <div class="cn-title">
                                 <a href="{{ post.url }}">{{ post.title }}</a>
                             </div> -->
@@ -78,7 +84,9 @@
                     {% for post in site.categories.mexicali limit:4 %}
                     <div class="col-md-3">
                         <div class="cn-img">
-                            <img loading="lazy" src="{{ post.image }}" />
+                            <a href="{{ post.url }}">
+                                <img loading="lazy" src="{{ post.image }}" />
+                            </a>    
                             <!-- <div class="cn-title">
                                 <a href="{{ post.url }}">{{ post.title }}</a>
                             </div> -->

@@ -18,7 +18,9 @@ description: CNR Tijuana
                             {% for post in site.categories.ensenada %}
                             <article class="entry">
                                 <div class="entry-img">
-                                <img loading="lazy" src="{{ post.image }}" alt="" class="img-fluid">
+                                    <a href="{{ post.url }}">
+                                        <img loading="lazy" src="{{ post.image }}" alt="" class="img-fluid">
+                                    </a>    
                                 </div>
                                 <h2 class="entry-title">
                                 <a href="{{ post.url }}">{{ post.title }}</a>
