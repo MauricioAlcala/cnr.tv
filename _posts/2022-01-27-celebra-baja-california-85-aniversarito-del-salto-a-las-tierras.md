@@ -4,7 +4,7 @@ title: "Celebra baja california 85 aniversario del asalto  a las tierras"
 Date: 2022-01-27
 categories: mexicali
 permalink: /:categories/:title:output_ext
-image: /img/cnr/celebra-baja-california-85-aniversarito-del-salto-a-las-tierras.png
+image: /img/cnr/celebra-baja-california-85-aniversarito-del-salto-a-las-tierras.jpg
 alt: "Celebra baja california 85 aniversario del asalto  a las tierras"
 autor:
 ---
@@ -22,7 +22,7 @@ El secretario señaló que la celebración del Asalto a las Tierras, encabezado 
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-       <img class="d-block w-100" src="/img/cnr/celebra-baja-california-85-aniversarito-del-salto-a-las-tierras.png" loading="lazy"  alt="Celebra baja california 85 aniversario del asalto  a las tierras">
+       <img class="d-block w-100" src="/img/cnr/celebra-baja-california-85-aniversarito-del-salto-a-las-tierras.jpg" loading="lazy"  alt="Celebra baja california 85 aniversario del asalto  a las tierras">
     </div>
   </div>
 </div>
