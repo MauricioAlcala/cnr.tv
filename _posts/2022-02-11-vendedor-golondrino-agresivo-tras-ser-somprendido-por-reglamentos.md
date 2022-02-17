@@ -11,7 +11,7 @@ autor:
 
 **Playas de Rosarito, Baja California; 11 de Febrero 2022.** 
 
- Está tarde en el blvd Benito Juárez a la altura del restaurant Ortegas se encontraba un hombre vendiendo aviones de juguetes, por lo que al acercarse inspectores de reglamentos y solicitarle el permiso para vender se les puso agresivo el hombre solicitando el apoyo de la policía municipal. Por lo que comentaron que esta persona ya había sido amonestada anteriormente por vender sin permisos.
+ Está tarde en el Blvd. Benito Juárez a la altura del restaurant Ortegas se encontraba un hombre vendiendo aviones de juguetes, por lo que al acercarse inspectores de reglamentos y solicitarle el permiso para vender se les puso agresivo el hombre solicitando el apoyo de la policía municipal. Por lo que comentaron que esta persona ya había sido amonestada anteriormente por vender sin permisos.
 
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
