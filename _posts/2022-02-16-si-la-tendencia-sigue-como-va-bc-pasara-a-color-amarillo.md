@@ -11,7 +11,7 @@ autor:
 
 **Mexicali, Baja California; 16 de Febrero 2022.** 
 
-En el corto plazo Baja California pasará a semáforo epidemiológico amarillo y posiblemente a color verde, aseguró el secretario de Salud, Adrián Medina Amarillas…
+En el corto plazo Baja California pasará a semáforo epidemiológico amarillo y posiblemente a color verde, aseguró el Secretario de Salud, Adrián Medina Amarillas…
 
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
