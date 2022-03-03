@@ -1,0 +1,26 @@
+---
+layout: blog
+title: "Realizarán capacitación presencial de "brigadas de protección civil""
+Date: 2022-03-02
+categories: rosarito
+permalink: /:categories/:title:output_ext
+image: /img/cnr/realizan-capacitacion-general-presencial-de-brigadas-de-proteccion.png
+alt: "Realizarán capacitación presencial de "brigadas de protección civil""
+autor:
+---
+
+**Playas de Rosarito, Baja California; 2 de Marzo 2022.** 
+
+La Secretaría de Seguridad Ciudadana de Playas de Rosarito realizará este sábado 5 de marzo de 2022 el curso de capacitación "Brigadas de Protección Civil", dirigido al público en general y a jóvenes que se inscribieron mediante convocatoria previa.
+
+Mediante la Dirección de Protección Civil y Bomberos, y el Instituto Municipal de la Juventud de Rosarito (IMJUVER), el Gobierno Municipal organiza este evento, dirigido a interesados en apoyar a su comunidad, para saber cómo actuar y brindar ayuda en caso de un incendio o desastre natural, tanto en casa, como en la escuela o lugar de trabajo.
+
+Los asistentes, quienes en la actividad presencial realizarán prácticas a ras de suelo, recibirán una constancia por su participación sobre estos importantes temas de tipo social después de su instrucción.
+
+<div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+       <img class="d-block w-100" src="/img/cnr/realizan-capacitacion-general-presencial-de-brigadas-de-proteccion.png" loading="lazy"  alt="Realizarán capacitación presencial de "brigadas de protección civil"">
+    </div>
+  </div>
+</div>
