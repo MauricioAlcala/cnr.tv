@@ -23,6 +23,26 @@
                         </div>
                     </div>
                     {% endfor %}
+                    <!-- videos -->
+                    {% for video in site.data.tijuana limit:4 %}
+                    <div class="col-md-3">
+                        <div class="cn-img">
+                            <div class="video-responsive">
+                                <iframe                                        
+                                    src="{{video.url|uri_escape}}" 
+                                    frameborder="0" 
+                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                                    allowfullscreen></iframe>
+                            </div>
+                        </div>
+                        <div>
+                            <p>{{ video.titulo }}</p>
+                            {% assign mes_index = video.date | date: "%-m" | minus: 1 %}
+                            {% assign mes = site.data.spanish.meses[mes_index] %}
+                            <p>{{ video.date | date: "%-d" }} de {{ mes }} de {{ video.date | date: "%Y" }} | {{ post.categories[0] | capitalize }}</p>
+                        </div>
+                    </div>
+                    {% endfor %}
                 </div>
             </div>
         </div>
