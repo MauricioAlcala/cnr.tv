@@ -24,6 +24,8 @@
                     </div>
                     {% endfor %}
                     <!-- videos -->
+                </div>
+                <div class="row cn-slider">
                     {% for video in site.data.tijuana limit:4 %}
                     <div class="col-md-3">
                         <div class="cn-img">
@@ -94,6 +96,27 @@
                     </div>
                     {% endfor %}
                 </div>
+                <div class="row cn-slider">
+                    {% for video in site.data.rosarito limit:4 %}
+                    <div class="col-md-3">
+                        <div class="cn-img">
+                            <div class="video-responsive">
+                                <iframe                                        
+                                    src="{{video.url|uri_escape}}" 
+                                    frameborder="0" 
+                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                                    allowfullscreen></iframe>
+                            </div>
+                        </div>
+                        <div>
+                            <p>{{ video.titulo }}</p>
+                            {% assign mes_index = video.date | date: "%-m" | minus: 1 %}
+                            {% assign mes = site.data.spanish.meses[mes_index] %}
+                            <p>{{ video.date | date: "%-d" }} de {{ mes }} de {{ video.date | date: "%Y" }} | {{ post.categories[0] | capitalize }}</p>
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
             </div>
         </div>
 
@@ -116,6 +139,27 @@
                             {% assign mes_index = post.date | date: "%-m" | minus: 1 %}
                             {% assign mes = site.data.spanish.meses[mes_index] %}
                             <p>{{ post.date | date: "%-d" }} de {{ mes }} de {{ post.date | date: "%Y" }} | {{ post.categories[0] | capitalize }}</p>
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+                <div class="row cn-slider">
+                    {% for video in site.data.mexicali limit:4 %}
+                    <div class="col-md-3">
+                        <div class="cn-img">
+                            <div class="video-responsive">
+                                <iframe                                        
+                                    src="{{video.url|uri_escape}}" 
+                                    frameborder="0" 
+                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                                    allowfullscreen></iframe>
+                            </div>
+                        </div>
+                        <div>
+                            <p>{{ video.titulo }}</p>
+                            {% assign mes_index = video.date | date: "%-m" | minus: 1 %}
+                            {% assign mes = site.data.spanish.meses[mes_index] %}
+                            <p>{{ video.date | date: "%-d" }} de {{ mes }} de {{ video.date | date: "%Y" }} | {{ post.categories[0] | capitalize }}</p>
                         </div>
                     </div>
                     {% endfor %}
