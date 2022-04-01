@@ -3,17 +3,17 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h2><a href="{{ "tijuana" | relative_url }}">Tijuana</a></h2>
+                <h2><a href="{{ " tijuana" | relative_url }}">Tijuana</a></h2>
                 <div class="row cn-slider">
                     {% for post in site.categories.tijuana limit:4 %}
-                    <div class="col-md-3">
+                    <!--div class="col-md-3">
                         <div class="cn-img">
                             <a href="{{ post.url }}">
                                 <img loading="lazy" src="{{ post.image }}" />
                             </a>
-                            <!-- <div class="cn-title">
+                            <div class="cn-title">
                                 <a href="{{ post.url }}">{{ post.title }}</a>
-                            </div> -->
+                            </div>
                         </div>
                         <div>
                             <p><a href="{{ post.url }}">{{ post.title }} </a></p>
@@ -21,27 +21,26 @@
                             {% assign mes = site.data.spanish.meses[mes_index] %}
                             <p>{{ post.date | date: "%-d" }} de {{ mes }} de {{ post.date | date: "%Y" }} | {{ post.categories[0] | capitalize }}</p>
                         </div>
-                    </div>
+                    </div-->
                     {% endfor %}
-                    <!-- videos -->
                 </div>
+                <!-- videos -->
                 <div class="row cn-slider">
                     {% for video in site.data.tijuana limit:4 %}
                     <div class="col-md-3">
                         <div class="cn-img">
                             <div class="video-responsive">
-                                <iframe                                        
-                                    src="{{video.url|uri_escape}}" 
-                                    frameborder="0" 
-                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                                <iframe src="{{video.url|uri_escape}}" frameborder="0"
+                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                                     allowfullscreen></iframe>
                             </div>
                         </div>
                         <div>
                             <p>{{ video.titulo }}</p>
-                            {% assign mes_index = video.date | date: "%-m" | minus: 1 %}
+                            <!--{% assign mes_index = video.date | date: "%-m" | minus: 1 %}
                             {% assign mes = site.data.spanish.meses[mes_index] %}
-                            <p>{{ video.date | date: "%-d" }} de {{ mes }} de {{ video.date | date: "%Y" }} | {{ post.categories[0] | capitalize }}</p>
+                            <p>{{ video.date | date: "%-d" }} de {{ mes }} de {{ video.date | date: "%Y" }} | {{
+                                post.categories[0] | capitalize }}</p>-->
                         </div>
                     </div>
                     {% endfor %}
@@ -50,23 +49,44 @@
         </div>
         <div class="row">
             <div class="col-md-12">
-                <h2><a href="{{ "tecate" | relative_url }}">Tecate</a></h2>
+                <h2><a href="{{ " tecate" | relative_url }}">Tecate</a></h2>
                 <div class="row cn-slider">
                     {% for post in site.categories.tecate limit:4 %}
-                    <div class="col-md-3">
+                    <!--div class="col-md-3">
                         <div class="cn-img">
                             <a href="{{ post.url }}">
                                 <img loading="lazy" src="{{ post.image }}" />
-                            </a>    
-                            <!-- <div class="cn-title">
+                            </a>
+                            <div class="cn-title">
                                 <a href="{{ post.url }}">{{ post.title }}</a>
-                            </div> -->
+                            </div>
                         </div>
                         <div>
                             <p><a href="{{ post.url }}">{{ post.title }} </a></p>
                             {% assign mes_index = post.date | date: "%-m" | minus: 1 %}
                             {% assign mes = site.data.spanish.meses[mes_index] %}
-                            <p>{{ post.date | date: "%-d" }} de {{ mes }} de {{ post.date | date: "%Y" }} | {{ post.categories[0] | capitalize }}</p>
+                            <p>{{ post.date | date: "%-d" }} de {{ mes }} de {{ post.date | date: "%Y" }} | {{
+                                post.categories[0] | capitalize }}</p>
+                        </div>
+                    </div-->
+                    {% endfor %}
+                </div>
+                <div class="row cn-slider">
+                    {% for video in site.data.tecate limit:4 %}
+                    <div class="col-md-3">
+                        <div class="cn-img">
+                            <div class="video-responsive">
+                                <iframe src="{{video.url|uri_escape}}" frameborder="0"
+                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                    allowfullscreen></iframe>
+                            </div>
+                        </div>
+                        <div>
+                            <!--<p>{{ video.titulo }}</p>
+                            {% assign mes_index = video.date | date: "%-m" | minus: 1 %}
+                            {% assign mes = site.data.spanish.meses[mes_index] %}
+                            <p>{{ video.date | date: "%-d" }} de {{ mes }} de {{ video.date | date: "%Y" }} | {{
+                                post.categories[0] | capitalize }}</p>-->
                         </div>
                     </div>
                     {% endfor %}
@@ -75,25 +95,26 @@
         </div>
         <div class="row">
             <div class="col-md-12">
-                <h2><a href="{{ "rosarito" | relative_url }}">Rosarito</a></h2>
+                <h2><a href="{{ " rosarito" | relative_url }}">Rosarito</a></h2>
                 <div class="row cn-slider">
                     {% for post in site.categories.rosarito limit:4 %}
-                    <div class="col-md-3">
+                    <!--div class="col-md-3">
                         <div class="cn-img">
                             <a href="{{ post.url }}">
                                 <img loading="lazy" src="{{ post.image }}" />
-                            </a>    
-                            <!-- <div class="cn-title">
+                            </a>
+                            <div class="cn-title">
                                 <a href="{{ post.url }}">{{ post.title }}</a>
-                            </div> -->
+                            </div>
                         </div>
                         <div>
                             <p><a href="{{ post.url }}">{{ post.title }} </a></p>
                             {% assign mes_index = post.date | date: "%-m" | minus: 1 %}
                             {% assign mes = site.data.spanish.meses[mes_index] %}
-                            <p>{{ post.date | date: "%-d" }} de {{ mes }} de {{ post.date | date: "%Y" }} | {{ post.categories[0] | capitalize }}</p>
+                            <p>{{ post.date | date: "%-d" }} de {{ mes }} de {{ post.date | date: "%Y" }} | {{
+                                post.categories[0] | capitalize }}</p>
                         </div>
-                    </div>
+                    </div-->
                     {% endfor %}
                 </div>
                 <div class="row cn-slider">
@@ -101,46 +122,91 @@
                     <div class="col-md-3">
                         <div class="cn-img">
                             <div class="video-responsive">
-                                <iframe                                        
-                                    src="{{video.url|uri_escape}}" 
-                                    frameborder="0" 
-                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                                <iframe src="{{video.url|uri_escape}}" frameborder="0"
+                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                                     allowfullscreen></iframe>
                             </div>
                         </div>
                         <div>
                             <p>{{ video.titulo }}</p>
-                            {% assign mes_index = video.date | date: "%-m" | minus: 1 %}
+                            <!-- {% assign mes_index = video.date | date: "%-m" | minus: 1 %}
                             {% assign mes = site.data.spanish.meses[mes_index] %}
-                            <p>{{ video.date | date: "%-d" }} de {{ mes }} de {{ video.date | date: "%Y" }} | {{ post.categories[0] | capitalize }}</p>
+                            <p>{{ video.date | date: "%-d" }} de {{ mes }} de {{ video.date | date: "%Y" }} | {{
+                                post.categories[0] | capitalize }}</p>-->
                         </div>
                     </div>
                     {% endfor %}
                 </div>
             </div>
         </div>
-
         <div class="row">
             <div class="col-md-12">
-                <h2><a href="{{ "mexicali" | relative_url }}">Mexicali</a></h2>
+                <h2><a href="{{ " ensenada" | relative_url }}">Ensenada</a></h2>
                 <div class="row cn-slider">
-                    {% for post in site.categories.mexicali limit:4 %}
-                    <div class="col-md-3">
+                    {% for post in site.categories.ensenada limit:4 %}
+                    <!--div class="col-md-3">
                         <div class="cn-img">
                             <a href="{{ post.url }}">
                                 <img loading="lazy" src="{{ post.image }}" />
-                            </a>    
-                            <!-- <div class="cn-title">
+                            </a>
+                            <div class="cn-title">
                                 <a href="{{ post.url }}">{{ post.title }}</a>
-                            </div> -->
+                            </div>
                         </div>
                         <div>
                             <p><a href="{{ post.url }}">{{ post.title }} </a></p>
                             {% assign mes_index = post.date | date: "%-m" | minus: 1 %}
                             {% assign mes = site.data.spanish.meses[mes_index] %}
-                            <p>{{ post.date | date: "%-d" }} de {{ mes }} de {{ post.date | date: "%Y" }} | {{ post.categories[0] | capitalize }}</p>
+                            <p>{{ post.date | date: "%-d" }} de {{ mes }} de {{ post.date | date: "%Y" }} | {{
+                                post.categories[0] | capitalize }}</p>
+                        </div>
+                    </div-->
+                    {% endfor %}
+                </div>
+                <div class="row cn-slider">
+                    {% for video in site.data.ensenada limit:4 %}
+                    <div class="col-md-3">
+                        <div class="cn-img">
+                            <div class="video-responsive">
+                                <iframe src="{{video.url|uri_escape}}" frameborder="0"
+                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                    allowfullscreen></iframe>
+                            </div>
+                        </div>
+                        <div>
+                            <p>{{ video.titulo }}</p>
+                            <!--{% assign mes_index = video.date | date: "%-m" | minus: 1 %}
+                            {% assign mes = site.data.spanish.meses[mes_index] %}
+                            <p>{{ video.date | date: "%-d" }} de {{ mes }} de {{ video.date | date: "%Y" }} | {{
+                                post.categories[0] | capitalize }}</p> -->
                         </div>
                     </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <h2><a href="{{ " mexicali" | relative_url }}">Mexicali</a></h2>
+                <div class="row cn-slider">
+                    {% for post in site.categories.mexicali limit:4 %}
+                    <!--div class="col-md-3">
+                        <div class="cn-img">
+                            <a href="{{ post.url }}">
+                                <img loading="lazy" src="{{ post.image }}" />
+                            </a>
+                            <div class="cn-title">
+                                <a href="{{ post.url }}">{{ post.title }}</a>
+                            </div>
+                        </div>
+                        <div>
+                            <p><a href="{{ post.url }}">{{ post.title }} </a></p>
+                            {% assign mes_index = post.date | date: "%-m" | minus: 1 %}
+                            {% assign mes = site.data.spanish.meses[mes_index] %}
+                            <p>{{ post.date | date: "%-d" }} de {{ mes }} de {{ post.date | date: "%Y" }} | {{
+                                post.categories[0] | capitalize }}</p>
+                        </div>
+                    </div-->
                     {% endfor %}
                 </div>
                 <div class="row cn-slider">
@@ -148,18 +214,17 @@
                     <div class="col-md-3">
                         <div class="cn-img">
                             <div class="video-responsive">
-                                <iframe                                        
-                                    src="{{video.url|uri_escape}}" 
-                                    frameborder="0" 
-                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                                <iframe src="{{video.url|uri_escape}}" frameborder="0"
+                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                                     allowfullscreen></iframe>
                             </div>
                         </div>
                         <div>
                             <p>{{ video.titulo }}</p>
-                            {% assign mes_index = video.date | date: "%-m" | minus: 1 %}
+                            <!--{% assign mes_index = video.date | date: "%-m" | minus: 1 %}
                             {% assign mes = site.data.spanish.meses[mes_index] %}
-                            <p>{{ video.date | date: "%-d" }} de {{ mes }} de {{ video.date | date: "%Y" }} | {{ post.categories[0] | capitalize }}</p>
+                            <p>{{ video.date | date: "%-d" }} de {{ mes }} de {{ video.date | date: "%Y" }} | {{
+                                post.categories[0] | capitalize }}</p>-->
                         </div>
                     </div>
                     {% endfor %}
